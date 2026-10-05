@@ -1,0 +1,1127 @@
+{
+  "ABSLAMC": {
+    "ticker": "ABSLAMC",
+    "price": 1028.55,
+    "mcap_cr": 29763.682304,
+    "trailingPE": 29.556036,
+    "forwardPE": 23.68823,
+    "pb": 7.3497257,
+    "bookValue": 139.944,
+    "trailingEps": 34.8,
+    "forwardEps": 43.4203,
+    "roe": null,
+    "de_yahoo": 1.577,
+    "ocf": null,
+    "hi52": 1224.9,
+    "lo52": 708.0,
+    "avgVol3m": 251500,
+    "regularMarketTime": 1791194398,
+    "shortName": "ADIT BIRL SUN LIF AMC LTD",
+    "earningsTrend": [
+      {
+        "period": "0q",
+        "endDate": "2026-09-30",
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "+1q",
+        "endDate": "2026-12-31",
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "0y",
+        "endDate": "2027-03-31",
+        "growth": 0.116000004,
+        "earningsEstimateAvg": 38.07354
+      },
+      {
+        "period": "+1y",
+        "endDate": "2028-03-31",
+        "growth": 0.14039999,
+        "earningsEstimateAvg": 43.4203
+      }
+    ]
+  },
+  "ACE": {
+    "ticker": "ACE",
+    "price": 1227.5,
+    "mcap_cr": 14610.6728448,
+    "trailingPE": 33.446865,
+    "forwardPE": 26.061571,
+    "pb": 7.263829,
+    "bookValue": 168.988,
+    "trailingEps": 36.7,
+    "forwardEps": 47.1,
+    "roe": null,
+    "de_yahoo": 0.393,
+    "ocf": null,
+    "hi52": 1268.0,
+    "lo52": 745.1,
+    "avgVol3m": 491921,
+    "regularMarketTime": 1791194403,
+    "shortName": "ACTION CONST EQUIP LTD",
+    "earningsTrend": [
+      {
+        "period": "0q",
+        "endDate": null,
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "+1q",
+        "endDate": null,
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "0y",
+        "endDate": "2027-03-31",
+        "growth": 0.1557,
+        "earningsEstimateAvg": 40.3
+      },
+      {
+        "period": "+1y",
+        "endDate": "2028-03-31",
+        "growth": 0.16870001,
+        "earningsEstimateAvg": 47.1
+      }
+    ]
+  },
+  "ADANIPORTS": {
+    "ticker": "ADANIPORTS",
+    "price": 1774.0,
+    "mcap_cr": 408722.341888,
+    "trailingPE": 30.278204,
+    "forwardPE": 22.692484,
+    "pb": 4.259355,
+    "bookValue": 416.495,
+    "trailingEps": 58.59,
+    "forwardEps": 78.17567,
+    "roe": null,
+    "de_yahoo": 64.051,
+    "ocf": null,
+    "hi52": 1891.1,
+    "lo52": 1292.0,
+    "avgVol3m": 2123397,
+    "regularMarketTime": 1791193499,
+    "shortName": "ADANI PORT & SEZ LTD",
+    "earningsTrend": [
+      {
+        "period": "0q",
+        "endDate": "2026-09-30",
+        "growth": 0.15359999,
+        "earningsEstimateAvg": 16.6
+      },
+      {
+        "period": "+1q",
+        "endDate": "2026-12-31",
+        "growth": 0.3351,
+        "earningsEstimateAvg": 19.5
+      },
+      {
+        "period": "0y",
+        "endDate": "2027-03-31",
+        "growth": 0.082399994,
+        "earningsEstimateAvg": 63.90956
+      },
+      {
+        "period": "+1y",
+        "endDate": "2028-03-31",
+        "growth": 0.2232,
+        "earningsEstimateAvg": 78.17567
+      }
+    ]
+  },
+  "AEGISLOG": {
+    "ticker": "AEGISLOG",
+    "price": 1359.5,
+    "mcap_cr": 47718.449152,
+    "trailingPE": 38.13464,
+    "forwardPE": 32.328022,
+    "pb": 7.880794,
+    "bookValue": 172.508,
+    "trailingEps": 35.65,
+    "forwardEps": 42.0533,
+    "roe": null,
+    "de_yahoo": 47.243,
+    "ocf": null,
+    "hi52": 1528.7,
+    "lo52": 576.1,
+    "avgVol3m": 1308730,
+    "regularMarketTime": 1791194403,
+    "shortName": "AEGIS LOGISTICS LIMITED",
+    "earningsTrend": [
+      {
+        "period": "0q",
+        "endDate": "2026-09-30",
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "+1q",
+        "endDate": "2026-12-31",
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "0y",
+        "endDate": "2027-03-31",
+        "growth": 0.59580004,
+        "earningsEstimateAvg": 40.8371
+      },
+      {
+        "period": "+1y",
+        "endDate": "2028-03-31",
+        "growth": 0.0298,
+        "earningsEstimateAvg": 42.0533
+      }
+    ]
+  },
+  "CASTROLIND": {
+    "ticker": "CASTROLIND",
+    "price": 199.51,
+    "mcap_cr": 19733.979136,
+    "trailingPE": 18.593662,
+    "forwardPE": 16.880503,
+    "pb": 10.353398,
+    "bookValue": 19.27,
+    "trailingEps": 10.73,
+    "forwardEps": 11.81896,
+    "roe": 0.56996,
+    "de_yahoo": 2.784,
+    "ocf": 9854600192,
+    "hi52": 207.2,
+    "lo52": 170.1,
+    "avgVol3m": 2673255,
+    "regularMarketTime": 1791194398,
+    "shortName": "CASTROL INDIA LIMITED",
+    "earningsTrend": [
+      {
+        "period": "0q",
+        "endDate": "2026-09-30",
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "+1q",
+        "endDate": "2026-12-31",
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "0y",
+        "endDate": "2026-12-31",
+        "growth": 0.0829,
+        "earningsEstimateAvg": 10.57875
+      },
+      {
+        "period": "+1y",
+        "endDate": "2027-12-31",
+        "growth": 0.1172,
+        "earningsEstimateAvg": 11.81896
+      }
+    ]
+  },
+  "CHENNPETRO": {
+    "ticker": "CHENNPETRO",
+    "price": 1401.0,
+    "mcap_cr": 20862.4861184,
+    "trailingPE": 4.9982166,
+    "forwardPE": 3.4937656,
+    "pb": 1.8780035,
+    "bookValue": 746.005,
+    "trailingEps": 280.3,
+    "forwardEps": 401.0,
+    "roe": null,
+    "de_yahoo": 17.68,
+    "ocf": null,
+    "hi52": 1677.5,
+    "lo52": 716.8,
+    "avgVol3m": 2205098,
+    "regularMarketTime": 1791194399,
+    "shortName": "CHENNAI PETROLEUM CORP LT",
+    "earningsTrend": [
+      {
+        "period": "0q",
+        "endDate": null,
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "+1q",
+        "endDate": null,
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "0y",
+        "endDate": "2027-03-31",
+        "growth": null,
+        "earningsEstimateAvg": 313.0
+      },
+      {
+        "period": "+1y",
+        "endDate": "2028-03-31",
+        "growth": 0.28120002,
+        "earningsEstimateAvg": 401.0
+      }
+    ]
+  },
+  "COFORGE": {
+    "ticker": "COFORGE",
+    "price": 1852.0,
+    "mcap_cr": 82050.7508736,
+    "trailingPE": 37.9275,
+    "forwardPE": 25.904682,
+    "pb": 6.521976,
+    "bookValue": 283.963,
+    "trailingEps": 48.83,
+    "forwardEps": 71.49287,
+    "roe": null,
+    "de_yahoo": 7.518,
+    "ocf": null,
+    "hi52": 2021.2,
+    "lo52": 1008.1,
+    "avgVol3m": 2715686,
+    "regularMarketTime": 1791193505,
+    "shortName": "COFORGE LIMITED",
+    "earningsTrend": [
+      {
+        "period": "0q",
+        "endDate": "2026-09-30",
+        "growth": 0.36290002,
+        "earningsEstimateAvg": 15.0869
+      },
+      {
+        "period": "+1q",
+        "endDate": "2026-12-31",
+        "growth": 0.45490003,
+        "earningsEstimateAvg": 15.81605
+      },
+      {
+        "period": "0y",
+        "endDate": "2027-03-31",
+        "growth": 0.2056,
+        "earningsEstimateAvg": 58.816
+      },
+      {
+        "period": "+1y",
+        "endDate": "2028-03-31",
+        "growth": 0.2155,
+        "earningsEstimateAvg": 71.49287
+      }
+    ]
+  },
+  "CUB": {
+    "ticker": "CUB",
+    "price": 227.65,
+    "mcap_cr": 22555.271168,
+    "trailingPE": 16.12252,
+    "forwardPE": 11.761369,
+    "pb": 2.1348124,
+    "bookValue": 106.637,
+    "trailingEps": 14.12,
+    "forwardEps": 19.35574,
+    "roe": null,
+    "de_yahoo": null,
+    "ocf": null,
+    "hi52": 248.85,
+    "lo52": 158.6925,
+    "avgVol3m": 3057815,
+    "regularMarketTime": 1791194393,
+    "shortName": "CITY UNION BANK LTD",
+    "earningsTrend": [
+      {
+        "period": "0q",
+        "endDate": "2026-09-30",
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "+1q",
+        "endDate": "2026-12-31",
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "0y",
+        "endDate": "2027-03-31",
+        "growth": 0.2359,
+        "earningsEstimateAvg": 16.52652
+      },
+      {
+        "period": "+1y",
+        "endDate": "2028-03-31",
+        "growth": 0.1712,
+        "earningsEstimateAvg": 19.35574
+      }
+    ]
+  },
+  "DIVISLAB": {
+    "ticker": "DIVISLAB",
+    "price": 9196.0,
+    "mcap_cr": 244124.9030144,
+    "trailingPE": 83.440704,
+    "forwardPE": 60.902584,
+    "pb": 14.565059,
+    "bookValue": 631.374,
+    "trailingEps": 110.21,
+    "forwardEps": 150.99524,
+    "roe": null,
+    "de_yahoo": 0.042,
+    "ocf": null,
+    "hi52": 9740.0,
+    "lo52": 5647.5,
+    "avgVol3m": 504172,
+    "regularMarketTime": 1791193503,
+    "shortName": "DIVI S LABORATORIES LTD",
+    "earningsTrend": [
+      {
+        "period": "0q",
+        "endDate": "2026-09-30",
+        "growth": 0.187,
+        "earningsEstimateAvg": 30.8275
+      },
+      {
+        "period": "+1q",
+        "endDate": "2026-12-31",
+        "growth": 0.105,
+        "earningsEstimateAvg": 26.5925
+      },
+      {
+        "period": "0y",
+        "endDate": "2027-03-31",
+        "growth": 0.2484,
+        "earningsEstimateAvg": 123.41665
+      },
+      {
+        "period": "+1y",
+        "endDate": "2028-03-31",
+        "growth": 0.2235,
+        "earningsEstimateAvg": 150.99524
+      }
+    ]
+  },
+  "EMCURE": {
+    "ticker": "EMCURE",
+    "price": 1937.1,
+    "mcap_cr": 36748.8466944,
+    "trailingPE": 36.30928,
+    "forwardPE": 24.92384,
+    "pb": 7.418315,
+    "bookValue": 261.124,
+    "trailingEps": 53.35,
+    "forwardEps": 77.72077,
+    "roe": null,
+    "de_yahoo": 30.567,
+    "ocf": null,
+    "hi52": 2100.7,
+    "lo52": 1306.5,
+    "avgVol3m": 163332,
+    "regularMarketTime": 1791194402,
+    "shortName": "EMCURE PHARMACEUTICALS L",
+    "earningsTrend": [
+      {
+        "period": "0q",
+        "endDate": "2026-09-30",
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "+1q",
+        "endDate": "2026-12-31",
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "0y",
+        "endDate": "2027-03-31",
+        "growth": 0.2086,
+        "earningsEstimateAvg": 63.1985
+      },
+      {
+        "period": "+1y",
+        "endDate": "2028-03-31",
+        "growth": 0.2298,
+        "earningsEstimateAvg": 76.86676
+      }
+    ]
+  },
+  "ENGINERSIN": {
+    "ticker": "ENGINERSIN",
+    "price": 307.85,
+    "mcap_cr": 17302.4739328,
+    "trailingPE": 22.068102,
+    "forwardPE": 21.833334,
+    "pb": 5.5145545,
+    "bookValue": 55.825,
+    "trailingEps": 13.95,
+    "forwardEps": 14.1,
+    "roe": null,
+    "de_yahoo": 0.534,
+    "ocf": null,
+    "hi52": 321.4,
+    "lo52": 163.55,
+    "avgVol3m": 4507803,
+    "regularMarketTime": 1791194402,
+    "shortName": "ENGINEERS INDIA LTD",
+    "earningsTrend": [
+      {
+        "period": "0q",
+        "endDate": null,
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "+1q",
+        "endDate": null,
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "0y",
+        "endDate": "2027-03-31",
+        "growth": -0.0508,
+        "earningsEstimateAvg": 11.675
+      },
+      {
+        "period": "+1y",
+        "endDate": "2028-03-31",
+        "growth": 0.2077,
+        "earningsEstimateAvg": 14.1
+      }
+    ]
+  },
+  "FINCABLES": {
+    "ticker": "FINCABLES",
+    "price": 1467.3,
+    "mcap_cr": 22440.7912448,
+    "trailingPE": 28.050087,
+    "forwardPE": 20.182945,
+    "pb": 3.688472,
+    "bookValue": 397.807,
+    "trailingEps": 52.31,
+    "forwardEps": 72.7,
+    "roe": null,
+    "de_yahoo": 0.314,
+    "ocf": null,
+    "hi52": 1498.0,
+    "lo52": 700.8,
+    "avgVol3m": 1167601,
+    "regularMarketTime": 1791194401,
+    "shortName": "FINOLEX CABLES LTD",
+    "earningsTrend": [
+      {
+        "period": "0q",
+        "endDate": "2026-09-30",
+        "growth": 0.3339,
+        "earningsEstimateAvg": 16.3
+      },
+      {
+        "period": "+1q",
+        "endDate": "2026-12-31",
+        "growth": 0.3161,
+        "earningsEstimateAvg": 11.7
+      },
+      {
+        "period": "0y",
+        "endDate": "2027-03-31",
+        "growth": 0.3028,
+        "earningsEstimateAvg": 60.8
+      },
+      {
+        "period": "+1y",
+        "endDate": "2028-03-31",
+        "growth": 0.19569999,
+        "earningsEstimateAvg": 72.7
+      }
+    ]
+  },
+  "GESHIP": {
+    "ticker": "GESHIP",
+    "price": 1559.3,
+    "mcap_cr": 21949.3466112,
+    "trailingPE": 5.953572,
+    "forwardPE": 7.7348795,
+    "pb": 1.3124062,
+    "bookValue": 1188.123,
+    "trailingEps": 261.91,
+    "forwardEps": 201.59332,
+    "roe": null,
+    "de_yahoo": 6.409,
+    "ocf": null,
+    "hi52": 1798.0,
+    "lo52": 1002.55,
+    "avgVol3m": 912227,
+    "regularMarketTime": 1791194401,
+    "shortName": "THE GE SHPG.LTD",
+    "earningsTrend": [
+      {
+        "period": "0q",
+        "endDate": null,
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "+1q",
+        "endDate": "2026-12-31",
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "0y",
+        "endDate": "2027-03-31",
+        "growth": 0.32939997,
+        "earningsEstimateAvg": 273.45
+      },
+      {
+        "period": "+1y",
+        "endDate": "2028-03-31",
+        "growth": -0.2628,
+        "earningsEstimateAvg": 201.59332
+      }
+    ]
+  },
+  "HDFCBANK": {
+    "ticker": "HDFCBANK",
+    "price": 704.8,
+    "mcap_cr": 1086694.2541824,
+    "trailingPE": 15.405464,
+    "forwardPE": 11.252847,
+    "pb": 1.7896819,
+    "bookValue": 393.813,
+    "trailingEps": 45.75,
+    "forwardEps": 62.63304,
+    "roe": 0.13838,
+    "de_yahoo": null,
+    "ocf": null,
+    "hi52": 1020.5,
+    "lo52": 681.9,
+    "avgVol3m": 30322022,
+    "regularMarketTime": 1791193500,
+    "shortName": "HDFC BANK LTD",
+    "earningsTrend": [
+      {
+        "period": "0q",
+        "endDate": "2026-09-30",
+        "growth": 0.0124,
+        "earningsEstimateAvg": 12.24
+      },
+      {
+        "period": "+1q",
+        "endDate": "2026-12-31",
+        "growth": 0.0691,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "0y",
+        "endDate": "2027-03-31",
+        "growth": 0.0809,
+        "earningsEstimateAvg": 53.26575
+      },
+      {
+        "period": "+1y",
+        "endDate": "2028-03-31",
+        "growth": 0.1759,
+        "earningsEstimateAvg": 62.63304
+      }
+    ]
+  },
+  "IPCALAB": {
+    "ticker": "IPCALAB",
+    "price": 1951.3,
+    "mcap_cr": 49505.3078528,
+    "trailingPE": 37.79392,
+    "forwardPE": 27.716404,
+    "pb": 6.139195,
+    "bookValue": 317.843,
+    "trailingEps": 51.63,
+    "forwardEps": 70.40235,
+    "roe": null,
+    "de_yahoo": 8.492,
+    "ocf": null,
+    "hi52": 2038.0,
+    "lo52": 1251.6,
+    "avgVol3m": 390806,
+    "regularMarketTime": 1791194400,
+    "shortName": "IPCA LABORATORIES LTD",
+    "earningsTrend": [
+      {
+        "period": "0q",
+        "endDate": "2026-09-30",
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "+1q",
+        "endDate": "2026-12-31",
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "0y",
+        "endDate": "2027-03-31",
+        "growth": 0.2779,
+        "earningsEstimateAvg": 59.9825
+      },
+      {
+        "period": "+1y",
+        "endDate": "2028-03-31",
+        "growth": 0.1737,
+        "earningsEstimateAvg": 70.40235
+      }
+    ]
+  },
+  "KOTAKBANK": {
+    "ticker": "KOTAKBANK",
+    "price": 416.0,
+    "mcap_cr": 413831.8692352,
+    "trailingPE": 20.392157,
+    "forwardPE": 17.709309,
+    "pb": 2.2831926,
+    "bookValue": 182.201,
+    "trailingEps": 20.4,
+    "forwardEps": 23.49047,
+    "roe": null,
+    "de_yahoo": null,
+    "ocf": null,
+    "hi52": 453.2,
+    "lo52": 345.5,
+    "avgVol3m": 14943140,
+    "regularMarketTime": 1791193505,
+    "shortName": "KOTAK MAHINDRA BANK LTD",
+    "earningsTrend": [
+      {
+        "period": "0q",
+        "endDate": "2026-09-30",
+        "growth": -0.1455,
+        "earningsEstimateAvg": 3.84
+      },
+      {
+        "period": "+1q",
+        "endDate": "2026-12-31",
+        "growth": -0.16770001,
+        "earningsEstimateAvg": 4.12
+      },
+      {
+        "period": "0y",
+        "endDate": "2027-03-31",
+        "growth": 0.0725,
+        "earningsEstimateAvg": 20.50292
+      },
+      {
+        "period": "+1y",
+        "endDate": "2028-03-31",
+        "growth": 0.1457,
+        "earningsEstimateAvg": 23.49047
+      }
+    ]
+  },
+  "KPIL": {
+    "ticker": "KPIL",
+    "price": 1378.8,
+    "mcap_cr": 23546.1197824,
+    "trailingPE": 20.718256,
+    "forwardPE": 15.021702,
+    "pb": 3.0278344,
+    "bookValue": 455.375,
+    "trailingEps": 66.55,
+    "forwardEps": 91.78721,
+    "roe": null,
+    "de_yahoo": 45.814,
+    "ocf": null,
+    "hi52": 1479.6,
+    "lo52": 1007.1,
+    "avgVol3m": 205450,
+    "regularMarketTime": 1791194398,
+    "shortName": "KALPATARU PROJECT INT LTD",
+    "earningsTrend": [
+      {
+        "period": "0q",
+        "endDate": "2026-09-30",
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "+1q",
+        "endDate": "2026-12-31",
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "0y",
+        "endDate": "2027-03-31",
+        "growth": 0.1531,
+        "earningsEstimateAvg": 73.66789
+      },
+      {
+        "period": "+1y",
+        "endDate": "2028-03-31",
+        "growth": 0.246,
+        "earningsEstimateAvg": 91.78721
+      }
+    ]
+  },
+  "MCX": {
+    "ticker": "MCX",
+    "price": 3181.7,
+    "mcap_cr": null,
+    "trailingPE": 66.451546,
+    "forwardPE": 39.307682,
+    "pb": 19.24326,
+    "bookValue": 165.341,
+    "trailingEps": 47.88,
+    "forwardEps": 80.94347,
+    "roe": null,
+    "de_yahoo": 0.113,
+    "ocf": null,
+    "hi52": 3481.4,
+    "lo52": 1626.0,
+    "avgVol3m": 2317617,
+    "regularMarketTime": 1791193500,
+    "shortName": "MULTI COMMODITY EXCHANGE",
+    "earningsTrend": [
+      {
+        "period": "0q",
+        "endDate": null,
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "+1q",
+        "endDate": "2026-12-31",
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "0y",
+        "endDate": "2027-03-31",
+        "growth": 0.2976,
+        "earningsEstimateAvg": 67.76196
+      },
+      {
+        "period": "+1y",
+        "endDate": "2028-03-31",
+        "growth": 0.19450001,
+        "earningsEstimateAvg": 80.94347
+      }
+    ]
+  },
+  "PETRONET": {
+    "ticker": "PETRONET",
+    "price": 290.0,
+    "mcap_cr": 43500.0049664,
+    "trailingPE": 10.334996,
+    "forwardPE": 10.202746,
+    "pb": 1.9516267,
+    "bookValue": 148.594,
+    "trailingEps": 28.06,
+    "forwardEps": 28.42372,
+    "roe": null,
+    "de_yahoo": 10.507,
+    "ocf": null,
+    "hi52": 326.4,
+    "lo52": 235.35,
+    "avgVol3m": 1876097,
+    "regularMarketTime": 1791193499,
+    "shortName": "PETRONET LNG LIMITED",
+    "earningsTrend": [
+      {
+        "period": "0q",
+        "endDate": "2026-09-30",
+        "growth": -0.1877,
+        "earningsEstimateAvg": 4.5
+      },
+      {
+        "period": "+1q",
+        "endDate": "2026-12-31",
+        "growth": 0.1034,
+        "earningsEstimateAvg": 6.4
+      },
+      {
+        "period": "0y",
+        "endDate": "2027-03-31",
+        "growth": 0.022,
+        "earningsEstimateAvg": 26.6531
+      },
+      {
+        "period": "+1y",
+        "endDate": "2028-03-31",
+        "growth": 0.0664,
+        "earningsEstimateAvg": 28.42372
+      }
+    ]
+  },
+  "REDINGTON": {
+    "ticker": "REDINGTON",
+    "price": 412.75,
+    "mcap_cr": 32267.7374976,
+    "trailingPE": 18.96829,
+    "forwardPE": 13.497384,
+    "pb": 3.1757329,
+    "bookValue": 129.97,
+    "trailingEps": 21.76,
+    "forwardEps": 30.58,
+    "roe": null,
+    "de_yahoo": 27.26,
+    "ocf": null,
+    "hi52": 419.5,
+    "lo52": 191.31,
+    "avgVol3m": 6974654,
+    "regularMarketTime": 1791194397,
+    "shortName": "REDINGTON LIMITED",
+    "earningsTrend": [
+      {
+        "period": "0q",
+        "endDate": null,
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "+1q",
+        "endDate": "2026-12-31",
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "0y",
+        "endDate": "2027-03-31",
+        "growth": 0.2925,
+        "earningsEstimateAvg": 26.54
+      },
+      {
+        "period": "+1y",
+        "endDate": "2028-03-31",
+        "growth": 0.1522,
+        "earningsEstimateAvg": 30.58
+      }
+    ]
+  },
+  "RELIANCE": {
+    "ticker": "RELIANCE",
+    "price": 1186.4,
+    "mcap_cr": null,
+    "trailingPE": 21.48497,
+    "forwardPE": 16.614756,
+    "pb": 1.7759284,
+    "bookValue": 668.045,
+    "trailingEps": 55.22,
+    "forwardEps": 71.40641,
+    "roe": null,
+    "de_yahoo": 46.278,
+    "ocf": null,
+    "hi52": 1611.8,
+    "lo52": 1160.8,
+    "avgVol3m": 11836680,
+    "regularMarketTime": 1791193505,
+    "shortName": "RELIANCE INDUSTRIES LTD",
+    "earningsTrend": [
+      {
+        "period": "0q",
+        "endDate": "2026-09-30",
+        "growth": 0.21270001,
+        "earningsEstimateAvg": 16.275
+      },
+      {
+        "period": "+1q",
+        "endDate": "2026-12-31",
+        "growth": 0.2692,
+        "earningsEstimateAvg": 17.49
+      },
+      {
+        "period": "0y",
+        "endDate": "2027-03-31",
+        "growth": 0.0714,
+        "earningsEstimateAvg": 63.95286
+      },
+      {
+        "period": "+1y",
+        "endDate": "2028-03-31",
+        "growth": 0.1165,
+        "earningsEstimateAvg": 71.40641
+      }
+    ]
+  },
+  "SCI": {
+    "ticker": "SCI",
+    "price": 290.6,
+    "mcap_cr": 13536.1191936,
+    "trailingPE": 8.364997,
+    "forwardPE": 88.06061,
+    "pb": 1.4874341,
+    "bookValue": 195.37,
+    "trailingEps": 34.74,
+    "forwardEps": 3.3,
+    "roe": null,
+    "de_yahoo": 29.454,
+    "ocf": null,
+    "hi52": 368.75,
+    "lo52": 195.55,
+    "avgVol3m": 2265603,
+    "regularMarketTime": 1791194399,
+    "shortName": "SHIPPING CORP OF INDIA LT",
+    "earningsTrend": [
+      {
+        "period": "0q",
+        "endDate": null,
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "+1q",
+        "endDate": null,
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "0y",
+        "endDate": "2024-03-31",
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "+1y",
+        "endDate": null,
+        "growth": null,
+        "earningsEstimateAvg": null
+      }
+    ]
+  },
+  "TCS": {
+    "ticker": "TCS",
+    "price": 2114.4,
+    "mcap_cr": null,
+    "trailingPE": 15.35958,
+    "forwardPE": 13.055144,
+    "pb": 6.977895,
+    "bookValue": 303.014,
+    "trailingEps": 137.66,
+    "forwardEps": 161.95914,
+    "roe": 0.47743,
+    "de_yahoo": 10.211,
+    "ocf": 523459985408,
+    "hi52": 3350.0,
+    "lo52": 1976.8,
+    "avgVol3m": 3591272,
+    "regularMarketTime": 1791193500,
+    "shortName": "TATA CONSULTANCY SERV LT",
+    "earningsTrend": [
+      {
+        "period": "0q",
+        "endDate": "2026-09-30",
+        "growth": 0.068,
+        "earningsEstimateAvg": 38.1694
+      },
+      {
+        "period": "+1q",
+        "endDate": "2026-12-31",
+        "growth": 0.0592,
+        "earningsEstimateAvg": 38.7502
+      },
+      {
+        "period": "0y",
+        "endDate": "2027-03-31",
+        "growth": 0.061100002,
+        "earningsEstimateAvg": 154.34308
+      },
+      {
+        "period": "+1y",
+        "endDate": "2028-03-31",
+        "growth": 0.0494,
+        "earningsEstimateAvg": 161.97491
+      }
+    ]
+  },
+  "USHAMART": {
+    "ticker": "USHAMART",
+    "price": 510.5,
+    "mcap_cr": 15539.634176,
+    "trailingPE": 29.23826,
+    "forwardPE": 22.414928,
+    "pb": 4.711496,
+    "bookValue": 108.352,
+    "trailingEps": 17.46,
+    "forwardEps": 22.775,
+    "roe": null,
+    "de_yahoo": 6.922,
+    "ocf": null,
+    "hi52": 542.6,
+    "lo52": 380.0,
+    "avgVol3m": 737469,
+    "regularMarketTime": 1791194400,
+    "shortName": "USHA MARTIN LTD.",
+    "earningsTrend": [
+      {
+        "period": "0q",
+        "endDate": null,
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "+1q",
+        "endDate": null,
+        "growth": null,
+        "earningsEstimateAvg": null
+      },
+      {
+        "period": "0y",
+        "endDate": "2027-03-31",
+        "growth": 0.26950002,
+        "earningsEstimateAvg": 19.95
+      },
+      {
+        "period": "+1y",
+        "endDate": "2028-03-31",
+        "growth": 0.1416,
+        "earningsEstimateAvg": 22.775
+      }
+    ]
+  },
+  "WELCORP": {
+    "ticker": "WELCORP",
+    "price": 2497.5,
+    "mcap_cr": 65860.0558592,
+    "trailingPE": 28.533075,
+    "forwardPE": 22.69655,
+    "pb": 7.19581,
+    "bookValue": 347.077,
+    "trailingEps": 87.53,
+    "forwardEps": 110.03875,
+    "roe": null,
+    "de_yahoo": 25.042,
+    "ocf": null,
+    "hi52": 2900.0,
+    "lo52": 710.0,
+    "avgVol3m": 2073895,
+    "regularMarketTime": 1791194399,
+    "shortName": "WELSPUN CORP LIMITED",
+    "earningsTrend": [
+      {
+        "period": "0q",
+        "endDate": "2026-09-30",
+        "growth": 0.1691,
+        "earningsEstimateAvg": 19.5
+      },
+      {
+        "period": "+1q",
+        "endDate": "2026-12-31",
+        "growth": null,
+        "earningsEstimateAvg": 21.7
+      },
+      {
+        "period": "0y",
+        "endDate": "2027-03-31",
+        "growth": 0.3872,
+        "earningsEstimateAvg": 84.895
+      },
+      {
+        "period": "+1y",
+        "endDate": "2028-03-31",
+        "growth": 0.2962,
+        "earningsEstimateAvg": 110.03875
+      }
+    ]
+  }
+}
