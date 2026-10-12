@@ -1,0 +1,4954 @@
+{
+ "ACE": {
+  "price": 1184.8,
+  "price_time": "2026-10-12",
+  "mcap_cr": 14102.4247808,
+  "trailingPE": 32.28338,
+  "forwardPE": 25.154991,
+  "pb": 7.011149,
+  "bookValue": 168.988,
+  "trailingEps": 36.7,
+  "forwardEps": 47.1,
+  "hi52": 1268.0,
+  "lo52": 745.1,
+  "dma50_yahoo": 1159.186,
+  "dma200_yahoo": 966.5557,
+  "roe_yahoo": null,
+  "de_yahoo": 0.393,
+  "ocf_yahoo": null,
+  "ev_ebitda": 25.314,
+  "target_mean": 1320.0,
+  "target_median": 1320.0,
+  "target_high": 1320.0,
+  "target_low": 1320.0,
+  "n_analysts": 1,
+  "recommendationKey": "strong_buy",
+  "recommendationMean": 1.0,
+  "recommendationTrend": [
+   {
+    "period": "0m",
+    "strongBuy": 0,
+    "buy": 1,
+    "hold": 0,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-1m",
+    "strongBuy": 1,
+    "buy": 1,
+    "hold": 0,
+    "sell": 0,
+    "strongSell": 0
+   }
+  ],
+  "earningsTrend": [
+   {
+    "period": "0q",
+    "endDate": null,
+    "eps_avg": null,
+    "eps_n_analysts": null,
+    "rev_avg": 0,
+    "epsTrend": {
+     "current": null,
+     "7daysAgo": null,
+     "30daysAgo": null,
+     "60daysAgo": null,
+     "90daysAgo": null
+    },
+    "epsRevisions": {
+     "upLast7days": null,
+     "upLast30days": null,
+     "downLast30days": null,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1q",
+    "endDate": null,
+    "eps_avg": null,
+    "eps_n_analysts": null,
+    "rev_avg": 0,
+    "epsTrend": {
+     "current": null,
+     "7daysAgo": null,
+     "30daysAgo": null,
+     "60daysAgo": null,
+     "90daysAgo": null
+    },
+    "epsRevisions": {
+     "upLast7days": null,
+     "upLast30days": null,
+     "downLast30days": null,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "eps_avg": 40.3,
+    "eps_n_analysts": 1,
+    "rev_avg": 37705000000,
+    "epsTrend": {
+     "current": 40.3,
+     "7daysAgo": 40.3,
+     "30daysAgo": 40.3,
+     "60daysAgo": 40.3,
+     "90daysAgo": 38.7
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "eps_avg": 47.1,
+    "eps_n_analysts": 1,
+    "rev_avg": 43158000000,
+    "epsTrend": {
+     "current": 47.1,
+     "7daysAgo": 45.4,
+     "30daysAgo": 45.4,
+     "60daysAgo": 45.4,
+     "90daysAgo": 0.0
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   }
+  ],
+  "eps_revision_check": [
+   {
+    "period": "0q",
+    "endDate": null,
+    "current": null,
+    "90daysAgo": null,
+    "chg_pct": null,
+    "up30": null,
+    "down30": null,
+    "down90": null
+   },
+   {
+    "period": "+1q",
+    "endDate": null,
+    "current": null,
+    "90daysAgo": null,
+    "chg_pct": null,
+    "up30": null,
+    "down30": null,
+    "down90": null
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "current": 40.3,
+    "90daysAgo": 38.7,
+    "chg_pct": 4.134,
+    "up30": 1,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "current": 47.1,
+    "90daysAgo": 0.0,
+    "chg_pct": null,
+    "up30": 1,
+    "down30": 0,
+    "down90": null
+   }
+  ],
+  "net_downward_fy_eps_revision_90d": false,
+  "earnings_dates": []
+ },
+ "ADANIPORTS": {
+  "price": 1773.5,
+  "price_time": "2026-10-12",
+  "mcap_cr": 408607.1296,
+  "trailingPE": 30.26967,
+  "forwardPE": 22.674484,
+  "pb": 4.2581544,
+  "bookValue": 416.495,
+  "trailingEps": 58.59,
+  "forwardEps": 78.21567,
+  "hi52": 1891.1,
+  "lo52": 1292.0,
+  "dma50_yahoo": 1723.796,
+  "dma200_yahoo": 1637.239,
+  "roe_yahoo": null,
+  "de_yahoo": 64.051,
+  "ocf_yahoo": null,
+  "ev_ebitda": 19.433,
+  "target_mean": 2047.0834,
+  "target_median": 2060.0,
+  "target_high": 2200.0,
+  "target_low": 1766.0,
+  "n_analysts": 24,
+  "recommendationKey": "strong_buy",
+  "recommendationMean": 1.33333,
+  "recommendationTrend": [
+   {
+    "period": "0m",
+    "strongBuy": 6,
+    "buy": 17,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-1m",
+    "strongBuy": 5,
+    "buy": 18,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-2m",
+    "strongBuy": 6,
+    "buy": 17,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-3m",
+    "strongBuy": 6,
+    "buy": 18,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   }
+  ],
+  "earningsTrend": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "eps_avg": 16.522,
+    "eps_n_analysts": 5,
+    "rev_avg": 109405090910,
+    "epsTrend": {
+     "current": 16.522,
+     "7daysAgo": 16.6,
+     "30daysAgo": 16.6,
+     "60daysAgo": 16.6,
+     "90daysAgo": 16.8
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 0,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "eps_avg": 19.1,
+    "eps_n_analysts": 2,
+    "rev_avg": 116069500000,
+    "epsTrend": {
+     "current": 19.1,
+     "7daysAgo": 19.5,
+     "30daysAgo": 19.5,
+     "60daysAgo": 19.5,
+     "90daysAgo": 18.9
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 0,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "eps_avg": 63.88992,
+    "eps_n_analysts": 19,
+    "rev_avg": 448525167860,
+    "epsTrend": {
+     "current": 63.88992,
+     "7daysAgo": 63.91289,
+     "30daysAgo": 63.91289,
+     "60daysAgo": 63.86747,
+     "90daysAgo": 64.95496
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 1,
+     "downLast30days": 1,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "eps_avg": 78.18914,
+    "eps_n_analysts": 20,
+    "rev_avg": 519610709460,
+    "epsTrend": {
+     "current": 78.18914,
+     "7daysAgo": 78.17059,
+     "30daysAgo": 78.16959,
+     "60daysAgo": 78.15906,
+     "90daysAgo": 77.43731
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   }
+  ],
+  "eps_revision_check": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "current": 16.522,
+    "90daysAgo": 16.8,
+    "chg_pct": -1.655,
+    "up30": 0,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "current": 19.1,
+    "90daysAgo": 18.9,
+    "chg_pct": 1.058,
+    "up30": 0,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "current": 63.88992,
+    "90daysAgo": 64.95496,
+    "chg_pct": -1.64,
+    "up30": 1,
+    "down30": 1,
+    "down90": null
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "current": 78.18914,
+    "90daysAgo": 77.43731,
+    "chg_pct": 0.971,
+    "up30": 1,
+    "down30": 0,
+    "down90": null
+   }
+  ],
+  "net_downward_fy_eps_revision_90d": true,
+  "earnings_dates": [
+   "2026-10-28"
+  ]
+ },
+ "AUROPHARMA": {
+  "price": 1703.9,
+  "price_time": "2026-10-12",
+  "mcap_cr": 98038.644736,
+  "trailingPE": 26.623438,
+  "forwardPE": 18.256659,
+  "pb": 2.6117773,
+  "bookValue": 652.391,
+  "trailingEps": 64.0,
+  "forwardEps": 93.33033,
+  "hi52": 1740.0,
+  "lo52": 1080.1,
+  "dma50_yahoo": 1660.654,
+  "dma200_yahoo": 1437.602,
+  "roe_yahoo": null,
+  "de_yahoo": 21.31,
+  "ocf_yahoo": null,
+  "ev_ebitda": 13.249,
+  "target_mean": 1731.2222,
+  "target_median": 1800.0,
+  "target_high": 2000.0,
+  "target_low": 1270.0,
+  "n_analysts": 27,
+  "recommendationKey": "buy",
+  "recommendationMean": 2.07407,
+  "recommendationTrend": [
+   {
+    "period": "0m",
+    "strongBuy": 5,
+    "buy": 13,
+    "hold": 5,
+    "sell": 2,
+    "strongSell": 2
+   },
+   {
+    "period": "-1m",
+    "strongBuy": 5,
+    "buy": 13,
+    "hold": 5,
+    "sell": 2,
+    "strongSell": 2
+   },
+   {
+    "period": "-2m",
+    "strongBuy": 5,
+    "buy": 13,
+    "hold": 5,
+    "sell": 2,
+    "strongSell": 2
+   },
+   {
+    "period": "-3m",
+    "strongBuy": 6,
+    "buy": 13,
+    "hold": 5,
+    "sell": 2,
+    "strongSell": 2
+   }
+  ],
+  "earningsTrend": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "eps_avg": 19.35822,
+    "eps_n_analysts": 6,
+    "rev_avg": 98329205670,
+    "epsTrend": {
+     "current": 19.35822,
+     "7daysAgo": 19.11333,
+     "30daysAgo": 19.11333,
+     "60daysAgo": 19.11333,
+     "90daysAgo": 17.56
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "eps_avg": 21.45752,
+    "eps_n_analysts": 4,
+    "rev_avg": 103270432500,
+    "epsTrend": {
+     "current": 21.45752,
+     "7daysAgo": 21.24,
+     "30daysAgo": 21.24,
+     "60daysAgo": 21.82,
+     "90daysAgo": 20.68
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 1,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "eps_avg": 80.05516,
+    "eps_n_analysts": 25,
+    "rev_avg": 400881312320,
+    "epsTrend": {
+     "current": 80.05516,
+     "7daysAgo": 79.71295,
+     "30daysAgo": 79.71295,
+     "60daysAgo": 79.45361,
+     "90daysAgo": 77.2492
+    },
+    "epsRevisions": {
+     "upLast7days": 14,
+     "upLast30days": 15,
+     "downLast30days": 3,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "eps_avg": 93.43144,
+    "eps_n_analysts": 25,
+    "rev_avg": 444664514700,
+    "epsTrend": {
+     "current": 93.43144,
+     "7daysAgo": 93.08437,
+     "30daysAgo": 92.98037,
+     "60daysAgo": 92.89237,
+     "90daysAgo": 89.5527
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   }
+  ],
+  "eps_revision_check": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "current": 19.35822,
+    "90daysAgo": 17.56,
+    "chg_pct": 10.24,
+    "up30": 1,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "current": 21.45752,
+    "90daysAgo": 20.68,
+    "chg_pct": 3.76,
+    "up30": 1,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "current": 80.05516,
+    "90daysAgo": 77.2492,
+    "chg_pct": 3.632,
+    "up30": 15,
+    "down30": 3,
+    "down90": null
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "current": 93.43144,
+    "90daysAgo": 89.5527,
+    "chg_pct": 4.331,
+    "up30": 1,
+    "down30": 0,
+    "down90": null
+   }
+  ],
+  "net_downward_fy_eps_revision_90d": false,
+  "earnings_dates": [
+   "2026-11-05"
+  ]
+ },
+ "BHEL": {
+  "price": 437.0,
+  "price_time": "2026-10-12",
+  "mcap_cr": 152166.1640704,
+  "trailingPE": 62.517883,
+  "forwardPE": 31.251497,
+  "pb": 5.819761,
+  "bookValue": 75.089,
+  "trailingEps": 6.99,
+  "forwardEps": 13.98333,
+  "hi52": 455.95,
+  "lo52": 229.54,
+  "dma50_yahoo": 423.03,
+  "dma200_yahoo": 352.27884,
+  "roe_yahoo": null,
+  "de_yahoo": 31.312,
+  "ocf_yahoo": null,
+  "ev_ebitda": 51.207,
+  "target_mean": 398.75,
+  "target_median": 475.0,
+  "target_high": 575.0,
+  "target_low": 140.0,
+  "n_analysts": 20,
+  "recommendationKey": "hold",
+  "recommendationMean": 2.8,
+  "recommendationTrend": [
+   {
+    "period": "0m",
+    "strongBuy": 2,
+    "buy": 8,
+    "hold": 1,
+    "sell": 5,
+    "strongSell": 4
+   },
+   {
+    "period": "-1m",
+    "strongBuy": 2,
+    "buy": 8,
+    "hold": 1,
+    "sell": 5,
+    "strongSell": 4
+   },
+   {
+    "period": "-2m",
+    "strongBuy": 2,
+    "buy": 8,
+    "hold": 1,
+    "sell": 5,
+    "strongSell": 4
+   },
+   {
+    "period": "-3m",
+    "strongBuy": 2,
+    "buy": 8,
+    "hold": 1,
+    "sell": 5,
+    "strongSell": 4
+   }
+  ],
+  "earningsTrend": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "eps_avg": 1.9238,
+    "eps_n_analysts": 3,
+    "rev_avg": 93304500000,
+    "epsTrend": {
+     "current": 1.295,
+     "7daysAgo": 1.13,
+     "30daysAgo": 1.13,
+     "60daysAgo": 1.1,
+     "90daysAgo": 1.1
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 1,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "eps_avg": 2.17139,
+    "eps_n_analysts": 1,
+    "rev_avg": 108192000000,
+    "epsTrend": {
+     "current": 1.87,
+     "7daysAgo": 2.07,
+     "30daysAgo": 2.07,
+     "60daysAgo": 2.07,
+     "90daysAgo": 2.07
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 1,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "eps_avg": 10.01333,
+    "eps_n_analysts": 16,
+    "rev_avg": 439121218330,
+    "epsTrend": {
+     "current": 10.01333,
+     "7daysAgo": 9.98,
+     "30daysAgo": 9.98,
+     "60daysAgo": 10.9,
+     "90daysAgo": 8.69667
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 1,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "eps_avg": 13.98333,
+    "eps_n_analysts": 17,
+    "rev_avg": 536504699720,
+    "epsTrend": {
+     "current": 13.98333,
+     "7daysAgo": 13.78333,
+     "30daysAgo": 13.78333,
+     "60daysAgo": 13.76,
+     "90daysAgo": 12.39
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   }
+  ],
+  "eps_revision_check": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "current": 1.295,
+    "90daysAgo": 1.1,
+    "chg_pct": 17.727,
+    "up30": 1,
+    "down30": 1,
+    "down90": null
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "current": 1.87,
+    "90daysAgo": 2.07,
+    "chg_pct": -9.662,
+    "up30": 1,
+    "down30": 1,
+    "down90": null
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "current": 10.01333,
+    "90daysAgo": 8.69667,
+    "chg_pct": 15.14,
+    "up30": 1,
+    "down30": 1,
+    "down90": null
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "current": 13.98333,
+    "90daysAgo": 12.39,
+    "chg_pct": 12.86,
+    "up30": 1,
+    "down30": 0,
+    "down90": null
+   }
+  ],
+  "net_downward_fy_eps_revision_90d": false,
+  "earnings_dates": [
+   "2026-10-14"
+  ]
+ },
+ "CHENNPETRO": {
+  "price": 1492.0,
+  "price_time": "2026-10-12",
+  "mcap_cr": 22217.5789056,
+  "trailingPE": 5.322869,
+  "forwardPE": 3.7206984,
+  "pb": 1.9999865,
+  "bookValue": 746.005,
+  "trailingEps": 280.3,
+  "forwardEps": 401.0,
+  "hi52": 1677.5,
+  "lo52": 716.8,
+  "dma50_yahoo": 1410.508,
+  "dma200_yahoo": 1118.0728,
+  "roe_yahoo": null,
+  "de_yahoo": 17.68,
+  "ocf_yahoo": null,
+  "ev_ebitda": 3.77,
+  "target_mean": 1540.0,
+  "target_median": 1540.0,
+  "target_high": 1540.0,
+  "target_low": 1540.0,
+  "n_analysts": 1,
+  "recommendationKey": "none",
+  "recommendationMean": null,
+  "recommendationTrend": [
+   {
+    "period": "0m",
+    "strongBuy": 0,
+    "buy": 1,
+    "hold": 0,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-1m",
+    "strongBuy": 0,
+    "buy": 1,
+    "hold": 0,
+    "sell": 0,
+    "strongSell": 0
+   }
+  ],
+  "earningsTrend": [
+   {
+    "period": "0q",
+    "endDate": null,
+    "eps_avg": null,
+    "eps_n_analysts": null,
+    "rev_avg": 0,
+    "epsTrend": {
+     "current": null,
+     "7daysAgo": null,
+     "30daysAgo": null,
+     "60daysAgo": null,
+     "90daysAgo": null
+    },
+    "epsRevisions": {
+     "upLast7days": null,
+     "upLast30days": null,
+     "downLast30days": null,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1q",
+    "endDate": null,
+    "eps_avg": null,
+    "eps_n_analysts": null,
+    "rev_avg": 0,
+    "epsTrend": {
+     "current": null,
+     "7daysAgo": null,
+     "30daysAgo": null,
+     "60daysAgo": null,
+     "90daysAgo": null
+    },
+    "epsRevisions": {
+     "upLast7days": null,
+     "upLast30days": null,
+     "downLast30days": null,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "eps_avg": 313.0,
+    "eps_n_analysts": 1,
+    "rev_avg": 1073497000000,
+    "epsTrend": {
+     "current": 313.0,
+     "7daysAgo": 284.2,
+     "30daysAgo": 284.2,
+     "60daysAgo": 284.2,
+     "90daysAgo": 0.0
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "eps_avg": 401.0,
+    "eps_n_analysts": 1,
+    "rev_avg": 983293000000,
+    "epsTrend": {
+     "current": 401.0,
+     "7daysAgo": 351.1,
+     "30daysAgo": 351.1,
+     "60daysAgo": 351.1,
+     "90daysAgo": 0.0
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   }
+  ],
+  "eps_revision_check": [
+   {
+    "period": "0q",
+    "endDate": null,
+    "current": null,
+    "90daysAgo": null,
+    "chg_pct": null,
+    "up30": null,
+    "down30": null,
+    "down90": null
+   },
+   {
+    "period": "+1q",
+    "endDate": null,
+    "current": null,
+    "90daysAgo": null,
+    "chg_pct": null,
+    "up30": null,
+    "down30": null,
+    "down90": null
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "current": 313.0,
+    "90daysAgo": 0.0,
+    "chg_pct": null,
+    "up30": 1,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "current": 401.0,
+    "90daysAgo": 0.0,
+    "chg_pct": null,
+    "up30": 1,
+    "down30": 0,
+    "down90": null
+   }
+  ],
+  "net_downward_fy_eps_revision_90d": null,
+  "earnings_dates": []
+ },
+ "CUB": {
+  "price": 229.96,
+  "price_time": "2026-10-12",
+  "mcap_cr": 22784.1441792,
+  "trailingPE": 16.28612,
+  "forwardPE": 11.677364,
+  "pb": 2.1564748,
+  "bookValue": 106.637,
+  "trailingEps": 14.12,
+  "forwardEps": 19.6928,
+  "hi52": 248.85,
+  "lo52": 158.6925,
+  "dma50_yahoo": 222.9788,
+  "dma200_yahoo": 207.5167,
+  "roe_yahoo": null,
+  "de_yahoo": null,
+  "ocf_yahoo": null,
+  "ev_ebitda": null,
+  "target_mean": 256.26086,
+  "target_median": 262.0,
+  "target_high": 298.0,
+  "target_low": 200.0,
+  "n_analysts": 23,
+  "recommendationKey": "buy",
+  "recommendationMean": 1.78261,
+  "recommendationTrend": [
+   {
+    "period": "0m",
+    "strongBuy": 3,
+    "buy": 15,
+    "hold": 2,
+    "sell": 2,
+    "strongSell": 1
+   },
+   {
+    "period": "-1m",
+    "strongBuy": 3,
+    "buy": 15,
+    "hold": 2,
+    "sell": 2,
+    "strongSell": 1
+   },
+   {
+    "period": "-2m",
+    "strongBuy": 3,
+    "buy": 15,
+    "hold": 2,
+    "sell": 2,
+    "strongSell": 1
+   },
+   {
+    "period": "-3m",
+    "strongBuy": 3,
+    "buy": 15,
+    "hold": 2,
+    "sell": 2,
+    "strongSell": 1
+   }
+  ],
+  "earningsTrend": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "eps_avg": 4.0,
+    "eps_n_analysts": 1,
+    "rev_avg": 9257666670,
+    "epsTrend": {
+     "current": 4.0,
+     "7daysAgo": 0.0,
+     "30daysAgo": 0.0,
+     "60daysAgo": 0.0,
+     "90daysAgo": 0.0
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 0,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "eps_avg": null,
+    "eps_n_analysts": null,
+    "rev_avg": 8752000000,
+    "epsTrend": {
+     "current": null,
+     "7daysAgo": null,
+     "30daysAgo": null,
+     "60daysAgo": null,
+     "90daysAgo": null
+    },
+    "epsRevisions": {
+     "upLast7days": null,
+     "upLast30days": null,
+     "downLast30days": null,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "eps_avg": 16.45572,
+    "eps_n_analysts": 22,
+    "rev_avg": 34486166670,
+    "epsTrend": {
+     "current": 16.45572,
+     "7daysAgo": 16.52365,
+     "30daysAgo": 16.52365,
+     "60daysAgo": 16.52365,
+     "90daysAgo": 15.98081
+    },
+    "epsRevisions": {
+     "upLast7days": 14,
+     "upLast30days": 15,
+     "downLast30days": 3,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "eps_avg": 19.31553,
+    "eps_n_analysts": 22,
+    "rev_avg": 40617333330,
+    "epsTrend": {
+     "current": 19.31553,
+     "7daysAgo": 19.35358,
+     "30daysAgo": 19.35358,
+     "60daysAgo": 19.35358,
+     "90daysAgo": 18.65889
+    },
+    "epsRevisions": {
+     "upLast7days": 12,
+     "upLast30days": 13,
+     "downLast30days": 3,
+     "downLast90days": null
+    }
+   }
+  ],
+  "eps_revision_check": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "current": 4.0,
+    "90daysAgo": 0.0,
+    "chg_pct": null,
+    "up30": 0,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "current": null,
+    "90daysAgo": null,
+    "chg_pct": null,
+    "up30": null,
+    "down30": null,
+    "down90": null
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "current": 16.45572,
+    "90daysAgo": 15.98081,
+    "chg_pct": 2.972,
+    "up30": 15,
+    "down30": 3,
+    "down90": null
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "current": 19.31553,
+    "90daysAgo": 18.65889,
+    "chg_pct": 3.519,
+    "up30": 13,
+    "down30": 3,
+    "down90": null
+   }
+  ],
+  "net_downward_fy_eps_revision_90d": false,
+  "earnings_dates": [
+   "2026-11-02"
+  ]
+ },
+ "CYIENT": {
+  "price": 1151.5,
+  "price_time": "2026-10-12",
+  "mcap_cr": 11987.3036288,
+  "trailingPE": 33.82785,
+  "forwardPE": 16.37604,
+  "pb": 2.2388961,
+  "bookValue": 514.316,
+  "trailingEps": 34.04,
+  "forwardEps": 70.31615,
+  "hi52": 1222.0,
+  "lo52": 750.3,
+  "dma50_yahoo": 1018.978,
+  "dma200_yahoo": 953.8795,
+  "roe_yahoo": null,
+  "de_yahoo": 7.528,
+  "ocf_yahoo": null,
+  "ev_ebitda": 13.393,
+  "target_mean": 1070.5714,
+  "target_median": 1070.0,
+  "target_high": 1450.0,
+  "target_low": 820.0,
+  "n_analysts": 21,
+  "recommendationKey": "buy",
+  "recommendationMean": 2.38095,
+  "recommendationTrend": [
+   {
+    "period": "0m",
+    "strongBuy": 7,
+    "buy": 6,
+    "hold": 4,
+    "sell": 2,
+    "strongSell": 2
+   },
+   {
+    "period": "-1m",
+    "strongBuy": 6,
+    "buy": 6,
+    "hold": 5,
+    "sell": 2,
+    "strongSell": 2
+   },
+   {
+    "period": "-2m",
+    "strongBuy": 6,
+    "buy": 6,
+    "hold": 5,
+    "sell": 2,
+    "strongSell": 2
+   },
+   {
+    "period": "-3m",
+    "strongBuy": 5,
+    "buy": 6,
+    "hold": 5,
+    "sell": 2,
+    "strongSell": 3
+   }
+  ],
+  "earningsTrend": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "eps_avg": 12.63158,
+    "eps_n_analysts": 11,
+    "rev_avg": 18764666670,
+    "epsTrend": {
+     "current": 12.63158,
+     "7daysAgo": 13.2,
+     "30daysAgo": 14.31,
+     "60daysAgo": 14.30855,
+     "90daysAgo": 14.34246
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "eps_avg": 15.30513,
+    "eps_n_analysts": 3,
+    "rev_avg": 23487000000,
+    "epsTrend": {
+     "current": 15.30513,
+     "7daysAgo": 14.62,
+     "30daysAgo": 14.62,
+     "60daysAgo": 14.62474,
+     "90daysAgo": 15.3773
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 0,
+     "downLast30days": 1,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "eps_avg": 55.93463,
+    "eps_n_analysts": 11,
+    "rev_avg": 90844243890,
+    "epsTrend": {
+     "current": 50.0,
+     "7daysAgo": 0.0,
+     "30daysAgo": 53.0,
+     "60daysAgo": 61.0,
+     "90daysAgo": 61.0
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 1,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "eps_avg": 72.53577,
+    "eps_n_analysts": 12,
+    "rev_avg": 102650867710,
+    "epsTrend": {
+     "current": 55.0,
+     "7daysAgo": 0.0,
+     "30daysAgo": 59.0,
+     "60daysAgo": 59.0,
+     "90daysAgo": 59.0
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 2,
+     "downLast30days": 1,
+     "downLast90days": null
+    }
+   }
+  ],
+  "eps_revision_check": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "current": 12.63158,
+    "90daysAgo": 14.34246,
+    "chg_pct": -11.929,
+    "up30": 1,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "current": 15.30513,
+    "90daysAgo": 15.3773,
+    "chg_pct": -0.469,
+    "up30": 0,
+    "down30": 1,
+    "down90": null
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "current": 50.0,
+    "90daysAgo": 61.0,
+    "chg_pct": -18.033,
+    "up30": 1,
+    "down30": 1,
+    "down90": null
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "current": 55.0,
+    "90daysAgo": 59.0,
+    "chg_pct": -6.78,
+    "up30": 2,
+    "down30": 1,
+    "down90": null
+   }
+  ],
+  "net_downward_fy_eps_revision_90d": true,
+  "earnings_dates": [
+   "2026-10-22"
+  ]
+ },
+ "ENGINERSIN": {
+  "price": 294.5,
+  "price_time": "2026-10-12",
+  "mcap_cr": 16552.1473536,
+  "trailingPE": 21.11111,
+  "forwardPE": 20.886524,
+  "pb": 5.275414,
+  "bookValue": 55.825,
+  "trailingEps": 13.95,
+  "forwardEps": 14.1,
+  "hi52": 321.4,
+  "lo52": 163.55,
+  "dma50_yahoo": 269.9812,
+  "dma200_yahoo": 230.85825,
+  "roe_yahoo": null,
+  "de_yahoo": 0.534,
+  "ocf_yahoo": null,
+  "ev_ebitda": 19.596,
+  "target_mean": 298.5,
+  "target_median": 292.0,
+  "target_high": 373.0,
+  "target_low": 240.0,
+  "n_analysts": 6,
+  "recommendationKey": "strong_buy",
+  "recommendationMean": 1.33333,
+  "recommendationTrend": [
+   {
+    "period": "0m",
+    "strongBuy": 0,
+    "buy": 5,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-1m",
+    "strongBuy": 0,
+    "buy": 5,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-2m",
+    "strongBuy": 0,
+    "buy": 5,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-3m",
+    "strongBuy": 0,
+    "buy": 4,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   }
+  ],
+  "earningsTrend": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "eps_avg": null,
+    "eps_n_analysts": null,
+    "rev_avg": 8162000000,
+    "epsTrend": {
+     "current": null,
+     "7daysAgo": null,
+     "30daysAgo": null,
+     "60daysAgo": null,
+     "90daysAgo": null
+    },
+    "epsRevisions": {
+     "upLast7days": null,
+     "upLast30days": null,
+     "downLast30days": null,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1q",
+    "endDate": null,
+    "eps_avg": null,
+    "eps_n_analysts": null,
+    "rev_avg": 0,
+    "epsTrend": {
+     "current": null,
+     "7daysAgo": null,
+     "30daysAgo": null,
+     "60daysAgo": null,
+     "90daysAgo": null
+    },
+    "epsRevisions": {
+     "upLast7days": null,
+     "upLast30days": null,
+     "downLast30days": null,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "eps_avg": 11.675,
+    "eps_n_analysts": 4,
+    "rev_avg": 43876000000,
+    "epsTrend": {
+     "current": 11.675,
+     "7daysAgo": 11.675,
+     "30daysAgo": 12.5,
+     "60daysAgo": 12.5,
+     "90daysAgo": 12.5
+    },
+    "epsRevisions": {
+     "upLast7days": 2,
+     "upLast30days": 2,
+     "downLast30days": 1,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "eps_avg": 14.1,
+    "eps_n_analysts": 4,
+    "rev_avg": 53109000000,
+    "epsTrend": {
+     "current": 14.1,
+     "7daysAgo": 13.65,
+     "30daysAgo": 15.4,
+     "60daysAgo": 15.4,
+     "90daysAgo": 15.4
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 2,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   }
+  ],
+  "eps_revision_check": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "current": null,
+    "90daysAgo": null,
+    "chg_pct": null,
+    "up30": null,
+    "down30": null,
+    "down90": null
+   },
+   {
+    "period": "+1q",
+    "endDate": null,
+    "current": null,
+    "90daysAgo": null,
+    "chg_pct": null,
+    "up30": null,
+    "down30": null,
+    "down90": null
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "current": 11.675,
+    "90daysAgo": 12.5,
+    "chg_pct": -6.6,
+    "up30": 2,
+    "down30": 1,
+    "down90": null
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "current": 14.1,
+    "90daysAgo": 15.4,
+    "chg_pct": -8.442,
+    "up30": 2,
+    "down30": 0,
+    "down90": null
+   }
+  ],
+  "net_downward_fy_eps_revision_90d": true,
+  "earnings_dates": []
+ },
+ "FINCABLES": {
+  "price": 1407.9,
+  "price_time": "2026-10-12",
+  "mcap_cr": 21532.3312128,
+  "trailingPE": 26.914547,
+  "forwardPE": 19.365889,
+  "pb": 3.5391533,
+  "bookValue": 397.807,
+  "trailingEps": 52.31,
+  "forwardEps": 72.7,
+  "hi52": 1499.0,
+  "lo52": 700.8,
+  "dma50_yahoo": 1311.661,
+  "dma200_yahoo": 1028.2942,
+  "roe_yahoo": null,
+  "de_yahoo": 0.314,
+  "ocf_yahoo": null,
+  "ev_ebitda": 26.798,
+  "target_mean": 1440.1666,
+  "target_median": 1512.5,
+  "target_high": 1640.0,
+  "target_low": 1008.0,
+  "n_analysts": 6,
+  "recommendationKey": "none",
+  "recommendationMean": null,
+  "recommendationTrend": [
+   {
+    "period": "0m",
+    "strongBuy": 1,
+    "buy": 5,
+    "hold": 0,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-1m",
+    "strongBuy": 1,
+    "buy": 5,
+    "hold": 0,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-2m",
+    "strongBuy": 1,
+    "buy": 3,
+    "hold": 2,
+    "sell": 0,
+    "strongSell": 0
+   }
+  ],
+  "earningsTrend": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "eps_avg": 16.3,
+    "eps_n_analysts": 1,
+    "rev_avg": 18854000000,
+    "epsTrend": {
+     "current": 16.3,
+     "7daysAgo": 14.6,
+     "30daysAgo": 14.6,
+     "60daysAgo": 14.6,
+     "90daysAgo": 0.0
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 0,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "eps_avg": 11.7,
+    "eps_n_analysts": 1,
+    "rev_avg": 19276000000,
+    "epsTrend": {
+     "current": 11.7,
+     "7daysAgo": 11.3,
+     "30daysAgo": 11.3,
+     "60daysAgo": 11.3,
+     "90daysAgo": 0.0
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 0,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "eps_avg": 60.8,
+    "eps_n_analysts": 4,
+    "rev_avg": 81661250000,
+    "epsTrend": {
+     "current": 60.8,
+     "7daysAgo": 58.0,
+     "30daysAgo": 58.0,
+     "60daysAgo": 58.0,
+     "90daysAgo": 58.0
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 4,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "eps_avg": 72.7,
+    "eps_n_analysts": 5,
+    "rev_avg": 94530000000,
+    "epsTrend": {
+     "current": 72.7,
+     "7daysAgo": 67.6,
+     "30daysAgo": 67.6,
+     "60daysAgo": 67.6,
+     "90daysAgo": 67.6
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 4,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   }
+  ],
+  "eps_revision_check": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "current": 16.3,
+    "90daysAgo": 0.0,
+    "chg_pct": null,
+    "up30": 0,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "current": 11.7,
+    "90daysAgo": 0.0,
+    "chg_pct": null,
+    "up30": 0,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "current": 60.8,
+    "90daysAgo": 58.0,
+    "chg_pct": 4.828,
+    "up30": 4,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "current": 72.7,
+    "90daysAgo": 67.6,
+    "chg_pct": 7.544,
+    "up30": 4,
+    "down30": 0,
+    "down90": null
+   }
+  ],
+  "net_downward_fy_eps_revision_90d": false,
+  "earnings_dates": [
+   "2026-11-13"
+  ]
+ },
+ "GESHIP": {
+  "price": 1541.5,
+  "price_time": "2026-10-12",
+  "mcap_cr": 21671.6197888,
+  "trailingPE": 5.8856096,
+  "forwardPE": 7.4506993,
+  "pb": 1.2974246,
+  "bookValue": 1188.123,
+  "trailingEps": 261.91,
+  "forwardEps": 206.89333,
+  "hi52": 1798.0,
+  "lo52": 1002.55,
+  "dma50_yahoo": 1401.77,
+  "dma200_yahoo": 1389.75,
+  "roe_yahoo": null,
+  "de_yahoo": 6.409,
+  "ocf_yahoo": null,
+  "ev_ebitda": 4.139,
+  "target_mean": 1899.3334,
+  "target_median": 1876.0,
+  "target_high": 1965.0,
+  "target_low": 1857.0,
+  "n_analysts": 3,
+  "recommendationKey": "strong_buy",
+  "recommendationMean": 1.33333,
+  "recommendationTrend": [
+   {
+    "period": "0m",
+    "strongBuy": 1,
+    "buy": 2,
+    "hold": 0,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-1m",
+    "strongBuy": 1,
+    "buy": 2,
+    "hold": 0,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-2m",
+    "strongBuy": 0,
+    "buy": 2,
+    "hold": 0,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-3m",
+    "strongBuy": 0,
+    "buy": 2,
+    "hold": 0,
+    "sell": 0,
+    "strongSell": 0
+   }
+  ],
+  "earningsTrend": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "eps_avg": null,
+    "eps_n_analysts": null,
+    "rev_avg": 18127500000,
+    "epsTrend": {
+     "current": null,
+     "7daysAgo": null,
+     "30daysAgo": null,
+     "60daysAgo": null,
+     "90daysAgo": null
+    },
+    "epsRevisions": {
+     "upLast7days": null,
+     "upLast30days": null,
+     "downLast30days": null,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "eps_avg": null,
+    "eps_n_analysts": null,
+    "rev_avg": 0,
+    "epsTrend": {
+     "current": null,
+     "7daysAgo": null,
+     "30daysAgo": null,
+     "60daysAgo": null,
+     "90daysAgo": null
+    },
+    "epsRevisions": {
+     "upLast7days": null,
+     "upLast30days": null,
+     "downLast30days": null,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "eps_avg": 273.45,
+    "eps_n_analysts": 3,
+    "rev_avg": 73087666670,
+    "epsTrend": {
+     "current": 273.45,
+     "7daysAgo": 259.35,
+     "30daysAgo": 259.35,
+     "60daysAgo": 266.3,
+     "90daysAgo": 266.35
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 0,
+     "downLast30days": 2,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "eps_avg": 201.59332,
+    "eps_n_analysts": 3,
+    "rev_avg": 63597666670,
+    "epsTrend": {
+     "current": 201.59332,
+     "7daysAgo": 191.45,
+     "30daysAgo": 191.45,
+     "60daysAgo": 197.1,
+     "90daysAgo": 196.95
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 0,
+     "downLast30days": 2,
+     "downLast90days": null
+    }
+   }
+  ],
+  "eps_revision_check": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "current": null,
+    "90daysAgo": null,
+    "chg_pct": null,
+    "up30": null,
+    "down30": null,
+    "down90": null
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "current": null,
+    "90daysAgo": null,
+    "chg_pct": null,
+    "up30": null,
+    "down30": null,
+    "down90": null
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "current": 273.45,
+    "90daysAgo": 266.35,
+    "chg_pct": 2.666,
+    "up30": 0,
+    "down30": 2,
+    "down90": null
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "current": 201.59332,
+    "90daysAgo": 196.95,
+    "chg_pct": 2.358,
+    "up30": 0,
+    "down30": 2,
+    "down90": null
+   }
+  ],
+  "net_downward_fy_eps_revision_90d": false,
+  "earnings_dates": []
+ },
+ "HDFCBANK": {
+  "price": 710.1,
+  "price_time": "2026-10-12",
+  "mcap_cr": 1094866.2263808,
+  "trailingPE": 15.521311,
+  "forwardPE": 11.337466,
+  "pb": 1.80314,
+  "bookValue": 393.813,
+  "trailingEps": 45.75,
+  "forwardEps": 62.63304,
+  "hi52": 1020.5,
+  "lo52": 681.9,
+  "dma50_yahoo": 719.998,
+  "dma200_yahoo": 797.64276,
+  "roe_yahoo": 0.13838,
+  "de_yahoo": null,
+  "ocf_yahoo": null,
+  "ev_ebitda": null,
+  "target_mean": 985.95123,
+  "target_median": 970.0,
+  "target_high": 1400.0,
+  "target_low": 800.0,
+  "n_analysts": 41,
+  "recommendationKey": "strong_buy",
+  "recommendationMean": 1.2439,
+  "recommendationTrend": [
+   {
+    "period": "0m",
+    "strongBuy": 6,
+    "buy": 33,
+    "hold": 2,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-1m",
+    "strongBuy": 6,
+    "buy": 33,
+    "hold": 2,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-2m",
+    "strongBuy": 6,
+    "buy": 33,
+    "hold": 2,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-3m",
+    "strongBuy": 6,
+    "buy": 33,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   }
+  ],
+  "earningsTrend": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "eps_avg": 12.494,
+    "eps_n_analysts": 5,
+    "rev_avg": 475573299110,
+    "epsTrend": {
+     "current": 12.494,
+     "7daysAgo": 12.24,
+     "30daysAgo": 12.24,
+     "60daysAgo": 12.46,
+     "90daysAgo": 12.04
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "eps_avg": null,
+    "eps_n_analysts": null,
+    "rev_avg": 492237418500,
+    "epsTrend": {
+     "current": null,
+     "7daysAgo": null,
+     "30daysAgo": null,
+     "60daysAgo": null,
+     "90daysAgo": null
+    },
+    "epsRevisions": {
+     "upLast7days": null,
+     "upLast30days": null,
+     "downLast30days": null,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "eps_avg": 53.26575,
+    "eps_n_analysts": 35,
+    "rev_avg": 2006130238060,
+    "epsTrend": {
+     "current": 53.26575,
+     "7daysAgo": 0.0,
+     "30daysAgo": 56.4,
+     "60daysAgo": 56.4,
+     "90daysAgo": 56.4
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 4,
+     "downLast30days": 3,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "eps_avg": 62.63304,
+    "eps_n_analysts": 36,
+    "rev_avg": 3001849116020,
+    "epsTrend": {
+     "current": 62.63304,
+     "7daysAgo": 62.6,
+     "30daysAgo": 62.6,
+     "60daysAgo": 62.6,
+     "90daysAgo": 62.6
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 2,
+     "downLast30days": 3,
+     "downLast90days": null
+    }
+   }
+  ],
+  "eps_revision_check": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "current": 12.494,
+    "90daysAgo": 12.04,
+    "chg_pct": 3.771,
+    "up30": 1,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "current": null,
+    "90daysAgo": null,
+    "chg_pct": null,
+    "up30": null,
+    "down30": null,
+    "down90": null
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "current": 53.26575,
+    "90daysAgo": 56.4,
+    "chg_pct": -5.557,
+    "up30": 4,
+    "down30": 3,
+    "down90": null
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "current": 62.63304,
+    "90daysAgo": 62.6,
+    "chg_pct": 0.053,
+    "up30": 2,
+    "down30": 3,
+    "down90": null
+   }
+  ],
+  "net_downward_fy_eps_revision_90d": true,
+  "earnings_dates": [
+   "2026-10-17"
+  ]
+ },
+ "IPCALAB": {
+  "price": 1926.0,
+  "price_time": "2026-10-12",
+  "mcap_cr": 48863.4351616,
+  "trailingPE": 37.303894,
+  "forwardPE": 27.35704,
+  "pb": 6.0595956,
+  "bookValue": 317.843,
+  "trailingEps": 51.63,
+  "forwardEps": 70.40235,
+  "hi52": 2038.0,
+  "lo52": 1251.6,
+  "dma50_yahoo": 1907.438,
+  "dma200_yahoo": 1651.154,
+  "roe_yahoo": null,
+  "de_yahoo": 8.492,
+  "ocf_yahoo": null,
+  "ev_ebitda": 22.282,
+  "target_mean": 1981.7222,
+  "target_median": 2007.0,
+  "target_high": 2230.0,
+  "target_low": 1731.0,
+  "n_analysts": 18,
+  "recommendationKey": "strong_buy",
+  "recommendationMean": 1.47059,
+  "recommendationTrend": [
+   {
+    "period": "0m",
+    "strongBuy": 4,
+    "buy": 11,
+    "hold": 2,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-1m",
+    "strongBuy": 4,
+    "buy": 11,
+    "hold": 2,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-2m",
+    "strongBuy": 5,
+    "buy": 10,
+    "hold": 1,
+    "sell": 1,
+    "strongSell": 0
+   }
+  ],
+  "earningsTrend": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "eps_avg": 16.55,
+    "eps_n_analysts": 2,
+    "rev_avg": 28507666670,
+    "epsTrend": {
+     "current": 16.55,
+     "7daysAgo": 0.0,
+     "30daysAgo": 0.0,
+     "60daysAgo": 0.0,
+     "90daysAgo": 0.0
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 0,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "eps_avg": null,
+    "eps_n_analysts": null,
+    "rev_avg": 26952500000,
+    "epsTrend": {
+     "current": null,
+     "7daysAgo": null,
+     "30daysAgo": null,
+     "60daysAgo": null,
+     "90daysAgo": null
+    },
+    "epsRevisions": {
+     "upLast7days": null,
+     "upLast30days": null,
+     "downLast30days": null,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "eps_avg": 59.9825,
+    "eps_n_analysts": 16,
+    "rev_avg": 109989235290,
+    "epsTrend": {
+     "current": 59.9825,
+     "7daysAgo": 59.97625,
+     "30daysAgo": 59.97625,
+     "60daysAgo": 55.23125,
+     "90daysAgo": 55.2375
+    },
+    "epsRevisions": {
+     "upLast7days": 15,
+     "upLast30days": 15,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "eps_avg": 70.40235,
+    "eps_n_analysts": 17,
+    "rev_avg": 122749937500,
+    "epsTrend": {
+     "current": 70.40235,
+     "7daysAgo": 70.30824,
+     "30daysAgo": 70.30824,
+     "60daysAgo": 65.65625,
+     "90daysAgo": 65.65625
+    },
+    "epsRevisions": {
+     "upLast7days": 15,
+     "upLast30days": 15,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   }
+  ],
+  "eps_revision_check": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "current": 16.55,
+    "90daysAgo": 0.0,
+    "chg_pct": null,
+    "up30": 0,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "current": null,
+    "90daysAgo": null,
+    "chg_pct": null,
+    "up30": null,
+    "down30": null,
+    "down90": null
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "current": 59.9825,
+    "90daysAgo": 55.2375,
+    "chg_pct": 8.59,
+    "up30": 15,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "current": 70.40235,
+    "90daysAgo": 65.65625,
+    "chg_pct": 7.229,
+    "up30": 15,
+    "down30": 0,
+    "down90": null
+   }
+  ],
+  "net_downward_fy_eps_revision_90d": false,
+  "earnings_dates": [
+   "2026-11-12"
+  ]
+ },
+ "JYOTICNC": {
+  "price": 1015.3,
+  "price_time": "2026-10-12",
+  "mcap_cr": 23090.2677504,
+  "trailingPE": 71.80339,
+  "forwardPE": 41.954544,
+  "pb": 11.544584,
+  "bookValue": 87.946,
+  "trailingEps": 14.14,
+  "forwardEps": 24.2,
+  "hi52": 1134.6,
+  "lo52": 580.1,
+  "dma50_yahoo": 976.574,
+  "dma200_yahoo": 822.32526,
+  "roe_yahoo": null,
+  "de_yahoo": 42.609,
+  "ocf_yahoo": null,
+  "ev_ebitda": 44.138,
+  "target_mean": 985.3333,
+  "target_median": 901.0,
+  "target_high": 1215.0,
+  "target_low": 840.0,
+  "n_analysts": 3,
+  "recommendationKey": "strong_buy",
+  "recommendationMean": 1.33333,
+  "recommendationTrend": [
+   {
+    "period": "0m",
+    "strongBuy": 1,
+    "buy": 2,
+    "hold": 0,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-1m",
+    "strongBuy": 1,
+    "buy": 2,
+    "hold": 0,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-2m",
+    "strongBuy": 0,
+    "buy": 2,
+    "hold": 0,
+    "sell": 0,
+    "strongSell": 0
+   }
+  ],
+  "earningsTrend": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "eps_avg": 3.8,
+    "eps_n_analysts": 1,
+    "rev_avg": 6058500000,
+    "epsTrend": {
+     "current": 3.8,
+     "7daysAgo": 0.0,
+     "30daysAgo": 0.0,
+     "60daysAgo": 0.0,
+     "90daysAgo": 0.0
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 0,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "eps_avg": 4.5,
+    "eps_n_analysts": 1,
+    "rev_avg": 6622000000,
+    "epsTrend": {
+     "current": 4.5,
+     "7daysAgo": 0.0,
+     "30daysAgo": 0.0,
+     "60daysAgo": 0.0,
+     "90daysAgo": 0.0
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 0,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "eps_avg": 17.56667,
+    "eps_n_analysts": 3,
+    "rev_avg": 26055666670,
+    "epsTrend": {
+     "current": 17.56667,
+     "7daysAgo": 16.65,
+     "30daysAgo": 16.0,
+     "60daysAgo": 16.0,
+     "90daysAgo": 19.4
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "eps_avg": 24.2,
+    "eps_n_analysts": 3,
+    "rev_avg": 33003000000,
+    "epsTrend": {
+     "current": 24.2,
+     "7daysAgo": 22.55,
+     "30daysAgo": 24.75,
+     "60daysAgo": 24.75,
+     "90daysAgo": 26.95
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 1,
+     "downLast90days": null
+    }
+   }
+  ],
+  "eps_revision_check": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "current": 3.8,
+    "90daysAgo": 0.0,
+    "chg_pct": null,
+    "up30": 0,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "current": 4.5,
+    "90daysAgo": 0.0,
+    "chg_pct": null,
+    "up30": 0,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "current": 17.56667,
+    "90daysAgo": 19.4,
+    "chg_pct": -9.45,
+    "up30": 1,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "current": 24.2,
+    "90daysAgo": 26.95,
+    "chg_pct": -10.204,
+    "up30": 1,
+    "down30": 1,
+    "down90": null
+   }
+  ],
+  "net_downward_fy_eps_revision_90d": true,
+  "earnings_dates": []
+ },
+ "KARURVYSYA": {
+  "price": 340.4,
+  "price_time": "2026-10-12",
+  "mcap_cr": 32905.3536256,
+  "trailingPE": 11.985915,
+  "forwardPE": 10.3339405,
+  "pb": 2.3323534,
+  "bookValue": 145.947,
+  "trailingEps": 28.4,
+  "forwardEps": 32.94,
+  "hi52": 358.65,
+  "lo52": 220.25,
+  "dma50_yahoo": 334.97,
+  "dma200_yahoo": 305.57974,
+  "roe_yahoo": null,
+  "de_yahoo": null,
+  "ocf_yahoo": null,
+  "ev_ebitda": null,
+  "target_mean": 363.7,
+  "target_median": 365.0,
+  "target_high": 400.0,
+  "target_low": 285.0,
+  "n_analysts": 20,
+  "recommendationKey": "strong_buy",
+  "recommendationMean": 1.45,
+  "recommendationTrend": [
+   {
+    "period": "0m",
+    "strongBuy": 3,
+    "buy": 15,
+    "hold": 1,
+    "sell": 1,
+    "strongSell": 0
+   },
+   {
+    "period": "-1m",
+    "strongBuy": 3,
+    "buy": 15,
+    "hold": 1,
+    "sell": 1,
+    "strongSell": 0
+   },
+   {
+    "period": "-2m",
+    "strongBuy": 3,
+    "buy": 14,
+    "hold": 1,
+    "sell": 1,
+    "strongSell": 0
+   }
+  ],
+  "earningsTrend": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "eps_avg": 7.6,
+    "eps_n_analysts": 1,
+    "rev_avg": 14418666670,
+    "epsTrend": {
+     "current": 7.6,
+     "7daysAgo": 0.0,
+     "30daysAgo": 0.0,
+     "60daysAgo": 0.0,
+     "90daysAgo": 0.0
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 0,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "eps_avg": null,
+    "eps_n_analysts": null,
+    "rev_avg": 14426000000,
+    "epsTrend": {
+     "current": null,
+     "7daysAgo": null,
+     "30daysAgo": null,
+     "60daysAgo": null,
+     "90daysAgo": null
+    },
+    "epsRevisions": {
+     "upLast7days": null,
+     "upLast30days": null,
+     "downLast30days": null,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "eps_avg": 29.47444,
+    "eps_n_analysts": 18,
+    "rev_avg": 56592866670,
+    "epsTrend": {
+     "current": 29.47444,
+     "7daysAgo": 29.46645,
+     "30daysAgo": 29.46645,
+     "60daysAgo": 29.46645,
+     "90daysAgo": 28.17118
+    },
+    "epsRevisions": {
+     "upLast7days": 12,
+     "upLast30days": 11,
+     "downLast30days": 2,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "eps_avg": 32.95368,
+    "eps_n_analysts": 19,
+    "rev_avg": 64545937500,
+    "epsTrend": {
+     "current": 32.95368,
+     "7daysAgo": 32.93015,
+     "30daysAgo": 32.93015,
+     "60daysAgo": 32.93015,
+     "90daysAgo": 31.72611
+    },
+    "epsRevisions": {
+     "upLast7days": 13,
+     "upLast30days": 13,
+     "downLast30days": 1,
+     "downLast90days": null
+    }
+   }
+  ],
+  "eps_revision_check": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "current": 7.6,
+    "90daysAgo": 0.0,
+    "chg_pct": null,
+    "up30": 0,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "current": null,
+    "90daysAgo": null,
+    "chg_pct": null,
+    "up30": null,
+    "down30": null,
+    "down90": null
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "current": 29.47444,
+    "90daysAgo": 28.17118,
+    "chg_pct": 4.626,
+    "up30": 11,
+    "down30": 2,
+    "down90": null
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "current": 32.95368,
+    "90daysAgo": 31.72611,
+    "chg_pct": 3.869,
+    "up30": 13,
+    "down30": 1,
+    "down90": null
+   }
+  ],
+  "net_downward_fy_eps_revision_90d": false,
+  "earnings_dates": [
+   "2026-10-15"
+  ]
+ },
+ "KPIL": {
+  "price": 1406.6,
+  "price_time": "2026-10-12",
+  "mcap_cr": 24020.8658432,
+  "trailingPE": 21.135986,
+  "forwardPE": 15.3194065,
+  "pb": 3.0888827,
+  "bookValue": 455.375,
+  "trailingEps": 66.55,
+  "forwardEps": 91.81818,
+  "hi52": 1490.0,
+  "lo52": 1007.1,
+  "dma50_yahoo": 1386.096,
+  "dma200_yahoo": 1257.9125,
+  "roe_yahoo": null,
+  "de_yahoo": 45.814,
+  "ocf_yahoo": null,
+  "ev_ebitda": 11.607,
+  "target_mean": 1609.8,
+  "target_median": 1625.0,
+  "target_high": 1865.0,
+  "target_low": 1249.0,
+  "n_analysts": 20,
+  "recommendationKey": "strong_buy",
+  "recommendationMean": 1.1,
+  "recommendationTrend": [
+   {
+    "period": "0m",
+    "strongBuy": 2,
+    "buy": 18,
+    "hold": 0,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-1m",
+    "strongBuy": 2,
+    "buy": 18,
+    "hold": 0,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-2m",
+    "strongBuy": 2,
+    "buy": 18,
+    "hold": 0,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-3m",
+    "strongBuy": 1,
+    "buy": 19,
+    "hold": 0,
+    "sell": 0,
+    "strongSell": 0
+   }
+  ],
+  "earningsTrend": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "eps_avg": 18.2,
+    "eps_n_analysts": 1,
+    "rev_avg": 68415250000,
+    "epsTrend": {
+     "current": 18.2,
+     "7daysAgo": 0.0,
+     "30daysAgo": 0.0,
+     "60daysAgo": 0.0,
+     "90daysAgo": 0.0
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 0,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "eps_avg": null,
+    "eps_n_analysts": null,
+    "rev_avg": 66732000000,
+    "epsTrend": {
+     "current": null,
+     "7daysAgo": null,
+     "30daysAgo": null,
+     "60daysAgo": null,
+     "90daysAgo": null
+    },
+    "epsRevisions": {
+     "upLast7days": null,
+     "upLast30days": null,
+     "downLast30days": null,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "eps_avg": 73.64545,
+    "eps_n_analysts": 11,
+    "rev_avg": 310427967730,
+    "epsTrend": {
+     "current": 73.09,
+     "7daysAgo": 73.09,
+     "30daysAgo": 73.09,
+     "60daysAgo": 71.29091,
+     "90daysAgo": 71.57
+    },
+    "epsRevisions": {
+     "upLast7days": 6,
+     "upLast30days": 7,
+     "downLast30days": 1,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "eps_avg": 91.81818,
+    "eps_n_analysts": 12,
+    "rev_avg": 353436522570,
+    "epsTrend": {
+     "current": 88.55083,
+     "7daysAgo": 88.55083,
+     "30daysAgo": 88.55083,
+     "60daysAgo": 86.69167,
+     "90daysAgo": 86.95455
+    },
+    "epsRevisions": {
+     "upLast7days": 7,
+     "upLast30days": 7,
+     "downLast30days": 2,
+     "downLast90days": null
+    }
+   }
+  ],
+  "eps_revision_check": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "current": 18.2,
+    "90daysAgo": 0.0,
+    "chg_pct": null,
+    "up30": 0,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "current": null,
+    "90daysAgo": null,
+    "chg_pct": null,
+    "up30": null,
+    "down30": null,
+    "down90": null
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "current": 73.09,
+    "90daysAgo": 71.57,
+    "chg_pct": 2.124,
+    "up30": 7,
+    "down30": 1,
+    "down90": null
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "current": 88.55083,
+    "90daysAgo": 86.95455,
+    "chg_pct": 1.836,
+    "up30": 7,
+    "down30": 2,
+    "down90": null
+   }
+  ],
+  "net_downward_fy_eps_revision_90d": false,
+  "earnings_dates": [
+   "2026-10-29"
+  ]
+ },
+ "LICHSGFIN": {
+  "price": 549.75,
+  "price_time": "2026-10-12",
+  "mcap_cr": 30239.7128704,
+  "trailingPE": 5.2693377,
+  "forwardPE": 5.0674925,
+  "pb": 0.73002154,
+  "bookValue": 753.06,
+  "trailingEps": 104.33,
+  "forwardEps": 108.4856,
+  "hi52": 598.2,
+  "lo52": 458.9,
+  "dma50_yahoo": 530.422,
+  "dma200_yahoo": 532.663,
+  "roe_yahoo": null,
+  "de_yahoo": 642.522,
+  "ocf_yahoo": null,
+  "ev_ebitda": null,
+  "target_mean": 588.08,
+  "target_median": 600.0,
+  "target_high": 710.0,
+  "target_low": 440.0,
+  "n_analysts": 25,
+  "recommendationKey": "buy",
+  "recommendationMean": 2.44,
+  "recommendationTrend": [
+   {
+    "period": "0m",
+    "strongBuy": 6,
+    "buy": 8,
+    "hold": 7,
+    "sell": 4,
+    "strongSell": 0
+   },
+   {
+    "period": "-1m",
+    "strongBuy": 6,
+    "buy": 8,
+    "hold": 7,
+    "sell": 4,
+    "strongSell": 0
+   },
+   {
+    "period": "-2m",
+    "strongBuy": 6,
+    "buy": 7,
+    "hold": 8,
+    "sell": 4,
+    "strongSell": 0
+   },
+   {
+    "period": "-3m",
+    "strongBuy": 4,
+    "buy": 8,
+    "hold": 8,
+    "sell": 4,
+    "strongSell": 0
+   }
+  ],
+  "earningsTrend": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "eps_avg": 24.65333,
+    "eps_n_analysts": 3,
+    "rev_avg": 21566142860,
+    "epsTrend": {
+     "current": 24.65333,
+     "7daysAgo": 23.76,
+     "30daysAgo": 23.76,
+     "60daysAgo": 23.76,
+     "90daysAgo": 22.97
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "eps_avg": 21.9,
+    "eps_n_analysts": 1,
+    "rev_avg": 21635000000,
+    "epsTrend": {
+     "current": 21.9,
+     "7daysAgo": 21.12,
+     "30daysAgo": 21.12,
+     "60daysAgo": 21.02,
+     "90daysAgo": 20.36
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "eps_avg": 103.05806,
+    "eps_n_analysts": 23,
+    "rev_avg": 90360630480,
+    "epsTrend": {
+     "current": 103.05806,
+     "7daysAgo": 103.40226,
+     "30daysAgo": 103.40226,
+     "60daysAgo": 103.26264,
+     "90daysAgo": 105.28516
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 2,
+     "downLast30days": 14,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "eps_avg": 108.4856,
+    "eps_n_analysts": 24,
+    "rev_avg": 97699787410,
+    "epsTrend": {
+     "current": 108.4856,
+     "7daysAgo": 108.99666,
+     "30daysAgo": 108.99666,
+     "60daysAgo": 108.88084,
+     "90daysAgo": 112.43301
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 1,
+     "downLast30days": 15,
+     "downLast90days": null
+    }
+   }
+  ],
+  "eps_revision_check": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "current": 24.65333,
+    "90daysAgo": 22.97,
+    "chg_pct": 7.328,
+    "up30": 1,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "current": 21.9,
+    "90daysAgo": 20.36,
+    "chg_pct": 7.564,
+    "up30": 1,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "current": 103.05806,
+    "90daysAgo": 105.28516,
+    "chg_pct": -2.115,
+    "up30": 2,
+    "down30": 14,
+    "down90": null
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "current": 108.4856,
+    "90daysAgo": 112.43301,
+    "chg_pct": -3.511,
+    "up30": 1,
+    "down30": 15,
+    "down90": null
+   }
+  ],
+  "net_downward_fy_eps_revision_90d": true,
+  "earnings_dates": [
+   "2026-10-28"
+  ]
+ },
+ "MAHABANK": {
+  "price": 83.34,
+  "price_time": "2026-10-12",
+  "mcap_cr": 64101.41696,
+  "trailingPE": 8.512768,
+  "forwardPE": 6.6671996,
+  "pb": 1.7961594,
+  "bookValue": 46.399,
+  "trailingEps": 9.79,
+  "forwardEps": 12.5,
+  "hi52": 94.5,
+  "lo52": 54.66,
+  "dma50_yahoo": 81.8322,
+  "dma200_yahoo": 76.25245,
+  "roe_yahoo": 0.22961001,
+  "de_yahoo": null,
+  "ocf_yahoo": null,
+  "ev_ebitda": null,
+  "target_mean": 96.0,
+  "target_median": 98.0,
+  "target_high": 100.0,
+  "target_low": 90.0,
+  "n_analysts": 3,
+  "recommendationKey": "strong_buy",
+  "recommendationMean": 1.5,
+  "recommendationTrend": [
+   {
+    "period": "0m",
+    "strongBuy": 0,
+    "buy": 3,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-1m",
+    "strongBuy": 0,
+    "buy": 3,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-2m",
+    "strongBuy": 0,
+    "buy": 2,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   }
+  ],
+  "earningsTrend": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "eps_avg": null,
+    "eps_n_analysts": null,
+    "rev_avg": 47749000000,
+    "epsTrend": {
+     "current": null,
+     "7daysAgo": null,
+     "30daysAgo": null,
+     "60daysAgo": null,
+     "90daysAgo": null
+    },
+    "epsRevisions": {
+     "upLast7days": null,
+     "upLast30days": null,
+     "downLast30days": null,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1q",
+    "endDate": null,
+    "eps_avg": null,
+    "eps_n_analysts": null,
+    "rev_avg": 0,
+    "epsTrend": {
+     "current": null,
+     "7daysAgo": null,
+     "30daysAgo": null,
+     "60daysAgo": null,
+     "90daysAgo": null
+    },
+    "epsRevisions": {
+     "upLast7days": null,
+     "upLast30days": null,
+     "downLast30days": null,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "eps_avg": 10.6,
+    "eps_n_analysts": 1,
+    "rev_avg": 199462666670,
+    "epsTrend": {
+     "current": 10.6,
+     "7daysAgo": 0.0,
+     "30daysAgo": 0.0,
+     "60daysAgo": 0.0,
+     "90daysAgo": 0.0
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 0,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "eps_avg": 12.5,
+    "eps_n_analysts": 1,
+    "rev_avg": 229233666670,
+    "epsTrend": {
+     "current": 12.5,
+     "7daysAgo": 0.0,
+     "30daysAgo": 0.0,
+     "60daysAgo": 0.0,
+     "90daysAgo": 0.0
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 0,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   }
+  ],
+  "eps_revision_check": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "current": null,
+    "90daysAgo": null,
+    "chg_pct": null,
+    "up30": null,
+    "down30": null,
+    "down90": null
+   },
+   {
+    "period": "+1q",
+    "endDate": null,
+    "current": null,
+    "90daysAgo": null,
+    "chg_pct": null,
+    "up30": null,
+    "down30": null,
+    "down90": null
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "current": 10.6,
+    "90daysAgo": 0.0,
+    "chg_pct": null,
+    "up30": 0,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "current": 12.5,
+    "90daysAgo": 0.0,
+    "chg_pct": null,
+    "up30": 0,
+    "down30": 0,
+    "down90": null
+   }
+  ],
+  "net_downward_fy_eps_revision_90d": null,
+  "earnings_dates": []
+ },
+ "MRPL": {
+  "price": 173.2,
+  "price_time": "2026-10-12",
+  "mcap_cr": 30355.0103552,
+  "trailingPE": 9.757747,
+  "forwardPE": 3.372931,
+  "pb": 2.1302502,
+  "bookValue": 81.305,
+  "trailingEps": 17.75,
+  "forwardEps": 51.35,
+  "hi52": 212.31,
+  "lo52": 136.02,
+  "dma50_yahoo": 171.821,
+  "dma200_yahoo": 169.6138,
+  "roe_yahoo": null,
+  "de_yahoo": 108.059,
+  "ocf_yahoo": null,
+  "ev_ebitda": 5.342,
+  "target_mean": 182.5,
+  "target_median": 182.5,
+  "target_high": 215.0,
+  "target_low": 150.0,
+  "n_analysts": 2,
+  "recommendationKey": "none",
+  "recommendationMean": null,
+  "recommendationTrend": [
+   {
+    "period": "0m",
+    "strongBuy": 0,
+    "buy": 1,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-1m",
+    "strongBuy": 0,
+    "buy": 1,
+    "hold": 0,
+    "sell": 1,
+    "strongSell": 0
+   }
+  ],
+  "earningsTrend": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "eps_avg": null,
+    "eps_n_analysts": null,
+    "rev_avg": 249700000000,
+    "epsTrend": {
+     "current": null,
+     "7daysAgo": null,
+     "30daysAgo": null,
+     "60daysAgo": null,
+     "90daysAgo": null
+    },
+    "epsRevisions": {
+     "upLast7days": null,
+     "upLast30days": null,
+     "downLast30days": null,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "eps_avg": null,
+    "eps_n_analysts": null,
+    "rev_avg": 265300000000,
+    "epsTrend": {
+     "current": null,
+     "7daysAgo": null,
+     "30daysAgo": null,
+     "60daysAgo": null,
+     "90daysAgo": null
+    },
+    "epsRevisions": {
+     "upLast7days": null,
+     "upLast30days": null,
+     "downLast30days": null,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "eps_avg": 43.8,
+    "eps_n_analysts": 1,
+    "rev_avg": 1244883500000,
+    "epsTrend": {
+     "current": 43.8,
+     "7daysAgo": 26.95,
+     "30daysAgo": 27.75,
+     "60daysAgo": 13.7,
+     "90daysAgo": 13.9
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "eps_avg": 51.2,
+    "eps_n_analysts": 2,
+    "rev_avg": 1164928500000,
+    "epsTrend": {
+     "current": 51.2,
+     "7daysAgo": 47.4,
+     "30daysAgo": 47.4,
+     "60daysAgo": 13.3,
+     "90daysAgo": 13.6
+    },
+    "epsRevisions": {
+     "upLast7days": 2,
+     "upLast30days": 2,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   }
+  ],
+  "eps_revision_check": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "current": null,
+    "90daysAgo": null,
+    "chg_pct": null,
+    "up30": null,
+    "down30": null,
+    "down90": null
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "current": null,
+    "90daysAgo": null,
+    "chg_pct": null,
+    "up30": null,
+    "down30": null,
+    "down90": null
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "current": 43.8,
+    "90daysAgo": 13.9,
+    "chg_pct": 215.108,
+    "up30": 1,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "current": 51.2,
+    "90daysAgo": 13.6,
+    "chg_pct": 276.471,
+    "up30": 2,
+    "down30": 0,
+    "down90": null
+   }
+  ],
+  "net_downward_fy_eps_revision_90d": false,
+  "earnings_dates": []
+ },
+ "PETRONET": {
+  "price": 292.25,
+  "price_time": "2026-10-12",
+  "mcap_cr": 43837.5022592,
+  "trailingPE": 10.415182,
+  "forwardPE": 10.281905,
+  "pb": 1.9667686,
+  "bookValue": 148.594,
+  "trailingEps": 28.06,
+  "forwardEps": 28.42372,
+  "hi52": 326.4,
+  "lo52": 235.35,
+  "dma50_yahoo": 287.13,
+  "dma200_yahoo": 281.51675,
+  "roe_yahoo": null,
+  "de_yahoo": 10.507,
+  "ocf_yahoo": null,
+  "ev_ebitda": 6.115,
+  "target_mean": 318.2258,
+  "target_median": 320.0,
+  "target_high": 412.0,
+  "target_low": 240.0,
+  "n_analysts": 31,
+  "recommendationKey": "buy",
+  "recommendationMean": 2.29032,
+  "recommendationTrend": [
+   {
+    "period": "0m",
+    "strongBuy": 8,
+    "buy": 11,
+    "hold": 7,
+    "sell": 3,
+    "strongSell": 2
+   },
+   {
+    "period": "-1m",
+    "strongBuy": 8,
+    "buy": 11,
+    "hold": 7,
+    "sell": 3,
+    "strongSell": 2
+   },
+   {
+    "period": "-2m",
+    "strongBuy": 8,
+    "buy": 11,
+    "hold": 7,
+    "sell": 3,
+    "strongSell": 2
+   },
+   {
+    "period": "-3m",
+    "strongBuy": 8,
+    "buy": 11,
+    "hold": 7,
+    "sell": 3,
+    "strongSell": 2
+   }
+  ],
+  "earningsTrend": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "eps_avg": 7.49,
+    "eps_n_analysts": 6,
+    "rev_avg": 58912730000,
+    "epsTrend": {
+     "current": 7.49,
+     "7daysAgo": 4.5,
+     "30daysAgo": 4.5,
+     "60daysAgo": 5.0,
+     "90daysAgo": 5.0
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 0,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "eps_avg": 6.4,
+    "eps_n_analysts": 1,
+    "rev_avg": 113316500000,
+    "epsTrend": {
+     "current": 6.4,
+     "7daysAgo": 5.0,
+     "30daysAgo": 5.0,
+     "60daysAgo": 4.785,
+     "90daysAgo": 5.8
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 0,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "eps_avg": 26.6531,
+    "eps_n_analysts": 23,
+    "rev_avg": 431367741150,
+    "epsTrend": {
+     "current": 26.6531,
+     "7daysAgo": 25.7031,
+     "30daysAgo": 25.7031,
+     "60daysAgo": 23.49419,
+     "90daysAgo": 23.49419
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "eps_avg": 28.42372,
+    "eps_n_analysts": 25,
+    "rev_avg": 561060750190,
+    "epsTrend": {
+     "current": 28.42372,
+     "7daysAgo": 28.36372,
+     "30daysAgo": 28.36372,
+     "60daysAgo": 28.20372,
+     "90daysAgo": 28.20372
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   }
+  ],
+  "eps_revision_check": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "current": 7.49,
+    "90daysAgo": 5.0,
+    "chg_pct": 49.8,
+    "up30": 0,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "current": 6.4,
+    "90daysAgo": 5.8,
+    "chg_pct": 10.345,
+    "up30": 0,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "current": 26.6531,
+    "90daysAgo": 23.49419,
+    "chg_pct": 13.445,
+    "up30": 1,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "current": 28.42372,
+    "90daysAgo": 28.20372,
+    "chg_pct": 0.78,
+    "up30": 1,
+    "down30": 0,
+    "down90": null
+   }
+  ],
+  "net_downward_fy_eps_revision_90d": false,
+  "earnings_dates": [
+   "2026-11-05"
+  ]
+ },
+ "PNB": {
+  "price": 116.41,
+  "price_time": "2026-10-12",
+  "mcap_cr": 133789.3453824,
+  "trailingPE": 6.069343,
+  "forwardPE": 6.6949086,
+  "pb": 0.85561615,
+  "bookValue": 136.054,
+  "trailingEps": 19.18,
+  "forwardEps": 17.38784,
+  "hi52": 135.15,
+  "lo52": 98.5,
+  "dma50_yahoo": 115.4832,
+  "dma200_yahoo": 113.73115,
+  "roe_yahoo": 0.14965999,
+  "de_yahoo": null,
+  "ocf_yahoo": null,
+  "ev_ebitda": null,
+  "target_mean": 121.88889,
+  "target_median": 125.0,
+  "target_high": 135.0,
+  "target_low": 92.0,
+  "n_analysts": 18,
+  "recommendationKey": "buy",
+  "recommendationMean": 2.5,
+  "recommendationTrend": [
+   {
+    "period": "0m",
+    "strongBuy": 5,
+    "buy": 6,
+    "hold": 2,
+    "sell": 3,
+    "strongSell": 2
+   },
+   {
+    "period": "-1m",
+    "strongBuy": 5,
+    "buy": 6,
+    "hold": 2,
+    "sell": 3,
+    "strongSell": 2
+   },
+   {
+    "period": "-2m",
+    "strongBuy": 5,
+    "buy": 6,
+    "hold": 2,
+    "sell": 3,
+    "strongSell": 2
+   },
+   {
+    "period": "-3m",
+    "strongBuy": 4,
+    "buy": 6,
+    "hold": 2,
+    "sell": 2,
+    "strongSell": 2
+   }
+  ],
+  "earningsTrend": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "eps_avg": 3.81255,
+    "eps_n_analysts": 4,
+    "rev_avg": 152100448240,
+    "epsTrend": {
+     "current": 3.81255,
+     "7daysAgo": 0.0,
+     "30daysAgo": 0.0,
+     "60daysAgo": 0.0,
+     "90daysAgo": 0.0
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "eps_avg": 3.67109,
+    "eps_n_analysts": 3,
+    "rev_avg": 155317265060,
+    "epsTrend": {
+     "current": 3.67109,
+     "7daysAgo": 0.0,
+     "30daysAgo": 0.0,
+     "60daysAgo": 0.0,
+     "90daysAgo": 0.0
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 0,
+     "downLast30days": 1,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "eps_avg": 15.93872,
+    "eps_n_analysts": 18,
+    "rev_avg": 626248044430,
+    "epsTrend": {
+     "current": 15.69061,
+     "7daysAgo": 0.0,
+     "30daysAgo": 0.0,
+     "60daysAgo": 0.0,
+     "90daysAgo": 0.0
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 1,
+     "downLast30days": 1,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "eps_avg": 17.13078,
+    "eps_n_analysts": 17,
+    "rev_avg": 696028804020,
+    "epsTrend": {
+     "current": 16.77232,
+     "7daysAgo": 0.0,
+     "30daysAgo": 0.0,
+     "60daysAgo": 0.0,
+     "90daysAgo": 0.0
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 2,
+     "downLast30days": 1,
+     "downLast90days": null
+    }
+   }
+  ],
+  "eps_revision_check": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "current": 3.81255,
+    "90daysAgo": 0.0,
+    "chg_pct": null,
+    "up30": 1,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "current": 3.67109,
+    "90daysAgo": 0.0,
+    "chg_pct": null,
+    "up30": 0,
+    "down30": 1,
+    "down90": null
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "current": 15.69061,
+    "90daysAgo": 0.0,
+    "chg_pct": null,
+    "up30": 1,
+    "down30": 1,
+    "down90": null
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "current": 16.77232,
+    "90daysAgo": 0.0,
+    "chg_pct": null,
+    "up30": 2,
+    "down30": 1,
+    "down90": null
+   }
+  ],
+  "net_downward_fy_eps_revision_90d": null,
+  "earnings_dates": [
+   "2026-10-15"
+  ]
+ },
+ "PNBHOUSING": {
+  "price": 1168.5,
+  "price_time": "2026-10-12",
+  "mcap_cr": 30474.9379584,
+  "trailingPE": 13.179562,
+  "forwardPE": 11.086751,
+  "pb": 1.5841104,
+  "bookValue": 737.638,
+  "trailingEps": 88.66,
+  "forwardEps": 105.39607,
+  "hi52": 1211.5,
+  "lo52": 729.6,
+  "dma50_yahoo": 1141.414,
+  "dma200_yahoo": 994.32025,
+  "roe_yahoo": null,
+  "de_yahoo": 287.733,
+  "ocf_yahoo": null,
+  "ev_ebitda": null,
+  "target_mean": 1293.4615,
+  "target_median": 1325.0,
+  "target_high": 1425.0,
+  "target_low": 960.0,
+  "n_analysts": 13,
+  "recommendationKey": "strong_buy",
+  "recommendationMean": 1.38462,
+  "recommendationTrend": [
+   {
+    "period": "0m",
+    "strongBuy": 3,
+    "buy": 9,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-1m",
+    "strongBuy": 3,
+    "buy": 9,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-2m",
+    "strongBuy": 3,
+    "buy": 9,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-3m",
+    "strongBuy": 3,
+    "buy": 9,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   }
+  ],
+  "earningsTrend": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "eps_avg": 22.185,
+    "eps_n_analysts": 2,
+    "rev_avg": 9618500000,
+    "epsTrend": {
+     "current": 22.185,
+     "7daysAgo": 21.87,
+     "30daysAgo": 21.87,
+     "60daysAgo": 21.87,
+     "90daysAgo": 21.25
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "eps_avg": 22.68,
+    "eps_n_analysts": 1,
+    "rev_avg": 10412000000,
+    "epsTrend": {
+     "current": 22.68,
+     "7daysAgo": 22.1,
+     "30daysAgo": 21.85,
+     "60daysAgo": 21.9,
+     "90daysAgo": 21.9
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "eps_avg": 93.22617,
+    "eps_n_analysts": 12,
+    "rev_avg": 40596245500,
+    "epsTrend": {
+     "current": 93.22617,
+     "7daysAgo": 93.1549,
+     "30daysAgo": 93.14393,
+     "60daysAgo": 93.01059,
+     "90daysAgo": 93.1279
+    },
+    "epsRevisions": {
+     "upLast7days": 5,
+     "upLast30days": 5,
+     "downLast30days": 6,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "eps_avg": 105.39607,
+    "eps_n_analysts": 12,
+    "rev_avg": 49580135010,
+    "epsTrend": {
+     "current": 105.39607,
+     "7daysAgo": 104.88881,
+     "30daysAgo": 104.85916,
+     "60daysAgo": 104.79762,
+     "90daysAgo": 103.74617
+    },
+    "epsRevisions": {
+     "upLast7days": 9,
+     "upLast30days": 9,
+     "downLast30days": 2,
+     "downLast90days": null
+    }
+   }
+  ],
+  "eps_revision_check": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "current": 22.185,
+    "90daysAgo": 21.25,
+    "chg_pct": 4.4,
+    "up30": 1,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "current": 22.68,
+    "90daysAgo": 21.9,
+    "chg_pct": 3.562,
+    "up30": 1,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "current": 93.22617,
+    "90daysAgo": 93.1279,
+    "chg_pct": 0.106,
+    "up30": 5,
+    "down30": 6,
+    "down90": null
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "current": 105.39607,
+    "90daysAgo": 103.74617,
+    "chg_pct": 1.59,
+    "up30": 9,
+    "down30": 2,
+    "down90": null
+   }
+  ],
+  "net_downward_fy_eps_revision_90d": false,
+  "earnings_dates": []
+ },
+ "REDINGTON": {
+  "price": 387.7,
+  "price_time": "2026-10-12",
+  "mcap_cr": 30309.3940224,
+  "trailingPE": 17.817097,
+  "forwardPE": 12.678222,
+  "pb": 2.9829962,
+  "bookValue": 129.97,
+  "trailingEps": 21.76,
+  "forwardEps": 30.58,
+  "hi52": 419.5,
+  "lo52": 191.31,
+  "dma50_yahoo": 373.615,
+  "dma200_yahoo": 278.74585,
+  "roe_yahoo": null,
+  "de_yahoo": 27.26,
+  "ocf_yahoo": null,
+  "ev_ebitda": 13.151,
+  "target_mean": 438.8,
+  "target_median": 409.0,
+  "target_high": 505.0,
+  "target_low": 380.0,
+  "n_analysts": 5,
+  "recommendationKey": "strong_buy",
+  "recommendationMean": 1.0,
+  "recommendationTrend": [
+   {
+    "period": "0m",
+    "strongBuy": 0,
+    "buy": 5,
+    "hold": 0,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-1m",
+    "strongBuy": 0,
+    "buy": 5,
+    "hold": 0,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-2m",
+    "strongBuy": 0,
+    "buy": 4,
+    "hold": 0,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-3m",
+    "strongBuy": 0,
+    "buy": 4,
+    "hold": 0,
+    "sell": 0,
+    "strongSell": 0
+   }
+  ],
+  "earningsTrend": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "eps_avg": 6.5,
+    "eps_n_analysts": 1,
+    "rev_avg": 366353000000,
+    "epsTrend": {
+     "current": 6.5,
+     "7daysAgo": 0.0,
+     "30daysAgo": 0.0,
+     "60daysAgo": 6.7,
+     "90daysAgo": 0.0
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 0,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "eps_avg": null,
+    "eps_n_analysts": null,
+    "rev_avg": 0,
+    "epsTrend": {
+     "current": null,
+     "7daysAgo": null,
+     "30daysAgo": null,
+     "60daysAgo": null,
+     "90daysAgo": null
+    },
+    "epsRevisions": {
+     "upLast7days": null,
+     "upLast30days": null,
+     "downLast30days": null,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "eps_avg": 26.54,
+    "eps_n_analysts": 5,
+    "rev_avg": 1483328200000,
+    "epsTrend": {
+     "current": 26.54,
+     "7daysAgo": 26.54,
+     "30daysAgo": 26.16667,
+     "60daysAgo": 26.16667,
+     "90daysAgo": 22.9
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "eps_avg": 30.58,
+    "eps_n_analysts": 5,
+    "rev_avg": 1698639200000,
+    "epsTrend": {
+     "current": 30.58,
+     "7daysAgo": 30.58,
+     "30daysAgo": 29.9,
+     "60daysAgo": 29.9,
+     "90daysAgo": 27.43333
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   }
+  ],
+  "eps_revision_check": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "current": 6.5,
+    "90daysAgo": 0.0,
+    "chg_pct": null,
+    "up30": 0,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "current": null,
+    "90daysAgo": null,
+    "chg_pct": null,
+    "up30": null,
+    "down30": null,
+    "down90": null
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "current": 26.54,
+    "90daysAgo": 22.9,
+    "chg_pct": 15.895,
+    "up30": 1,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "current": 30.58,
+    "90daysAgo": 27.43333,
+    "chg_pct": 11.47,
+    "up30": 1,
+    "down30": 0,
+    "down90": null
+   }
+  ],
+  "net_downward_fy_eps_revision_90d": false,
+  "earnings_dates": [
+   "2026-11-04"
+  ]
+ },
+ "RELIANCE": {
+  "price": 1180.3,
+  "price_time": "2026-10-12",
+  "mcap_cr": 1597237.7296896,
+  "trailingPE": 21.374502,
+  "forwardPE": 16.611588,
+  "pb": 1.7667973,
+  "bookValue": 668.045,
+  "trailingEps": 55.22,
+  "forwardEps": 71.05281,
+  "hi52": 1611.8,
+  "lo52": 1160.2,
+  "dma50_yahoo": 1268.282,
+  "dma200_yahoo": 1341.5745,
+  "roe_yahoo": null,
+  "de_yahoo": 46.278,
+  "ocf_yahoo": null,
+  "ev_ebitda": 11.175,
+  "target_mean": 1674.72,
+  "target_median": 1690.0,
+  "target_high": 1890.0,
+  "target_low": 1350.0,
+  "n_analysts": 25,
+  "recommendationKey": "strong_buy",
+  "recommendationMean": 1.32,
+  "recommendationTrend": [
+   {
+    "period": "0m",
+    "strongBuy": 5,
+    "buy": 19,
+    "hold": 0,
+    "sell": 0,
+    "strongSell": 1
+   },
+   {
+    "period": "-1m",
+    "strongBuy": 5,
+    "buy": 20,
+    "hold": 0,
+    "sell": 0,
+    "strongSell": 1
+   },
+   {
+    "period": "-2m",
+    "strongBuy": 5,
+    "buy": 20,
+    "hold": 0,
+    "sell": 0,
+    "strongSell": 1
+   },
+   {
+    "period": "-3m",
+    "strongBuy": 5,
+    "buy": 25,
+    "hold": 0,
+    "sell": 0,
+    "strongSell": 1
+   }
+  ],
+  "earningsTrend": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "eps_avg": 16.925,
+    "eps_n_analysts": 6,
+    "rev_avg": 3134108100000,
+    "epsTrend": {
+     "current": 12.3,
+     "7daysAgo": 0.0,
+     "30daysAgo": 0.0,
+     "60daysAgo": 0.0,
+     "90daysAgo": 0.0
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 0,
+     "downLast30days": 1,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "eps_avg": 17.49,
+    "eps_n_analysts": 2,
+    "rev_avg": 3041012666670,
+    "epsTrend": {
+     "current": 17.49,
+     "7daysAgo": 17.655,
+     "30daysAgo": 17.655,
+     "60daysAgo": 17.655,
+     "90daysAgo": 17.26
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 0,
+     "downLast30days": 1,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "eps_avg": 63.78182,
+    "eps_n_analysts": 26,
+    "rev_avg": 11835899262950,
+    "epsTrend": {
+     "current": 33.26667,
+     "7daysAgo": 29.95,
+     "30daysAgo": 25.83333,
+     "60daysAgo": 25.46667,
+     "90daysAgo": 27.45
+    },
+    "epsRevisions": {
+     "upLast7days": 2,
+     "upLast30days": 3,
+     "downLast30days": 2,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "eps_avg": 71.0682,
+    "eps_n_analysts": 26,
+    "rev_avg": 12423383824820,
+    "epsTrend": {
+     "current": 28.1,
+     "7daysAgo": 29.45,
+     "30daysAgo": 26.0,
+     "60daysAgo": 25.83333,
+     "90daysAgo": 27.4
+    },
+    "epsRevisions": {
+     "upLast7days": 2,
+     "upLast30days": 2,
+     "downLast30days": 1,
+     "downLast90days": null
+    }
+   }
+  ],
+  "eps_revision_check": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "current": 12.3,
+    "90daysAgo": 0.0,
+    "chg_pct": null,
+    "up30": 0,
+    "down30": 1,
+    "down90": null
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "current": 17.49,
+    "90daysAgo": 17.26,
+    "chg_pct": 1.333,
+    "up30": 0,
+    "down30": 1,
+    "down90": null
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "current": 33.26667,
+    "90daysAgo": 27.45,
+    "chg_pct": 21.19,
+    "up30": 3,
+    "down30": 2,
+    "down90": null
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "current": 28.1,
+    "90daysAgo": 27.4,
+    "chg_pct": 2.555,
+    "up30": 2,
+    "down30": 1,
+    "down90": null
+   }
+  ],
+  "net_downward_fy_eps_revision_90d": false,
+  "earnings_dates": [
+   "2026-10-16"
+  ]
+ },
+ "SHYAMMETL": {
+  "price": 1069.9,
+  "price_time": "2026-10-12",
+  "mcap_cr": 29784.129536,
+  "trailingPE": 26.69411,
+  "forwardPE": 15.69235,
+  "pb": 2.6453273,
+  "bookValue": 404.449,
+  "trailingEps": 40.08,
+  "forwardEps": 68.17972,
+  "hi52": 1148.0,
+  "lo52": 746.0,
+  "dma50_yahoo": 1047.524,
+  "dma200_yahoo": 927.9235,
+  "roe_yahoo": null,
+  "de_yahoo": 8.133,
+  "ocf_yahoo": null,
+  "ev_ebitda": 12.351,
+  "target_mean": 1199.4445,
+  "target_median": 1170.0,
+  "target_high": 1550.0,
+  "target_low": 1014.0,
+  "n_analysts": 9,
+  "recommendationKey": "strong_buy",
+  "recommendationMean": 1.33333,
+  "recommendationTrend": [
+   {
+    "period": "0m",
+    "strongBuy": 1,
+    "buy": 7,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-1m",
+    "strongBuy": 1,
+    "buy": 7,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   }
+  ],
+  "earningsTrend": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "eps_avg": 14.4731,
+    "eps_n_analysts": 2,
+    "rev_avg": 56812515000,
+    "epsTrend": {
+     "current": 14.4731,
+     "7daysAgo": 13.48,
+     "30daysAgo": 13.48,
+     "60daysAgo": 13.48,
+     "90daysAgo": 14.0
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 0,
+     "downLast30days": 1,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "eps_avg": 17.08466,
+    "eps_n_analysts": 2,
+    "rev_avg": 55306025000,
+    "epsTrend": {
+     "current": 17.08466,
+     "7daysAgo": 17.23,
+     "30daysAgo": 17.23,
+     "60daysAgo": 17.23,
+     "90daysAgo": 16.9
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "eps_avg": 53.46768,
+    "eps_n_analysts": 9,
+    "rev_avg": 232442420790,
+    "epsTrend": {
+     "current": 53.46768,
+     "7daysAgo": 53.20978,
+     "30daysAgo": 53.20978,
+     "60daysAgo": 53.20978,
+     "90daysAgo": 51.18211
+    },
+    "epsRevisions": {
+     "upLast7days": 6,
+     "upLast30days": 5,
+     "downLast30days": 2,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "eps_avg": 67.94083,
+    "eps_n_analysts": 9,
+    "rev_avg": 284113253390,
+    "epsTrend": {
+     "current": 67.94083,
+     "7daysAgo": 67.53877,
+     "30daysAgo": 67.53877,
+     "60daysAgo": 67.53877,
+     "90daysAgo": 65.71751
+    },
+    "epsRevisions": {
+     "upLast7days": 5,
+     "upLast30days": 5,
+     "downLast30days": 1,
+     "downLast90days": null
+    }
+   }
+  ],
+  "eps_revision_check": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "current": 14.4731,
+    "90daysAgo": 14.0,
+    "chg_pct": 3.379,
+    "up30": 0,
+    "down30": 1,
+    "down90": null
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "current": 17.08466,
+    "90daysAgo": 16.9,
+    "chg_pct": 1.093,
+    "up30": 1,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "current": 53.46768,
+    "90daysAgo": 51.18211,
+    "chg_pct": 4.466,
+    "up30": 5,
+    "down30": 2,
+    "down90": null
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "current": 67.94083,
+    "90daysAgo": 65.71751,
+    "chg_pct": 3.383,
+    "up30": 5,
+    "down30": 1,
+    "down90": null
+   }
+  ],
+  "net_downward_fy_eps_revision_90d": false,
+  "earnings_dates": []
+ },
+ "SOLARINDS": {
+  "price": 20206.0,
+  "price_time": "2026-10-12",
+  "mcap_cr": 182844.2079232,
+  "trailingPE": 91.82041,
+  "forwardPE": 57.775047,
+  "pb": 29.128326,
+  "bookValue": 693.689,
+  "trailingEps": 220.06,
+  "forwardEps": 349.73575,
+  "hi52": 22700.0,
+  "lo52": 11646.0,
+  "dma50_yahoo": 19937.3,
+  "dma200_yahoo": 16598.555,
+  "roe_yahoo": null,
+  "de_yahoo": 23.271,
+  "ocf_yahoo": null,
+  "ev_ebitda": 58.681,
+  "target_mean": 22455.295,
+  "target_median": 23000.0,
+  "target_high": 28160.0,
+  "target_low": 11200.0,
+  "n_analysts": 17,
+  "recommendationKey": "buy",
+  "recommendationMean": 1.70588,
+  "recommendationTrend": [
+   {
+    "period": "0m",
+    "strongBuy": 2,
+    "buy": 11,
+    "hold": 3,
+    "sell": 1,
+    "strongSell": 0
+   },
+   {
+    "period": "-1m",
+    "strongBuy": 2,
+    "buy": 11,
+    "hold": 3,
+    "sell": 1,
+    "strongSell": 0
+   },
+   {
+    "period": "-2m",
+    "strongBuy": 2,
+    "buy": 8,
+    "hold": 2,
+    "sell": 1,
+    "strongSell": 0
+   },
+   {
+    "period": "-3m",
+    "strongBuy": 1,
+    "buy": 10,
+    "hold": 1,
+    "sell": 1,
+    "strongSell": 0
+   }
+  ],
+  "earningsTrend": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "eps_avg": 54.8725,
+    "eps_n_analysts": 4,
+    "rev_avg": 30719000000,
+    "epsTrend": {
+     "current": 54.8725,
+     "7daysAgo": 52.195,
+     "30daysAgo": 52.195,
+     "60daysAgo": 55.62,
+     "90daysAgo": 55.62
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 0,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "eps_avg": 62.885,
+    "eps_n_analysts": 2,
+    "rev_avg": 34905500000,
+    "epsTrend": {
+     "current": 62.885,
+     "7daysAgo": 62.105,
+     "30daysAgo": 62.105,
+     "60daysAgo": 63.145,
+     "90daysAgo": 63.145
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 1,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "eps_avg": 280.8705,
+    "eps_n_analysts": 17,
+    "rev_avg": 141260505270,
+    "epsTrend": {
+     "current": 280.8705,
+     "7daysAgo": 280.7411,
+     "30daysAgo": 281.89493,
+     "60daysAgo": 268.4314,
+     "90daysAgo": 268.95416
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 1,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "eps_avg": 349.73575,
+    "eps_n_analysts": 15,
+    "rev_avg": 174267762320,
+    "epsTrend": {
+     "current": 349.73575,
+     "7daysAgo": 351.10242,
+     "30daysAgo": 352.05267,
+     "60daysAgo": 333.25168,
+     "90daysAgo": 333.11
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   }
+  ],
+  "eps_revision_check": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "current": 54.8725,
+    "90daysAgo": 55.62,
+    "chg_pct": -1.344,
+    "up30": 0,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "current": 62.885,
+    "90daysAgo": 63.145,
+    "chg_pct": -0.412,
+    "up30": 1,
+    "down30": 1,
+    "down90": null
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "current": 280.8705,
+    "90daysAgo": 268.95416,
+    "chg_pct": 4.431,
+    "up30": 1,
+    "down30": 1,
+    "down90": null
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "current": 349.73575,
+    "90daysAgo": 333.11,
+    "chg_pct": 4.991,
+    "up30": 1,
+    "down30": 0,
+    "down90": null
+   }
+  ],
+  "net_downward_fy_eps_revision_90d": false,
+  "earnings_dates": [
+   "2026-11-20"
+  ]
+ },
+ "TCS": {
+  "price": 2173.1,
+  "price_time": "2026-10-12",
+  "mcap_cr": 786246.6117632,
+  "trailingPE": 15.232721,
+  "forwardPE": 13.486603,
+  "pb": 7.171616,
+  "bookValue": 303.014,
+  "trailingEps": 142.66,
+  "forwardEps": 161.13028,
+  "hi52": 3350.0,
+  "lo52": 1976.8,
+  "dma50_yahoo": 2243.79,
+  "dma200_yahoo": 2443.223,
+  "roe_yahoo": 0.47743,
+  "de_yahoo": 10.211,
+  "ocf_yahoo": 523459985408,
+  "ev_ebitda": 9.97,
+  "target_mean": 2445.5366,
+  "target_median": 2400.0,
+  "target_high": 3480.0,
+  "target_low": 1800.0,
+  "n_analysts": 41,
+  "recommendationKey": "buy",
+  "recommendationMean": 2.19512,
+  "recommendationTrend": [
+   {
+    "period": "0m",
+    "strongBuy": 10,
+    "buy": 16,
+    "hold": 10,
+    "sell": 4,
+    "strongSell": 1
+   },
+   {
+    "period": "-1m",
+    "strongBuy": 9,
+    "buy": 16,
+    "hold": 10,
+    "sell": 4,
+    "strongSell": 2
+   },
+   {
+    "period": "-2m",
+    "strongBuy": 9,
+    "buy": 16,
+    "hold": 11,
+    "sell": 3,
+    "strongSell": 2
+   },
+   {
+    "period": "-3m",
+    "strongBuy": 9,
+    "buy": 19,
+    "hold": 10,
+    "sell": 3,
+    "strongSell": 1
+   }
+  ],
+  "earningsTrend": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "eps_avg": 38.06858,
+    "eps_n_analysts": 20,
+    "rev_avg": 731220935140,
+    "epsTrend": {
+     "current": 38.06858,
+     "7daysAgo": 37.9352,
+     "30daysAgo": 37.93163,
+     "60daysAgo": 37.90879,
+     "90daysAgo": 38.33695
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "eps_avg": 38.7502,
+    "eps_n_analysts": 6,
+    "rev_avg": 730947630360,
+    "epsTrend": {
+     "current": 38.7502,
+     "7daysAgo": 38.63308,
+     "30daysAgo": 38.63308,
+     "60daysAgo": 38.62721,
+     "90daysAgo": 38.9857
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 0,
+     "downLast30days": 1,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "eps_avg": 154.37543,
+    "eps_n_analysts": 34,
+    "rev_avg": 2914070609920,
+    "epsTrend": {
+     "current": 154.37543,
+     "7daysAgo": 155.04749,
+     "30daysAgo": 155.08232,
+     "60daysAgo": 155.00272,
+     "90daysAgo": 155.1817
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 2,
+     "downLast30days": 2,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "eps_avg": 161.95914,
+    "eps_n_analysts": 38,
+    "rev_avg": 3042673343280,
+    "epsTrend": {
+     "current": 161.95914,
+     "7daysAgo": 162.51466,
+     "30daysAgo": 162.4991,
+     "60daysAgo": 162.42776,
+     "90daysAgo": 163.814
+    },
+    "epsRevisions": {
+     "upLast7days": 0,
+     "upLast30days": 1,
+     "downLast30days": 2,
+     "downLast90days": null
+    }
+   }
+  ],
+  "eps_revision_check": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "current": 38.06858,
+    "90daysAgo": 38.33695,
+    "chg_pct": -0.7,
+    "up30": 1,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "current": 38.7502,
+    "90daysAgo": 38.9857,
+    "chg_pct": -0.604,
+    "up30": 0,
+    "down30": 1,
+    "down90": null
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "current": 154.37543,
+    "90daysAgo": 155.1817,
+    "chg_pct": -0.52,
+    "up30": 2,
+    "down30": 2,
+    "down90": null
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "current": 161.95914,
+    "90daysAgo": 163.814,
+    "chg_pct": -1.132,
+    "up30": 1,
+    "down30": 2,
+    "down90": null
+   }
+  ],
+  "net_downward_fy_eps_revision_90d": true,
+  "earnings_dates": [
+   "2026-10-08"
+  ]
+ },
+ "WELCORP": {
+  "price": 2693.0,
+  "price_time": "2026-10-12",
+  "mcap_cr": 71015.4715136,
+  "trailingPE": 30.766594,
+  "forwardPE": 24.017569,
+  "pb": 7.759085,
+  "bookValue": 347.077,
+  "trailingEps": 87.53,
+  "forwardEps": 112.12625,
+  "hi52": 2900.0,
+  "lo52": 710.0,
+  "dma50_yahoo": 2384.316,
+  "dma200_yahoo": 1433.2665,
+  "roe_yahoo": null,
+  "de_yahoo": 25.042,
+  "ocf_yahoo": null,
+  "ev_ebitda": 28.456,
+  "target_mean": 2751.0562,
+  "target_median": 2811.725,
+  "target_high": 3145.0,
+  "target_low": 2233.0,
+  "n_analysts": 8,
+  "recommendationKey": "strong_buy",
+  "recommendationMean": 1.25,
+  "recommendationTrend": [
+   {
+    "period": "0m",
+    "strongBuy": 0,
+    "buy": 7,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-1m",
+    "strongBuy": 0,
+    "buy": 7,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-2m",
+    "strongBuy": 0,
+    "buy": 5,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   },
+   {
+    "period": "-3m",
+    "strongBuy": 0,
+    "buy": 5,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   }
+  ],
+  "earningsTrend": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "eps_avg": 19.5,
+    "eps_n_analysts": 1,
+    "rev_avg": 46321250000,
+    "epsTrend": {
+     "current": 19.5,
+     "7daysAgo": 19.6,
+     "30daysAgo": 18.9,
+     "60daysAgo": 18.9,
+     "90daysAgo": 18.9
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "eps_avg": 21.7,
+    "eps_n_analysts": 1,
+    "rev_avg": 58696000000,
+    "epsTrend": {
+     "current": 21.7,
+     "7daysAgo": 21.7,
+     "30daysAgo": 18.8,
+     "60daysAgo": 18.8,
+     "90daysAgo": 18.8
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 1,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "eps_avg": 86.02,
+    "eps_n_analysts": 8,
+    "rev_avg": 216541714290,
+    "epsTrend": {
+     "current": 86.02,
+     "7daysAgo": 84.895,
+     "30daysAgo": 84.895,
+     "60daysAgo": 84.5,
+     "90daysAgo": 74.55
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 2,
+     "downLast30days": 1,
+     "downLast90days": null
+    }
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "eps_avg": 112.12625,
+    "eps_n_analysts": 8,
+    "rev_avg": 288395714290,
+    "epsTrend": {
+     "current": 112.12625,
+     "7daysAgo": 110.03875,
+     "30daysAgo": 108.56375,
+     "60daysAgo": 98.66667,
+     "90daysAgo": 90.73333
+    },
+    "epsRevisions": {
+     "upLast7days": 1,
+     "upLast30days": 2,
+     "downLast30days": 0,
+     "downLast90days": null
+    }
+   }
+  ],
+  "eps_revision_check": [
+   {
+    "period": "0q",
+    "endDate": "2026-09-30",
+    "current": 19.5,
+    "90daysAgo": 18.9,
+    "chg_pct": 3.175,
+    "up30": 1,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "+1q",
+    "endDate": "2026-12-31",
+    "current": 21.7,
+    "90daysAgo": 18.8,
+    "chg_pct": 15.426,
+    "up30": 1,
+    "down30": 0,
+    "down90": null
+   },
+   {
+    "period": "0y",
+    "endDate": "2027-03-31",
+    "current": 86.02,
+    "90daysAgo": 74.55,
+    "chg_pct": 15.386,
+    "up30": 2,
+    "down30": 1,
+    "down90": null
+   },
+   {
+    "period": "+1y",
+    "endDate": "2028-03-31",
+    "current": 112.12625,
+    "90daysAgo": 90.73333,
+    "chg_pct": 23.578,
+    "up30": 2,
+    "down30": 0,
+    "down90": null
+   }
+  ],
+  "net_downward_fy_eps_revision_90d": false,
+  "earnings_dates": []
+ }
+}

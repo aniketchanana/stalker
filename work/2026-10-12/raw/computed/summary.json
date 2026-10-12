@@ -1,0 +1,403 @@
+{
+ "session": "2026-10-09",
+ "computed_count": 499,
+ "missing_or_short": [
+  "BAGMANE",
+  "DUMMYHEG"
+ ],
+ "names_last_bar_not_session": [],
+ "session_dates": [
+  "2026-10-09"
+ ],
+ "breadth": {
+  "universe": "Nifty 500 constituents (niftyindices CSV, 501 rows)",
+  "sample_with_50dma": 499,
+  "above_50dma_count": 89,
+  "above_50dma_pct": 17.84,
+  "sample_with_20dma": 499,
+  "above_20dma_count": 97,
+  "above_20dma_pct": 19.44,
+  "sample_with_200dma": 490,
+  "above_200dma_count": 188,
+  "above_200dma_pct": 38.37,
+  "nifty50_sample_with_50dma": 50,
+  "nifty50_above_50dma_count": 7,
+  "nifty50_above_50dma_pct": 14.0,
+  "nifty50_above_50dma": [
+   "ADANIPORTS",
+   "AXISBANK",
+   "DRREDDY",
+   "ETERNAL",
+   "HDFCLIFE",
+   "KOTAKBANK",
+   "TRENT"
+  ]
+ },
+ "vix_trend": {
+  "now": 14.380000114440918,
+  "now_date": "2026-10-09",
+  "ago_21_sessions": 11.229999542236328,
+  "ago_date": "2026-09-08",
+  "change": 3.15000057220459,
+  "change_pct": 28.049872667913768,
+  "direction": "up",
+  "last_10_closes": [
+   [
+    "2026-09-25",
+    12.15999984741211
+   ],
+   [
+    "2026-09-28",
+    13.640000343322754
+   ],
+   [
+    "2026-09-29",
+    13.40999984741211
+   ],
+   [
+    "2026-09-30",
+    13.489999771118164
+   ],
+   [
+    "2026-10-01",
+    14.460000038146973
+   ],
+   [
+    "2026-10-05",
+    14.779999732971191
+   ],
+   [
+    "2026-10-06",
+    13.609999656677246
+   ],
+   [
+    "2026-10-07",
+    13.890000343322754
+   ],
+   [
+    "2026-10-08",
+    15.279999732971191
+   ],
+   [
+    "2026-10-09",
+    14.380000114440918
+   ]
+  ]
+ },
+ "tech_rule_A_count": 72,
+ "tech_rule_A": [
+  "ABDL",
+  "ACE",
+  "ACMESOLAR",
+  "ADANIPORTS",
+  "AEGISLOG",
+  "AETHER",
+  "AIIL",
+  "APARINDS",
+  "ASAHIINDIA",
+  "AUROPHARMA",
+  "AZAD",
+  "BALRAMCHIN",
+  "BBOX",
+  "BHEL",
+  "CARBORUNIV",
+  "CARTRADE",
+  "CASTROLIND",
+  "CHENNPETRO",
+  "COFORGE",
+  "CPPLUS",
+  "CUB",
+  "CUPID",
+  "CYIENT",
+  "DIVISLAB",
+  "ENGINERSIN",
+  "ETERNAL",
+  "FINCABLES",
+  "GESHIP",
+  "GLAND",
+  "GRAPHITE",
+  "HFCL",
+  "INOXINDIA",
+  "IPCALAB",
+  "JYOTICNC",
+  "KARURVYSYA",
+  "KIRLOSENG",
+  "KOTAKBANK",
+  "KPIL",
+  "LALPATHLAB",
+  "LAURUSLABS",
+  "LENSKART",
+  "LGEINDIA",
+  "MAHABANK",
+  "MCX",
+  "MEESHO",
+  "MOTILALOFS",
+  "MRPL",
+  "MTARTECH",
+  "NAVINFLUOR",
+  "NUVAMA",
+  "NYKAA",
+  "PERSISTENT",
+  "PETRONET",
+  "PNB",
+  "PNBHOUSING",
+  "PTCIL",
+  "PVRINOX",
+  "PWL",
+  "RADICO",
+  "RBLBANK",
+  "REDINGTON",
+  "RRKABEL",
+  "SANSERA",
+  "SHYAMMETL",
+  "SOLARINDS",
+  "STLTECH",
+  "SYRMA",
+  "TDPOWERSYS",
+  "TEGA",
+  "URBANCO",
+  "WELCORP",
+  "WELSPUNLIV"
+ ],
+ "tech_rule_B_count": 1,
+ "tech_rule_B": [
+  "LICHSGFIN"
+ ],
+ "tech_pass_count": 73,
+ "single_bar_indices": {
+  "IDX_CNXAUTO.json": {
+   "n_bars": 1,
+   "last": {
+    "date": "2026-10-09",
+    "open": 24608.94921875,
+    "high": 24975.94921875,
+    "low": 24456.5,
+    "close": 24859.900390625,
+    "volume": 0.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXAUTO"
+  },
+  "IDX_CNXCMDT.json": {
+   "n_bars": 1,
+   "last": {
+    "date": "2026-10-09",
+    "open": 8871.599609375,
+    "high": 8934.650390625,
+    "low": 8827.349609375,
+    "close": 8923.400390625,
+    "volume": 0.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXCMDT"
+  },
+  "IDX_CNXCONSUM.json": {
+   "n_bars": 1,
+   "last": {
+    "date": "2026-10-09",
+    "open": 10788.0498046875,
+    "high": 10939.650390625,
+    "low": 10768.2998046875,
+    "close": 10903.4501953125,
+    "volume": 0.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXCONSUM"
+  },
+  "IDX_CNXENERGY.json": {
+   "n_bars": 1,
+   "last": {
+    "date": "2026-10-09",
+    "open": 35708.5,
+    "high": 35921.75,
+    "low": 35354.94921875,
+    "close": 35786.5,
+    "volume": 0.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXENERGY"
+  },
+  "IDX_CNXFIN.json": {
+   "n_bars": 1,
+   "last": {
+    "date": "2026-10-09",
+    "open": 26548.5,
+    "high": 26899.19921875,
+    "low": 26506.150390625,
+    "close": 26822.05078125,
+    "volume": 0.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXFIN"
+  },
+  "IDX_CNXFMCG.json": {
+   "n_bars": 1,
+   "last": {
+    "date": "2026-10-09",
+    "open": 43953.55078125,
+    "high": 45018.6015625,
+    "low": 43936.55078125,
+    "close": 44864.25,
+    "volume": 0.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXFMCG"
+  },
+  "IDX_CNXINFRA.json": {
+   "n_bars": 1,
+   "last": {
+    "date": "2026-10-09",
+    "open": 8536.150390625,
+    "high": 8597.150390625,
+    "low": 8486.900390625,
+    "close": 8574.4501953125,
+    "volume": 0.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXINFRA"
+  },
+  "IDX_CNXMEDIA.json": {
+   "n_bars": 1,
+   "last": {
+    "date": "2026-10-09",
+    "open": 1537.1500244140625,
+    "high": 1558.949951171875,
+    "low": 1530.5,
+    "close": 1553.300048828125,
+    "volume": 0.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXMEDIA"
+  },
+  "IDX_CNXMETAL.json": {
+   "n_bars": 1,
+   "last": {
+    "date": "2026-10-09",
+    "open": 11912.150390625,
+    "high": 12040.2001953125,
+    "low": 11823.599609375,
+    "close": 12000.75,
+    "volume": 0.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXMETAL"
+  },
+  "IDX_CNXMNC.json": {
+   "n_bars": 1,
+   "last": {
+    "date": "2026-10-09",
+    "open": 29545.099609375,
+    "high": 29872.099609375,
+    "low": 29340.30078125,
+    "close": 29737.44921875,
+    "volume": 0.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXMNC"
+  },
+  "IDX_CNXPSE.json": {
+   "n_bars": 1,
+   "last": {
+    "date": "2026-10-09",
+    "open": 9026.5498046875,
+    "high": 9106.5,
+    "low": 8976.75,
+    "close": 9077.75,
+    "volume": 0.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXPSE"
+  },
+  "IDX_CNXPSUBANK.json": {
+   "n_bars": 1,
+   "last": {
+    "date": "2026-10-09",
+    "open": 8030.7998046875,
+    "high": 8141.9501953125,
+    "low": 7996.75,
+    "close": 8126.35009765625,
+    "volume": 0.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXPSUBANK"
+  },
+  "IDX_CNXREALTY.json": {
+   "n_bars": 1,
+   "last": {
+    "date": "2026-10-09",
+    "open": 800.7999877929688,
+    "high": 808.25,
+    "low": 794.6500244140625,
+    "close": 803.9500122070312,
+    "volume": 0.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXREALTY"
+  },
+  "IDX_CNXSC.json": {
+   "n_bars": 1,
+   "last": {
+    "date": "2026-10-09",
+    "open": 19087.650390625,
+    "high": 19239.349609375,
+    "low": 18875.400390625,
+    "close": 19153.69921875,
+    "volume": 0.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXSC"
+  },
+  "IDX_CNXSERVICE.json": {
+   "n_bars": 1,
+   "last": {
+    "date": "2026-10-09",
+    "open": 28770.05078125,
+    "high": 29175.5,
+    "low": 28770.05078125,
+    "close": 29090.69921875,
+    "volume": 0.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXSERVICE"
+  },
+  "IDX_NIFTY_FIN_SERVICE.NS.json": {
+   "n_bars": 1,
+   "last": {
+    "date": "2026-10-09",
+    "open": 24722.150390625,
+    "high": 25046.849609375,
+    "low": 24682.05078125,
+    "close": 24968.5,
+    "volume": 0.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "NIFTY_FIN_SERVICE.NS"
+  },
+  "IDX_NIFTY_HEALTHCARE.NS.json": {
+   "n_bars": 1,
+   "last": {
+    "date": "2026-10-09",
+    "open": 15782.599609375,
+    "high": 15902.4501953125,
+    "low": 15661.75,
+    "close": 15855.5498046875,
+    "volume": 0.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "NIFTY_HEALTHCARE.NS"
+  },
+  "IDX_NIFTY_MIDCAP_100.NS.json": {
+   "n_bars": 1,
+   "last": {
+    "date": "2026-10-09",
+    "open": 58116.05078125,
+    "high": 58939.75,
+    "low": 57944.30078125,
+    "close": 58787.30078125,
+    "volume": 0.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "NIFTY_MIDCAP_100.NS"
+  }
+ }
+}

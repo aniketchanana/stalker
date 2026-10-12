@@ -1,0 +1,655 @@
+{
+ "KPIL": {
+  "value": 24.55,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1695473_17072026053831_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "33.58",
+  "notes": "Pledged 14077560 of 57346137 promoter shares; total encumbered 14077560 (24.55%). Promoter % of equity 33.58. Filed 17-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "REDINGTON": {
+  "value": null,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1690559_10072026052427_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "0",
+  "notes": "No promoter-group shares in XBRL (promoter % on NSE master=0); pledge not applicable",
+  "xbrl_http": 200
+ },
+ "CHENNPETRO": {
+  "value": 0.0,
+  "as_of": "30-SEP-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1732947_05102026034747_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "67.29",
+  "notes": "Pledged 0 of 100198100 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 67.29. Filed 05-OCT-2026.",
+  "xbrl_http": 200
+ },
+ "ABDL": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1697389_20072026065220_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "80.91",
+  "notes": "Pledged 0 of 226320072 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 80.91. Filed 20-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "ACE": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1689371_08072026053128_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "65.42",
+  "notes": "Pledged 0 of 77908063 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 65.42. Filed 08-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "ACMESOLAR": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1697407_20072026065935_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "71.4",
+  "notes": "Pledged 0 of 504733862 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 71.4. Filed 20-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "ADANIPORTS": {
+  "value": 0.0,
+  "as_of": "30-SEP-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1735409_10102026035052_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "66.03",
+  "notes": "Pledged 0 of 1521337573 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 66.03. Filed 10-OCT-2026.",
+  "xbrl_http": 200
+ },
+ "AEGISLOG": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1697751_21072026110533_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "58.1",
+  "notes": "Pledged 0 of 203924675 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 58.1. Filed 21-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "AETHER": {
+  "value": 0.0,
+  "as_of": "30-SEP-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1734361_08102026044208_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "74.92",
+  "notes": "Pledged 0 of 99437293 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 74.92. Filed 08-OCT-2026.",
+  "xbrl_http": 200
+ },
+ "AIIL": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1697577_20072026084500_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "68.81",
+  "notes": "Pledged 0 of 584363708 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 68.81. Filed 20-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "APARINDS": {
+  "value": 0.0,
+  "as_of": "13-AUG-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1716338_20082026031300_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "55.42",
+  "notes": "Pledged 0 of 23204303 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 55.42. Filed 20-AUG-2026.",
+  "xbrl_http": 200
+ },
+ "ASAHIINDIA": {
+  "value": 3.36,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1698182_21072026033651_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "51.57",
+  "notes": "Pledged 4415000 of 131470456 promoter shares; total encumbered 4415000 (3.36%). Promoter % of equity 51.57. Filed 21-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "AUROPHARMA": {
+  "value": 13.75,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1693124_15072026033059_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "51.88",
+  "notes": "Pledged 41060000 of 298522726 promoter shares; total encumbered 41060000 (13.75%). Promoter % of equity 51.88. Filed 15-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "AZAD": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1693098_15072026031607_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "55.84",
+  "notes": "Pledged 0 of 36064240 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 55.84. Filed 15-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "BALRAMCHIN": {
+  "value": 0.0,
+  "as_of": "30-SEP-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1735220_09102026074157_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "42.79",
+  "notes": "Pledged 0 of 90541617 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 42.79. Filed 09-OCT-2026.",
+  "xbrl_http": 200
+ },
+ "BBOX": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1694791_17072026105505_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "69.95",
+  "notes": "Pledged 0 of 124237593 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 69.95. Filed 17-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "BHEL": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1691969_14072026122912_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "58.17",
+  "notes": "Pledged 0 of 2025440587 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 58.17. Filed 14-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "CARBORUNIV": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1697761_21072026111336_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "38.89",
+  "notes": "Pledged 0 of 74087399 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 38.89. Filed 21-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "CARTRADE": {
+  "value": null,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1695609_17072026063133_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "0",
+  "notes": "No promoter-group shares in XBRL (promoter % on NSE master=0); pledge not applicable",
+  "xbrl_http": 200
+ },
+ "CASTROLIND": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1693471_15072026060051_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "51",
+  "notes": "Pledged 0 of 504452416 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 51. Filed 15-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "COFORGE": {
+  "value": null,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1697638_20072026102839_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "0",
+  "notes": "No promoter-group shares in XBRL (promoter % on NSE master=0); pledge not applicable",
+  "xbrl_http": 200
+ },
+ "CPPLUS": {
+  "value": 0.0,
+  "as_of": "25-SEP-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1733076_05102026055018_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "71.8",
+  "notes": "Pledged 0 of 88044563 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 71.8. Filed 05-OCT-2026.",
+  "xbrl_http": 200
+ },
+ "CUB": {
+  "value": null,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1695604_17072026062538_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "0",
+  "notes": "No promoter-group shares in XBRL (promoter % on NSE master=0); pledge not applicable",
+  "xbrl_http": 200
+ },
+ "CUPID": {
+  "value": 8.03,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1693218_15072026041154_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "46.24",
+  "notes": "Pledged 49936975 of 621821400 promoter shares; total encumbered 49936975 (8.03%). Promoter % of equity 46.24. Filed 15-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "CYIENT": {
+  "value": 0.0,
+  "as_of": "15-JUL-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1701276_24072026082345_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "24.7",
+  "notes": "Pledged 0 of 25870288 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 24.7. Filed 24-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "DIVISLAB": {
+  "value": 0.0,
+  "as_of": "30-SEP-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1733233_06102026103802_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "51.88",
+  "notes": "Pledged 0 of 137715090 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 51.88. Filed 06-OCT-2026.",
+  "xbrl_http": 200
+ },
+ "ENGINERSIN": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1692204_14072026033843_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "51.32",
+  "notes": "Pledged 0 of 288458584 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 51.32. Filed 14-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "ETERNAL": {
+  "value": null,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1689462_08072026071407_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "0",
+  "notes": "No promoter-group shares in XBRL (promoter % on NSE master=0); pledge not applicable",
+  "xbrl_http": 200
+ },
+ "FINCABLES": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1694064_16072026030339_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "35.86",
+  "notes": "Pledged 0 of 54841170 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 35.86. Filed 16-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "GESHIP": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1693804_16072026113118_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "30.07",
+  "notes": "Pledged 0 of 42936248 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 30.07. Filed 16-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "GLAND": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1697195_20072026055314_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "51.77",
+  "notes": "Pledged 0 of 85393934 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 51.77. Filed 20-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "GRAPHITE": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1696478_20072026115941_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "65.34",
+  "notes": "Pledged 0 of 127659645 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 65.34. Filed 20-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "HFCL": {
+  "value": 2.08,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1693810_16072026113543_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "28.29",
+  "notes": "Pledged 9000000 of 433044594 promoter shares; total encumbered 250548750 (57.86%). Promoter % of equity 28.29. Filed 16-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "INOXINDIA": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1691439_13072026041636_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "74.86",
+  "notes": "Pledged 0 of 67947285 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 74.86. Filed 13-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "IPCALAB": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1694779_17072026104110_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "44.72",
+  "notes": "Pledged 0 of 113467472 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 44.72. Filed 17-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "JYOTICNC": {
+  "value": 12.35,
+  "as_of": "30-SEP-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1734330_08102026042053_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "62.55",
+  "notes": "Pledged 17561000 of 142246495 promoter shares; total encumbered 17561000 (12.35%). Promoter % of equity 62.55. Filed 08-OCT-2026.",
+  "xbrl_http": 200
+ },
+ "KARURVYSYA": {
+  "value": 3.85,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1697854_21072026122222_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "2.07",
+  "notes": "Pledged 769348 of 19968960 promoter shares; total encumbered 769348 (3.85%). Promoter % of equity 2.07. Filed 21-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "KIRLOSENG": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1698188_21072026033833_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "41.07",
+  "notes": "Pledged 0 of 59705363 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 41.07. Filed 21-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "KOTAKBANK": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1692686_14072026081830_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "25.87",
+  "notes": "Pledged 0 of 2573201985 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 25.87. Filed 14-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "LALPATHLAB": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1698749_21072026070518_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "53.19",
+  "notes": "Pledged 0 of 89162270 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 53.19. Filed 21-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "LAURUSLABS": {
+  "value": 2.69,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1698821_21072026073746_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "27.47",
+  "notes": "Pledged 4000000 of 148431720 promoter shares; total encumbered 4000000 (2.69%). Promoter % of equity 27.47. Filed 21-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "LENSKART": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1694639_16072026073651_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "17.53",
+  "notes": "Pledged 0 of 304795727 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 17.53. Filed 16-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "LGEINDIA": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1696319_18072026081807_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "85",
+  "notes": "Pledged 0 of 576956533 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 85. Filed 18-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "MAHABANK": {
+  "value": 0.0,
+  "as_of": "30-SEP-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1734163_08102026125019_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "73.6",
+  "notes": "Pledged 0 of 5661059630 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 73.6. Filed 08-OCT-2026.",
+  "xbrl_http": 200
+ },
+ "MCX": {
+  "value": null,
+  "notes": "NSE shareholding master empty",
+  "method": "unavailable"
+ },
+ "MEESHO": {
+  "value": 0.0,
+  "as_of": "30-SEP-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1733161_05102026071536_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "16.34",
+  "notes": "Pledged 0 of 756248697 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 16.34. Filed 05-OCT-2026.",
+  "xbrl_http": 200
+ },
+ "MOTILALOFS": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1691818_13072026085847_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "67.2",
+  "notes": "Pledged 0 of 404667752 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 67.2. Filed 13-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "MRPL": {
+  "value": 0.0,
+  "as_of": "30-SEP-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1733841_07102026043054_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "88.58",
+  "notes": "Pledged 0 of 1552507615 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 88.58. Filed 07-OCT-2026.",
+  "xbrl_http": 200
+ },
+ "MTARTECH": {
+  "value": 3.52,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1695497_17072026054400_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "29.36",
+  "notes": "Pledged 318000 of 9029664 promoter shares; total encumbered 318000 (3.52%). Promoter % of equity 29.36. Filed 17-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "NAVINFLUOR": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1696963_20072026044651_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "27.08",
+  "notes": "Pledged 0 of 13891724 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 27.08. Filed 20-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "NUVAMA": {
+  "value": 62.8,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1695272_17072026042928_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "53.98",
+  "notes": "Pledged 61885880 of 98536725 promoter shares; total encumbered 61885880 (62.8%). Promoter % of equity 53.98. Filed 17-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "NYKAA": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1697378_20072026064645_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "52.08",
+  "notes": "Pledged 0 of 1491392142 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 52.08. Filed 20-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "PERSISTENT": {
+  "value": 0.0,
+  "as_of": "30-SEP-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1734591_08102026075708_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "30.29",
+  "notes": "Pledged 0 of 47789930 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 30.29. Filed 08-OCT-2026.",
+  "xbrl_http": 200
+ },
+ "PETRONET": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1698790_21072026071958_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "50",
+  "notes": "Pledged 0 of 750000000 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 50. Filed 21-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "PNB": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1696280_18072026062246_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "70.08",
+  "notes": "Pledged 0 of 8054125685 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 70.08. Filed 18-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "PNBHOUSING": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1697182_20072026055035_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "28.03",
+  "notes": "Pledged 0 of 73051205 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 28.03. Filed 20-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "PTCIL": {
+  "value": 0.07,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1697764_21072026111837_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "59.72",
+  "notes": "Pledged 6000 of 8953441 promoter shares; total encumbered 6000 (0.07%). Promoter % of equity 59.72. Filed 21-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "PVRINOX": {
+  "value": 11.1,
+  "as_of": "01-OCT-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1735132_09102026061941_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "27.6",
+  "notes": "Pledged 2944444 of 26531866 promoter shares; total encumbered 2944444 (11.1%). Promoter % of equity 27.6. Filed 09-OCT-2026.",
+  "xbrl_http": 200
+ },
+ "PWL": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1699042_22072026113705_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "71.27",
+  "notes": "Pledged 0 of 2067537616 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 71.27. Filed 22-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "RADICO": {
+  "value": 0.0,
+  "as_of": "30-SEP-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1734404_08102026050721_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "40.17",
+  "notes": "Pledged 0 of 53829818 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 40.17. Filed 08-OCT-2026.",
+  "xbrl_http": 200
+ },
+ "RBLBANK": {
+  "value": 0.0,
+  "as_of": "30-SEP-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1734526_08102026062818_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "59.88",
+  "notes": "Pledged 0 of 929134820 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 59.88. Filed 08-OCT-2026.",
+  "xbrl_http": 200
+ },
+ "RRKABEL": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1696368_19072026094407_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "61.38",
+  "notes": "Pledged 0 of 69426196 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 61.38. Filed 19-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "SANSERA": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1690792_10072026080854_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "29.21",
+  "notes": "Pledged 0 of 18227240 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 29.21. Filed 10-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "SHYAMMETL": {
+  "value": 0.0,
+  "as_of": "30-SEP-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1733523_06102026061618_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "74.59",
+  "notes": "Pledged 0 of 208194741 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 74.59. Filed 06-OCT-2026.",
+  "xbrl_http": 200
+ },
+ "SOLARINDS": {
+  "value": 2.27,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1694398_16072026053011_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "73.15",
+  "notes": "Pledged 1503456 of 66191271 promoter shares; total encumbered 1503456 (2.27%). Promoter % of equity 73.15. Filed 16-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "STLTECH": {
+  "value": 0.0,
+  "as_of": "01-JUL-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1690740_10072026073224_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "42.29",
+  "notes": "Pledged 0 of 217306879 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 42.29. Filed 10-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "SYRMA": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1694703_16072026102221_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "42.28",
+  "notes": "Pledged 0 of 81531523 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 42.28. Filed 16-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "TDPOWERSYS": {
+  "value": 0.0,
+  "as_of": "30-SEP-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1733612_07102026013225_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "27.16",
+  "notes": "Pledged 0 of 85207322 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 27.16. Filed 07-OCT-2026.",
+  "xbrl_http": 200
+ },
+ "TEGA": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1696596_20072026013003_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "67.5",
+  "notes": "Pledged 0 of 50713792 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 67.5. Filed 20-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "URBANCO": {
+  "value": 0.0,
+  "as_of": "30-SEP-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1735757_11102026045751_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "19.02",
+  "notes": "Pledged 0 of 293362932 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 19.02. Filed 11-OCT-2026.",
+  "xbrl_http": 200
+ },
+ "WELCORP": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1697519_20072026075538_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "49.73",
+  "notes": "Pledged 0 of 131188603 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 49.73. Filed 20-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "WELSPUNLIV": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1698562_21072026055630_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "66.36",
+  "notes": "Pledged 0 of 626939496 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 66.36. Filed 21-JUL-2026.",
+  "xbrl_http": 200
+ },
+ "LICHSGFIN": {
+  "value": 0.0,
+  "as_of": "30-JUN-2026",
+  "source_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1695227_17072026041211_WEB.xml",
+  "method": "scraped",
+  "promoter_pct": "45.24",
+  "notes": "Pledged 0 of 248842495 promoter shares; total encumbered 0 (0.0%). Promoter % of equity 45.24. Filed 17-JUL-2026.",
+  "xbrl_http": 200
+ }
+}
