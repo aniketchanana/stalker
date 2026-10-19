@@ -1,0 +1,546 @@
+{
+ "REDINGTON": {
+  "board_http": 200,
+  "board": [
+   {
+    "bm_date": "29-Jul-2026",
+    "bm_purpose": "Board Meeting Intimation",
+    "bm_desc": "REDINGTON LIMITED has informed the Exchange about Board Meeting to be held on 29-Jul-2026 to inter-alia consider and approve the Unaudited Financial results of the Company for the Quarterly ended June 2026 .",
+    "bm_timestamp": "24-Jul-2026 11:54:40"
+   },
+   {
+    "bm_date": "29-Jul-2026",
+    "bm_purpose": "Financial Results",
+    "bm_desc": "To consider and approve the financial results for the period ended Jun 30, 2026",
+    "bm_timestamp": "24-Jul-2026 11:43:20"
+   },
+   {
+    "bm_date": "13-May-2026",
+    "bm_purpose": "Board Meeting Intimation",
+    "bm_desc": "REDINGTON LIMITED has informed the Exchange about Board Meeting to be held on 13-May-2026 to consider and approve the Yearly Audited Financial results of the Company for the period ended March 2026 and Dividend.",
+    "bm_timestamp": "09-May-2026 16:37:53"
+   },
+   {
+    "bm_date": "13-May-2026",
+    "bm_purpose": "Financial Results/Dividend",
+    "bm_desc": "To consider and approve the financial results for the period ended March 31, 2026 and dividend",
+    "bm_timestamp": "08-May-2026 20:29:32"
+   },
+   {
+    "bm_date": "04-Feb-2026",
+    "bm_purpose": "Board Meeting Intimation",
+    "bm_desc": "REDINGTON LIMITED has informed the Exchange about Board Meeting to be held on 04-Feb-2026 to inter-alia consider and approve the Unaudited Financial results of the Company for the Quarterly ended December 2025 .",
+    "bm_timestamp": "30-Jan-2026 16:11:20"
+   },
+   {
+    "bm_date": "04-Feb-2026",
+    "bm_purpose": "Financial Results",
+    "bm_desc": "To consider and approve the financial results for the period ended December 31, 2025",
+    "bm_timestamp": "30-Jan-2026 16:08:19"
+   }
+  ],
+  "ann_http": 200,
+  "ann": [
+   {
+    "an_dt": "15-Oct-2026 15:47:37",
+    "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "attchmntText": "Redington Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/Jhanviu_15102026154716_SEintimationReg74.pdf"
+   },
+   {
+    "an_dt": "01-Oct-2026 16:12:33",
+    "desc": "Press Release",
+    "attchmntText": "Redington Limited has informed the Exchange regarding a press release dated October 01, 2026, titled \"OPSWAT signs distribution deal with Redington to scale critical infrastructure protection across the Middle East, T\u00fcrkiye, Africa and the Commonwealth of Independent States\".",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/Abhinandhanan_01102026161204_FPS_OPSWAT_SE_Intimation_sd.pdf"
+   }
+  ]
+ },
+ "TANLA": {
+  "board_http": 200,
+  "board": [
+   {
+    "bm_date": "22-Jul-2026",
+    "bm_purpose": "Financial Results",
+    "bm_desc": "To consider and approve the financial results for the period ended Jun 30, 2026",
+    "bm_timestamp": "14-Jul-2026 19:46:09"
+   },
+   {
+    "bm_date": "22-Jul-2026",
+    "bm_purpose": "Board Meeting Intimation",
+    "bm_desc": "Tanla Platforms Limited has informed the Exchange about Board Meeting to be held on 22-Jul-2026 to inter-alia consider and approve the Unaudited Financial results of the Company for the Quarterly ended June 2026 .",
+    "bm_timestamp": "14-Jul-2026 19:40:58"
+   },
+   {
+    "bm_date": "24-Apr-2026",
+    "bm_purpose": "Board Meeting Intimation",
+    "bm_desc": "Tanla Platforms Limited has informed the Exchange about Board Meeting to be held on 24-Apr-2026 to consider and approve the Yearly Audited Financial results of the Company for the period ended March 2026 and Dividend.",
+    "bm_timestamp": "14-Apr-2026 18:35:48"
+   },
+   {
+    "bm_date": "24-Apr-2026",
+    "bm_purpose": "Financial Results/Dividend",
+    "bm_desc": "To consider and approve the financial results for the period ended March 31, 2026 and dividend",
+    "bm_timestamp": "14-Apr-2026 18:14:53"
+   },
+   {
+    "bm_date": "22-Jan-2026",
+    "bm_purpose": "Board Meeting Intimation",
+    "bm_desc": "Tanla Platforms Limited has informed the Exchange about Board Meeting to be held on 22-Jan-2026 to inter-alia consider and approve the Unaudited Financial results of the Company for the Quarterly ended December 2025 .",
+    "bm_timestamp": "13-Jan-2026 18:23:07"
+   },
+   {
+    "bm_date": "22-Jan-2026",
+    "bm_purpose": "Financial Results",
+    "bm_desc": "To consider and approve the financial results for the period ended December 31, 2025",
+    "bm_timestamp": "13-Jan-2026 18:21:50"
+   }
+  ],
+  "ann_http": 200,
+  "ann": [
+   {
+    "an_dt": "08-Oct-2026 10:28:05",
+    "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "attchmntText": "Tanla Platforms Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/TanlaPlatforms_08102026102734_SE_Intimation_Reg-74_5_.pdf"
+   }
+  ]
+ },
+ "JAMNAAUTO": {
+  "board_http": 200,
+  "board": [
+   {
+    "bm_date": "07-Aug-2026",
+    "bm_purpose": "Board Meeting Intimation",
+    "bm_desc": "JAMNA AUTO INDUSTRIES LIMTIED has informed the Exchange about Board Meeting to be held on 07-Aug-2026 to inter-alia consider and approve the Unaudited Financial results of the Company for the Quarterly ended June 2026 .",
+    "bm_timestamp": "04-Aug-2026 12:17:24"
+   },
+   {
+    "bm_date": "07-Aug-2026",
+    "bm_purpose": "Financial Results",
+    "bm_desc": "To consider and approve the financial results for the period ended Jun 30, 2026",
+    "bm_timestamp": "04-Aug-2026 12:00:05"
+   },
+   {
+    "bm_date": "29-May-2026",
+    "bm_purpose": "Board Meeting Intimation",
+    "bm_desc": "JAMNA AUTO INDUSTRIES LIMITED has informed the Exchange about Board Meeting to be held on 29-May-2026 to consider and approve the Yearly Audited Financial results of the Company for the period ended March 2026 and Dividend.",
+    "bm_timestamp": "22-May-2026 11:52:22"
+   },
+   {
+    "bm_date": "29-May-2026",
+    "bm_purpose": "Financial Results/Dividend",
+    "bm_desc": "To consider and approve the financial results for the period ended March 31, 2026 and dividend",
+    "bm_timestamp": "22-May-2026 11:43:04"
+   },
+   {
+    "bm_date": "13-Feb-2026",
+    "bm_purpose": "Board Meeting Intimation",
+    "bm_desc": "JAMNA AUTO INDUSTRIES LIMITED has informed the Exchange about Board Meeting to be held on 13-Feb-2026 to inter-alia consider and approve the Unaudited Financial results of the Company for the Quarterly ended December 2025 .",
+    "bm_timestamp": "06-Feb-2026 16:59:57"
+   },
+   {
+    "bm_date": "13-Feb-2026",
+    "bm_purpose": "Financial Results",
+    "bm_desc": "To consider and approve the financial results for the period ended December 31, 2025",
+    "bm_timestamp": "06-Feb-2026 16:52:14"
+   }
+  ],
+  "ann_http": 200,
+  "ann": [
+   {
+    "an_dt": "14-Oct-2026 14:27:36",
+    "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "attchmntText": "Jamna Auto Industries Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/JAMNAAUTO_14102026142708_Intimation.pdf"
+   },
+   {
+    "an_dt": "09-Oct-2026 12:18:01",
+    "desc": "General Updates",
+    "attchmntText": "Jamna Auto Industries Limited has informed the Exchange about General Updates",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/JAMNAAUTO_09102026121546_ESG_Rating.pdf"
+   },
+   {
+    "an_dt": "05-Oct-2026 14:18:21",
+    "desc": "Updates",
+    "attchmntText": "Jamna Auto Industries Limited has informed the Exchange regarding 'Update on Litigation'.",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/JAMNAAUTO_05102026141743_Intimation.pdf"
+   }
+  ]
+ },
+ "SOUTHBANK": {
+  "board_http": 200,
+  "board": [
+   {
+    "bm_date": "15-Oct-2026",
+    "bm_purpose": "Board Meeting Intimation",
+    "bm_desc": "THE SOUTH INDIAN BANK LIMITED has informed the Exchange about Board Meeting to be held on 15-Oct-2026 to inter-alia consider and approve the Unaudited Financial results of the Company for the Quarterly ended September 2026 .",
+    "bm_timestamp": "03-Oct-2026 18:45:23"
+   },
+   {
+    "bm_date": "15-Oct-2026",
+    "bm_purpose": "Financial Results",
+    "bm_desc": "To consider and approve the financial results for the period ended September 30, 2026",
+    "bm_timestamp": "03-Oct-2026 18:42:59"
+   },
+   {
+    "bm_date": "16-Jul-2026",
+    "bm_purpose": "Board Meeting Intimation",
+    "bm_desc": "THE SOUTH INDIAN BANK LIMITED has informed the Exchange about Board Meeting to be held on 16-Jul-2026 to consider and approve the Quarterly Unaudited Financial results of the Company for the period ended June 2026 and Fund raising/Other business.",
+    "bm_timestamp": "07-Jul-2026 18:57:44"
+   },
+   {
+    "bm_date": "16-Jul-2026",
+    "bm_purpose": "Financial Results/Fund Raising/Other business matters",
+    "bm_desc": "Unaudited Standalone and Consolidated Financial Results of the Bank for the quarter ended 30th June, 2026, Borrowing/ raising funds by issue of debt securities and to Consider convening the Annual General Meeting of the shareholders of the Bank.",
+    "bm_timestamp": "07-Jul-2026 18:53:08"
+   },
+   {
+    "bm_date": "06-May-2026",
+    "bm_purpose": "Board Meeting Intimation",
+    "bm_desc": "THE SOUTH INDIAN BANK LIMITED has informed the Exchange about Board Meeting to be held on 06-May-2026 to consider and approve the Yearly Audited Financial results of the Company for the period ended March 2026 and Dividend.",
+    "bm_timestamp": "22-Apr-2026 14:49:14"
+   },
+   {
+    "bm_date": "06-May-2026",
+    "bm_purpose": "Financial Results/Dividend",
+    "bm_desc": "inter-alia to consider, approve and take on record the Audited Standalone and Consolidated Financial Results of the Bank for the quarter and financial year ended March 31, 2026 and to recommend consideration of Dividend for the financial year 2025-26",
+    "bm_timestamp": "22-Apr-2026 14:46:33"
+   }
+  ],
+  "ann_http": 200,
+  "ann": [
+   {
+    "an_dt": "17-Oct-2026 15:32:28",
+    "desc": "General Updates",
+    "attchmntText": "The South Indian Bank Limited has informed the Exchange about Change in Marginal Cost of Funds Based Lending Rates (MCLR) of the Bank",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOUTHBANK_17102026153217_SD_STT_MCLRCHANGE_17OCT2026.pdf"
+   },
+   {
+    "an_dt": "16-Oct-2026 19:21:16",
+    "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "attchmntText": "The South Indian Bank Limited has informed the Exchange about Link of Recording",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOUTHBANK_16102026191704_SD_STT_AUDIORECORDING_16OCT2026.pdf"
+   },
+   {
+    "an_dt": "16-Oct-2026 12:10:55",
+    "desc": "Copy of Newspaper Publication",
+    "attchmntText": "The South Indian Bank Limited has informed the Exchange about Intimation under Regulation 30 & 47 of the SEBI (Listing Obligations and Disclosure Requirements), Regulations, 2015",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOUTHBANK_16102026121045_SD_STT_NEWSPAPERADVST_16OCT2026.pdf"
+   },
+   {
+    "an_dt": "15-Oct-2026 21:05:16",
+    "desc": "Change in Management",
+    "attchmntText": "The South Indian Bank Limited has informed the Exchange about change in Management",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOUTHBANK_15102026210436_SD_STT_CHANGEINMANAGEMENT_15OCT2026.pdf"
+   },
+   {
+    "an_dt": "15-Oct-2026 20:55:22",
+    "desc": "General Updates",
+    "attchmntText": "The South Indian Bank Limited has informed the Exchange about Outcome of the Board Meeting - SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOUTHBANK_15102026205501_SD_STT_CORPORATEOFFICECHANGE_15OCT2026.pdf"
+   },
+   {
+    "an_dt": "15-Oct-2026 20:41:24",
+    "desc": "General Updates",
+    "attchmntText": "The South Indian Bank Limited has informed the Exchange about Submission of Unaudited Financial Results for the quarter/half year ended 30th September, 2026.",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOUTHBANK_15102026204114_SD_STT_FINANCIALRESULTS_15OCT2026.pdf"
+   },
+   {
+    "an_dt": "15-Oct-2026 15:28:43",
+    "desc": "Investor Presentation",
+    "attchmntText": "The South Indian Bank Limited has informed the Exchange about Investor Presentation",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOUTHBANK_15102026152810_SD_STT_INVESTORPRESENTATION_15OCT2026.pdf"
+   },
+   {
+    "an_dt": "15-Oct-2026 14:40:35",
+    "desc": "Press Release",
+    "attchmntText": "The South Indian Bank Limited has informed the Exchange regarding Press release on Unaudited Financial Results of the Bank for the quarter/half year ended 30th September, 2026.",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOUTHBANK_15102026143755_SD_STT_PRESSRELEASE_15OCT2026.pdf"
+   },
+   {
+    "an_dt": "15-Oct-2026 13:23:28",
+    "desc": "Outcome of Board Meeting",
+    "attchmntText": "The South Indian Bank Limited has submitted to the Exchange, Outcome of the Board Meeting - Submission of Unaudited Financial Results for the quarter/half year ended 30th September, 2026.",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOUTHBANK_15102026132224_SD_STT_FINANCIALRESULTS_15OCT2026.pdf"
+   },
+   {
+    "an_dt": "08-Oct-2026 20:15:18",
+    "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "attchmntText": "The South Indian Bank Limited has informed the Exchange about Schedule of meet",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOUTHBANK_08102026201416_SD_STT_SCHEDULEOFINVESTORMEET_08OCT2026.pdf"
+   },
+   {
+    "an_dt": "07-Oct-2026 18:16:11",
+    "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "attchmntText": "The South Indian Bank Limited has informed the Exchange about Certificate in terms of Regulation 74(5) of the Securities and Exchange Board of India (Depositories and Participants) Regulations, 2018",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOUTHBANK_07102026181535_SD_STT_74_5_OFSEBIDP_07OCT2026.pdf"
+   },
+   {
+    "an_dt": "03-Oct-2026 18:31:04",
+    "desc": "Updates",
+    "attchmntText": "The South Indian Bank Limited has informed the Exchange regarding 'Intimation under Regulation 6(1) & 7(1) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015'.",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOUTHBANK_03102026182947_SD_STT_6_1_7_1__03OCT2026.pdf"
+   }
+  ]
+ },
+ "COALINDIA": {
+  "board_http": 200,
+  "board": [
+   {
+    "bm_date": "27-Jul-2026",
+    "bm_purpose": "Financial Results/Dividend",
+    "bm_desc": "To consider and approve the financial results for the period ended Jun 30, 2026 and dividend",
+    "bm_timestamp": "15-Jul-2026 17:15:41"
+   },
+   {
+    "bm_date": "27-Jul-2026",
+    "bm_purpose": "Board Meeting Intimation",
+    "bm_desc": "COAL INDIA LIMITED has informed the Exchange about Board Meeting to be held on 27-Jul-2026 to consider and approve the Quarterly Unaudited Financial results of the Company for the period ended June 2026 and Dividend.",
+    "bm_timestamp": "15-Jul-2026 17:14:12"
+   },
+   {
+    "bm_date": "27-Apr-2026",
+    "bm_purpose": "Board Meeting Intimation",
+    "bm_desc": "COAL INDIA LIMITED has informed the Exchange about Board Meeting to be held on 27-Apr-2026 to consider and approve the Yearly Audited Financial results of the Company for the period ended March 2026 and Dividend.",
+    "bm_timestamp": "13-Apr-2026 12:24:28"
+   },
+   {
+    "bm_date": "27-Apr-2026",
+    "bm_purpose": "Financial Results/Dividend",
+    "bm_desc": "To consider and approve the financial results for the period ended March 31, 2026 and dividend",
+    "bm_timestamp": "13-Apr-2026 12:22:51"
+   },
+   {
+    "bm_date": "27-Apr-2026",
+    "bm_purpose": "Board Meeting Intimation",
+    "bm_desc": "COAL INDIA LIMITED has informed the Exchange about Board Meeting to be held on 27-Apr-2026 to consider and approve the Yearly Audited Financial results of the Company for the period ended March 2026 and Dividend.",
+    "bm_timestamp": "13-Apr-2026 12:18:20"
+   },
+   {
+    "bm_date": "12-Feb-2026",
+    "bm_purpose": "Board Meeting Intimation",
+    "bm_desc": "COAL INDIA LIMITED has informed the Exchange about Board Meeting to be held on 12-Feb-2026 to consider and approve the Quarterly Unaudited Financial results of the Company for the period ended December 2025 and Dividend.",
+    "bm_timestamp": "02-Feb-2026 11:28:44"
+   }
+  ],
+  "ann_http": 200,
+  "ann": [
+   {
+    "an_dt": "09-Oct-2026 15:40:55",
+    "desc": "Copy of Newspaper Publication",
+    "attchmntText": "Newspaper publication on  Special Window for Re-lodgement of Transfer Requests of Physical Equity Shares of Coal India Limited- 5th Intimation",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/COALINDIA_09102026154027_NP-5th_Intimation.pdf"
+   },
+   {
+    "an_dt": "08-Oct-2026 15:10:50",
+    "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "attchmntText": "Certificate under Regulation 74(5) of the SEBI (Depository and Participants) Regulations, 2018 for the 2nd quarter ended 30th September 26.",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/COALINDIA_08102026151037_Reg745_Sep2026.pdf"
+   },
+   {
+    "an_dt": "01-Oct-2026 15:41:50",
+    "desc": "Press Release",
+    "attchmntText": "Coal India Limited has informed the Exchange regarding a press release dated October 01, 2026, titled \"Coal India Ramps Up Coal Supplies by 12.5% in September Amid Rising Power Demand\".",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/COALINDIA_01102026154137_Press_Release.pdf"
+   },
+   {
+    "an_dt": "01-Oct-2026 12:35:35",
+    "desc": "General Updates",
+    "attchmntText": "Single Window Mode Agnostic (SWMA) E-auction Data of CIL and Subsidiary Companies for the month of Sep 26 & cumulative for the month of Apr 26-Sep 26.",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/COALINDIA_01102026123140_SWMA_E-auction_Data.pdf"
+   },
+   {
+    "an_dt": "01-Oct-2026 11:31:46",
+    "desc": "General Updates",
+    "attchmntText": "Provisional Production and Off-take Performance of CIL and Subsidiary Companies for the month of September 26 and Progressive September 26.",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/COALINDIA_01102026113136_Production_Sep_26.pdf"
+   }
+  ]
+ },
+ "HAL": {
+  "board_http": 200,
+  "board": [
+   {
+    "bm_date": "12-Aug-2026",
+    "bm_purpose": "Board Meeting Intimation",
+    "bm_desc": "HINDUSTAN AERONAUTICS LIMITED has informed the Exchange about Board Meeting to be held on 12-Aug-2026 to inter-alia consider and approve the Audited Financial results of the Company for the Quarterly ended June 2026 .",
+    "bm_timestamp": "31-Jul-2026 17:22:32"
+   },
+   {
+    "bm_date": "12-Aug-2026",
+    "bm_purpose": "Financial Results",
+    "bm_desc": "To consider and approve the financial results for the period ended Jun 30, 2026",
+    "bm_timestamp": "31-Jul-2026 17:19:56"
+   },
+   {
+    "bm_date": "29-Jun-2026",
+    "bm_purpose": "Board Meeting Intimation",
+    "bm_desc": "HINDUSTAN AERONAUTICS LIMITED has informed the Exchange about Board Meeting to be held on 29-Jun-2026 to consider Dividend.",
+    "bm_timestamp": "16-Jun-2026 17:04:19"
+   },
+   {
+    "bm_date": "29-Jun-2026",
+    "bm_purpose": "Board Meeting Intimation",
+    "bm_desc": "HINDUSTAN AERONAUTICS LIMITED has informed the Exchange about Board Meeting to be held on 29-Jun-2026 to consider Dividend.",
+    "bm_timestamp": "16-Jun-2026 15:59:58"
+   },
+   {
+    "bm_date": "29-Jun-2026",
+    "bm_purpose": "Dividend",
+    "bm_desc": "To consider dividend",
+    "bm_timestamp": "16-Jun-2026 15:55:51"
+   },
+   {
+    "bm_date": "14-May-2026",
+    "bm_purpose": "Board Meeting Intimation",
+    "bm_desc": "HINDUSTAN AERONAUTICS LIMITED has informed the Exchange about Board Meeting to be held on 14-May-2026 to inter-alia consider and approve the Audited Financial results of the Company for the Yearly ended March 2026 .",
+    "bm_timestamp": "04-May-2026 15:30:13"
+   }
+  ],
+  "ann_http": 200,
+  "ann": [
+   {
+    "an_dt": "07-Oct-2026 15:39:32",
+    "desc": "Change in Director(s)",
+    "attchmntText": "Hindustan Aeronautics Limited has informed the Exchange regarding Change in Director(s) of the company.",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/HAL_07102026153915_ChangeInDirectorate_07102026.pdf"
+   },
+   {
+    "an_dt": "02-Oct-2026 19:46:03",
+    "desc": "Agreements",
+    "attchmntText": "Hindustan Aeronautics Limited has informed the Exchange about Agreements",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/HAL_02102026194550_AgreementSigned_02102026.pdf"
+   }
+  ]
+ },
+ "SUNTV": {
+  "board_http": 200,
+  "board": [
+   {
+    "bm_date": "12-Aug-2026",
+    "bm_purpose": "Board Meeting Intimation",
+    "bm_desc": "SUN TV NETWORK LIMITED has informed the Exchange about Board Meeting to be held on 12-Aug-2026 to consider and approve the Quarterly Unaudited Financial results of the Company for the period ended June 2026 and Dividend.",
+    "bm_timestamp": "05-Aug-2026 17:05:20"
+   },
+   {
+    "bm_date": "12-Aug-2026",
+    "bm_purpose": "Financial Results/Dividend",
+    "bm_desc": "To consider and approve the financial results for the period ended Jun 30, 2026 and dividend",
+    "bm_timestamp": "05-Aug-2026 17:01:31"
+   },
+   {
+    "bm_date": "21-May-2026",
+    "bm_purpose": "Board Meeting Intimation",
+    "bm_desc": "SUN TV NETWORK LIMITED has informed the Exchange about Board Meeting to be held on 21-May-2026 to inter-alia consider and approve the Audited Financial results of the Company for the Yearly ended March 2026 .",
+    "bm_timestamp": "14-May-2026 15:18:28"
+   },
+   {
+    "bm_date": "21-May-2026",
+    "bm_purpose": "Financial Results",
+    "bm_desc": "To consider and approve the financial results for the period ended March 31, 2026",
+    "bm_timestamp": "14-May-2026 15:17:59"
+   },
+   {
+    "bm_date": "06-Mar-2026",
+    "bm_purpose": "Board Meeting Intimation",
+    "bm_desc": "SUN TV NETWORK LIMITED has informed the Exchange about Board Meeting to be held on 06-Mar-2026 to consider Dividend.",
+    "bm_timestamp": "26-Feb-2026 17:07:59"
+   },
+   {
+    "bm_date": "06-Mar-2026",
+    "bm_purpose": "Dividend",
+    "bm_desc": "To consider the declaration of Interim Dividend, if any, for the financial year2025-26.",
+    "bm_timestamp": "26-Feb-2026 17:03:14"
+   }
+  ],
+  "ann_http": 200,
+  "ann": [
+   {
+    "an_dt": "09-Oct-2026 15:04:38",
+    "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "attchmntText": "Sun TV Network Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNTV1_09102026150339_SunTV74_5_30092026Signed.pdf"
+   }
+  ]
+ },
+ "GESHIP": {
+  "board_http": 200,
+  "board": [
+   {
+    "bm_date": "27-Aug-2026",
+    "bm_purpose": "Board Meeting Intimation",
+    "bm_desc": "The Great Eastern Shipping Company Limited has informed the Exchange about Board Meeting to be held on 27-Aug-2026 to consider Buyback.",
+    "bm_timestamp": "24-Aug-2026 16:34:20"
+   },
+   {
+    "bm_date": "27-Aug-2026",
+    "bm_purpose": "Buyback",
+    "bm_desc": "To consider a proposal for buyback for equity shares",
+    "bm_timestamp": "24-Aug-2026 16:10:02"
+   },
+   {
+    "bm_date": "03-Aug-2026",
+    "bm_purpose": "Board Meeting Intimation",
+    "bm_desc": "The Great Eastern Shipping Company Limited has informed the Exchange about Board Meeting to be held on 03-Aug-2026 to consider and approve the Quarterly Unaudited Financial results of the Company for the period ended June 2026 and Dividend.",
+    "bm_timestamp": "23-Jul-2026 15:06:16"
+   },
+   {
+    "bm_date": "03-Aug-2026",
+    "bm_purpose": "Financial Results/Dividend",
+    "bm_desc": "To consider and approve the Unaudited financial results (Provisional) for the quarter ended June 30, 2026 and declaration of interim dividend for FY 2026-27, if any.",
+    "bm_timestamp": "23-Jul-2026 14:42:54"
+   },
+   {
+    "bm_date": "14-May-2026",
+    "bm_purpose": "Board Meeting Intimation",
+    "bm_desc": "THE GREAT EASTERN SHIPPING COMPANY LIMITED has informed the Exchange about Board Meeting to be held on 14-May-2026 to consider and approve the Yearly Audited Financial results of the Company for the period ended March 2026 and Dividend.",
+    "bm_timestamp": "30-Apr-2026 15:24:52"
+   },
+   {
+    "bm_date": "14-May-2026",
+    "bm_purpose": "Financial Results/Dividend",
+    "bm_desc": "To consider and approve the financial results for the period ended March 31, 2026 and declaration of dividend, if any",
+    "bm_timestamp": "30-Apr-2026 14:57:15"
+   }
+  ],
+  "ann_http": 200,
+  "ann": [
+   {
+    "an_dt": "15-Oct-2026 16:20:36",
+    "desc": "General Updates",
+    "attchmntText": "The Great Eastern Shipping Company Limited has informed the Exchange about ESG ratings",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/GESHIP_15102026161959_esgletter.pdf"
+   },
+   {
+    "an_dt": "14-Oct-2026 10:49:24",
+    "desc": "Copy of Newspaper Publication",
+    "attchmntText": "The Great Eastern Shipping Company Limited has informed the Exchange about Copy of Newspaper Publication",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/GESHIP_14102026104537_GESL_Stock_Exchange_Notice_Loss_of_Share_Cert_14102026_Signed.pdf"
+   },
+   {
+    "an_dt": "08-Oct-2026 15:17:50",
+    "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "attchmntText": "The Great Eastern Shipping Company Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/GESHIP_08102026151625_Cov_Ltr_Reg_74_5_30092026_with_report_Signed.pdf"
+   },
+   {
+    "an_dt": "08-Oct-2026 11:06:29",
+    "desc": "Copy of Newspaper Publication",
+    "attchmntText": "The Great Eastern Shipping Company Limited has informed the Exchange about Copy of Newspaper Publication",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/GESHIP_08102026110613_GESL_Stock_Exchange_Notice_Loss_of_Share_Cert_08102026_Signed.pdf"
+   },
+   {
+    "an_dt": "06-Oct-2026 15:06:54",
+    "desc": "Copy of Newspaper Publication",
+    "attchmntText": "The Great Eastern Shipping Company Limited has informed the Exchange about Copy of Newspaper Publication",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/GESHIP_06102026150645_GESL_SE_Notice_Spl_Wnidow_Trf_Phy_Shares_Signed.pdf"
+   },
+   {
+    "an_dt": "04-Oct-2026 18:26:49",
+    "desc": "Change in Management",
+    "attchmntText": "The Great Eastern Shipping Company Limited has informed the Exchange about changes in Senior Management Personnel of the Company",
+    "attchmntFile": "https://nsearchives.nseindia.com/corporate/GESHIP_04102026182635_changeinsmp.pdf"
+   }
+  ]
+ }
+}

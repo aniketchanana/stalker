@@ -1,0 +1,293 @@
+{
+ "AEQUS": [
+  "A_ext",
+  [
+   "pledge 25.36"
+  ]
+ ],
+ "APOLLO": [
+  "A_ext",
+  [
+   "pledge 35.57",
+   "results 24-Oct"
+  ]
+ ],
+ "DIACABS": [
+  "A_ext",
+  []
+ ],
+ "E2E": [
+  "A_ext",
+  []
+ ],
+ "EDELWEISS": [
+  "A_ext",
+  []
+ ],
+ "GODREJAGRO": [
+  "A_ext",
+  [
+   "ADV 12.19"
+  ]
+ ],
+ "GRWRHITECH": [
+  "A_ext",
+  [
+   "results 22-Oct"
+  ]
+ ],
+ "INDGN": [
+  "A_ext",
+  [
+   "results 29-Oct"
+  ]
+ ],
+ "KTKBANK": [
+  "A_ext",
+  [
+   "results 28-Oct"
+  ]
+ ],
+ "LLOYDSENGG": [
+  "A_ext",
+  [
+   "pledge 20.31"
+  ]
+ ],
+ "LOTUSDEV": [
+  "A_ext",
+  [
+   "ADV 23.13"
+  ]
+ ],
+ "LUMAXTECH": [
+  "A_ext",
+  [
+   "results 24-Oct"
+  ]
+ ],
+ "MANORAMA": [
+  "A_ext",
+  []
+ ],
+ "NAZARA": [
+  "A_ext",
+  [
+   "pledge 86.97"
+  ]
+ ],
+ "PCJEWELLER": [
+  "A_ext",
+  [
+   "ASM shortterm Stage I",
+   "results 21-Oct"
+  ]
+ ],
+ "SHILPAMED": [
+  "A_ext",
+  [
+   "ASM longterm Stage I"
+  ]
+ ],
+ "SHREEJISPG": [
+  "A_ext",
+  [
+   "ASM longterm Stage I"
+  ]
+ ],
+ "SIGMAADV": [
+  "A_ext",
+  [
+   "ASM longterm Stage IV"
+  ]
+ ],
+ "SKYGOLD": [
+  "A_ext",
+  [
+   "ASM longterm Stage I"
+  ]
+ ],
+ "SOUTHBANK": [
+  "A_ext",
+  []
+ ],
+ "THELEELA": [
+  "A_ext",
+  [
+   "pledge 73.65"
+  ]
+ ],
+ "TI": [
+  "A_ext",
+  []
+ ],
+ "AARTIPHARM": [
+  "B",
+  [
+   "results 28-Oct"
+  ]
+ ],
+ "AEROFLEX": [
+  "B",
+  []
+ ],
+ "AXISCADES": [
+  "B",
+  []
+ ],
+ "CEIGALL": [
+  "B",
+  [
+   "ADV 12.12"
+  ]
+ ],
+ "DCBBANK": [
+  "B",
+  [
+   "results 23-Oct"
+  ]
+ ],
+ "DYNAMATECH": [
+  "B",
+  []
+ ],
+ "EBGNG": [
+  "B",
+  []
+ ],
+ "FEDFINA": [
+  "B",
+  [
+   "ADV 18.81"
+  ]
+ ],
+ "GAEL": [
+  "B",
+  [
+   "ADV 14.29",
+   "results 24-Oct"
+  ]
+ ],
+ "GPPL": [
+  "B",
+  [
+   "ADV 23.26"
+  ]
+ ],
+ "ICIL": [
+  "B",
+  [
+   "ADV 21.78"
+  ]
+ ],
+ "IIFLCAPS": [
+  "B",
+  [
+   "ADV 22.19"
+  ]
+ ],
+ "JAMNAAUTO": [
+  "B",
+  []
+ ],
+ "JAYNECOIND": [
+  "B",
+  [
+   "pledge 99.87"
+  ]
+ ],
+ "KMEW": [
+  "B",
+  []
+ ],
+ "MBAPL": [
+  "B",
+  [
+   "ADV 12.57"
+  ]
+ ],
+ "NEOGEN": [
+  "B",
+  [
+   "pledge 23.0"
+  ]
+ ],
+ "PAISALO": [
+  "B",
+  [
+   "ASM longterm Stage I",
+   "results 22-Oct"
+  ]
+ ],
+ "PGIL": [
+  "B",
+  []
+ ],
+ "QPOWER": [
+  "B",
+  []
+ ],
+ "RAIN": [
+  "B",
+  [
+   "results 06-Nov"
+  ]
+ ],
+ "SAREGAMA": [
+  "B",
+  [
+   "ADV 15.87",
+   "results 04-Nov"
+  ]
+ ],
+ "SGMART": [
+  "B",
+  [
+   "ADV 16.98",
+   "results 27-Oct"
+  ]
+ ],
+ "SMLMAH": [
+  "B",
+  [
+   "results 19-Oct"
+  ]
+ ],
+ "SUNFLAG": [
+  "B",
+  [
+   "ASM shortterm Stage I"
+  ]
+ ],
+ "SUPRIYA": [
+  "B",
+  []
+ ],
+ "TANLA": [
+  "B",
+  []
+ ],
+ "TIPSMUSIC": [
+  "B",
+  []
+ ],
+ "UNIMECH": [
+  "B",
+  []
+ ],
+ "WELENT": [
+  "B",
+  []
+ ],
+ "WESTLIFE": [
+  "B",
+  [
+   "ADV 9.82",
+   "results 23-Oct"
+  ]
+ ],
+ "YATHARTH": [
+  "B",
+  []
+ ]
+}

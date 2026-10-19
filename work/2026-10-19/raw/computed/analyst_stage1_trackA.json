@@ -1,0 +1,551 @@
+{
+ "AARTIIND": {
+  "adv": 31.62,
+  "reasons": [],
+  "after": [],
+  "past": [
+   "01-Oct Board Meeting Intimation",
+   "01-Oct Fund Raising"
+  ]
+ },
+ "ABDL": {
+  "adv": 92.51,
+  "reasons": [
+   "event 27-Oct Board Meeting Intimation; 27-Oct Financial Results"
+  ],
+  "after": [],
+  "past": []
+ },
+ "ACMESOLAR": {
+  "adv": 92.58,
+  "reasons": [],
+  "after": [],
+  "past": []
+ },
+ "ADANIGREEN": {
+  "adv": 295.41,
+  "reasons": [
+   "event 21-Oct Board Meeting Intimation; 21-Oct Financial Results"
+  ],
+  "after": [],
+  "past": []
+ },
+ "ADANIPORTS": {
+  "adv": 531.79,
+  "reasons": [
+   "event 28-Oct Board Meeting Intimation; 28-Oct Financial Results"
+  ],
+  "after": [],
+  "past": []
+ },
+ "AEGISLOG": {
+  "adv": 158.22,
+  "reasons": [],
+  "after": [],
+  "past": [
+   "28-Sep Board Meeting Intimation",
+   "28-Sep Fund Raising/Other business ma"
+  ]
+ },
+ "AIIL": {
+  "adv": 10.95,
+  "reasons": [
+   "ADV 10.95"
+  ],
+  "after": [],
+  "past": []
+ },
+ "ANGELONE": {
+  "adv": 178.82,
+  "reasons": [],
+  "after": [],
+  "past": [
+   "15-Oct Dividend",
+   "15-Oct Financial Results"
+  ]
+ },
+ "APLAPOLLO": {
+  "adv": 114.27,
+  "reasons": [
+   "event 26-Oct Board Meeting Intimation; 26-Oct Financial Results"
+  ],
+  "after": [],
+  "past": []
+ },
+ "AUROPHARMA": {
+  "adv": 148.32,
+  "reasons": [],
+  "after": [],
+  "past": []
+ },
+ "BAJAJHLDNG": {
+  "adv": 46.35,
+  "reasons": [
+   "event 03-Nov Board Meeting Intimation; 03-Nov Financial Results"
+  ],
+  "after": [],
+  "past": []
+ },
+ "BALRAMCHIN": {
+  "adv": 95.17,
+  "reasons": [],
+  "after": [],
+  "past": []
+ },
+ "BBOX": {
+  "adv": 109.2,
+  "reasons": [],
+  "after": [],
+  "past": []
+ },
+ "BHEL": {
+  "adv": 517.94,
+  "reasons": [],
+  "after": [],
+  "past": [
+   "14-Oct Board Meeting Intimation",
+   "14-Oct Financial Results"
+  ]
+ },
+ "BSE": {
+  "adv": 1931.14,
+  "reasons": [
+   "event 04-Nov Board Meeting Intimation; 04-Nov Financial Results"
+  ],
+  "after": [],
+  "past": []
+ },
+ "CARTRADE": {
+  "adv": 99.41,
+  "reasons": [],
+  "after": [],
+  "past": []
+ },
+ "CASTROLIND": {
+  "adv": 70.01,
+  "reasons": [
+   "event 24-Oct Board Meeting Intimation; 24-Oct Financial Results"
+  ],
+  "after": [],
+  "past": []
+ },
+ "COALINDIA": {
+  "adv": 282.25,
+  "reasons": [],
+  "after": [],
+  "past": []
+ },
+ "COFORGE": {
+  "adv": 386.28,
+  "reasons": [
+   "event 23-Oct Board Meeting Intimation; 23-Oct Financial Results"
+  ],
+  "after": [],
+  "past": []
+ },
+ "CPPLUS": {
+  "adv": 154.39,
+  "reasons": [],
+  "after": [],
+  "past": []
+ },
+ "CRAFTSMAN": {
+  "adv": 57.12,
+  "reasons": [
+   "event 28-Oct Board Meeting Intimation; 28-Oct Financial Results/Other business matters"
+  ],
+  "after": [],
+  "past": []
+ },
+ "CUB": {
+  "adv": 55.63,
+  "reasons": [
+   "event 28-Oct Board Meeting Intimation; 28-Oct Financial Results"
+  ],
+  "after": [],
+  "past": []
+ },
+ "CUPID": {
+  "adv": 880.71,
+  "reasons": [
+   "ASM longterm Stage I"
+  ],
+  "after": [],
+  "past": []
+ },
+ "CYIENT": {
+  "adv": 90.06,
+  "reasons": [
+   "event 22-Oct Board Meeting Intimation; 22-Oct Financial Results/Dividend"
+  ],
+  "after": [],
+  "past": []
+ },
+ "DIVISLAB": {
+  "adv": 487.15,
+  "reasons": [],
+  "after": [],
+  "past": []
+ },
+ "DLF": {
+  "adv": 229.95,
+  "reasons": [],
+  "after": [],
+  "past": [
+   "16-Oct Board Meeting Intimation",
+   "16-Oct Financial Results"
+  ]
+ },
+ "ECLERX": {
+  "adv": 32.18,
+  "reasons": [],
+  "after": [],
+  "past": []
+ },
+ "ENGINERSIN": {
+  "adv": 215.36,
+  "reasons": [
+   "event 30-Oct Board Meeting Intimation; 30-Oct Financial Results"
+  ],
+  "after": [],
+  "past": []
+ },
+ "ETERNAL": {
+  "adv": 696.07,
+  "reasons": [
+   "event 21-Oct Board Meeting Intimation; 21-Oct Financial Results"
+  ],
+  "after": [],
+  "past": []
+ },
+ "FINCABLES": {
+  "adv": 82.88,
+  "reasons": [],
+  "after": [],
+  "past": []
+ },
+ "FSL": {
+  "adv": 84.15,
+  "reasons": [
+   "event 29-Oct Board Meeting Intimation; 29-Oct Financial Results"
+  ],
+  "after": [],
+  "past": []
+ },
+ "GABRIEL": {
+  "adv": 94.29,
+  "reasons": [],
+  "after": [],
+  "past": []
+ },
+ "GESHIP": {
+  "adv": 139.88,
+  "reasons": [],
+  "after": [],
+  "past": []
+ },
+ "GLAND": {
+  "adv": 105.55,
+  "reasons": [],
+  "after": [],
+  "past": []
+ },
+ "GRAPHITE": {
+  "adv": 104.97,
+  "reasons": [],
+  "after": [],
+  "past": []
+ },
+ "GROWW": {
+  "adv": 563.03,
+  "reasons": [],
+  "after": [],
+  "past": [
+   "14-Oct Board Meeting Intimation",
+   "14-Oct Financial Results"
+  ]
+ },
+ "HAL": {
+  "adv": 332.16,
+  "reasons": [],
+  "after": [],
+  "past": []
+ },
+ "HFCL": {
+  "adv": 168.31,
+  "reasons": [
+   "ASM longterm Stage IV",
+   "event 19-Oct Board Meeting Intimation; 19-Oct Financial Results"
+  ],
+  "after": [],
+  "past": []
+ },
+ "ICICIBANK": {
+  "adv": 1369.77,
+  "reasons": [],
+  "after": [],
+  "past": [
+   "17-Oct Board Meeting Intimation",
+   "17-Oct Financial Results"
+  ]
+ },
+ "INDHOTEL": {
+  "adv": 294.24,
+  "reasons": [
+   "event 21-Oct Board Meeting Intimation; 21-Oct Financial Results"
+  ],
+  "after": [],
+  "past": []
+ },
+ "JINDALSAW": {
+  "adv": 42.81,
+  "reasons": [],
+  "after": [],
+  "past": [
+   "16-Oct Board Meeting Intimation",
+   "16-Oct Financial Results"
+  ]
+ },
+ "JYOTICNC": {
+  "adv": 118.67,
+  "reasons": [],
+  "after": [],
+  "past": []
+ },
+ "KARURVYSYA": {
+  "adv": 111.33,
+  "reasons": [],
+  "after": [],
+  "past": [
+   "15-Oct Board Meeting Intimation",
+   "15-Oct Financial Results"
+  ]
+ },
+ "KOTAKBANK": {
+  "adv": 1068.4,
+  "reasons": [
+   "event 24-Oct Board Meeting Intimation; 24-Oct Financial Results"
+  ],
+  "after": [],
+  "past": []
+ },
+ "LAURUSLABS": {
+  "adv": 310.91,
+  "reasons": [
+   "event 29-Oct Board Meeting Intimation; 29-Oct Financial Results/Dividend"
+  ],
+  "after": [],
+  "past": []
+ },
+ "LGEINDIA": {
+  "adv": 111.85,
+  "reasons": [],
+  "after": [],
+  "past": []
+ },
+ "MEESHO": {
+  "adv": 683.14,
+  "reasons": [
+   "event 28-Oct Board Meeting Intimation; 28-Oct Financial Results"
+  ],
+  "after": [],
+  "past": []
+ },
+ "MOTILALOFS": {
+  "adv": 96.18,
+  "reasons": [],
+  "after": [],
+  "past": []
+ },
+ "MRPL": {
+  "adv": 237.09,
+  "reasons": [],
+  "after": [],
+  "past": [
+   "14-Oct Financial Results",
+   "14-Oct Financial Results/Dividend"
+  ]
+ },
+ "NUVOCO": {
+  "adv": 9.89,
+  "reasons": [
+   "ADV 9.89",
+   "event 22-Oct Board Meeting Intimation; 22-Oct Financial Results"
+  ],
+  "after": [],
+  "past": []
+ },
+ "NYKAA": {
+  "adv": 158.89,
+  "reasons": [],
+  "after": [],
+  "past": []
+ },
+ "PAYTM": {
+  "adv": 722.28,
+  "reasons": [
+   "event 26-Oct Board Meeting Intimation; 26-Oct Financial Results"
+  ],
+  "after": [],
+  "past": []
+ },
+ "PERSISTENT": {
+  "adv": 335.56,
+  "reasons": [],
+  "after": [],
+  "past": [
+   "15-Oct Board Meeting Intimation",
+   "15-Oct Financial Results/Other busine"
+  ]
+ },
+ "PETRONET": {
+  "adv": 64.29,
+  "reasons": [
+   "event 02-Nov Board Meeting Intimation; 02-Nov Financial Results"
+  ],
+  "after": [],
+  "past": []
+ },
+ "PNB": {
+  "adv": 160.79,
+  "reasons": [],
+  "after": [],
+  "past": [
+   "16-Oct Board Meeting Intimation",
+   "16-Oct Financial Results"
+  ]
+ },
+ "PNBHOUSING": {
+  "adv": 104.35,
+  "reasons": [
+   "event 28-Oct Board Meeting Intimation; 28-Oct Financial Results"
+  ],
+  "after": [],
+  "past": []
+ },
+ "PTCIL": {
+  "adv": 62.25,
+  "reasons": [],
+  "after": [],
+  "past": []
+ },
+ "PVRINOX": {
+  "adv": 105.86,
+  "reasons": [],
+  "after": [],
+  "past": []
+ },
+ "PWL": {
+  "adv": 144.81,
+  "reasons": [],
+  "after": [],
+  "past": []
+ },
+ "REDINGTON": {
+  "adv": 169.93,
+  "reasons": [],
+  "after": [],
+  "past": []
+ },
+ "SAGILITY": {
+  "adv": 56.96,
+  "reasons": [
+   "event 22-Oct Board Meeting Intimation; 22-Oct Financial Results/Dividend"
+  ],
+  "after": [],
+  "past": []
+ },
+ "SANSERA": {
+  "adv": 142.55,
+  "reasons": [
+   "ASM longterm Stage I"
+  ],
+  "after": [],
+  "past": []
+ },
+ "SHRIPISTON": {
+  "adv": 41.87,
+  "reasons": [
+   "event 30-Oct Board Meeting Intimation; 30-Oct Financial Results"
+  ],
+  "after": [],
+  "past": []
+ },
+ "SHYAMMETL": {
+  "adv": 69.46,
+  "reasons": [],
+  "after": [],
+  "past": []
+ },
+ "SOLARINDS": {
+  "adv": 345.07,
+  "reasons": [],
+  "after": [],
+  "past": []
+ },
+ "STLTECH": {
+  "adv": 180.01,
+  "reasons": [
+   "ASM longterm Stage IV",
+   "event 23-Oct Board Meeting Intimation; 23-Oct Financial Results"
+  ],
+  "after": [],
+  "past": []
+ },
+ "SUNTV": {
+  "adv": 209.09,
+  "reasons": [],
+  "after": [],
+  "past": []
+ },
+ "SUPREMEIND": {
+  "adv": 64.65,
+  "reasons": [],
+  "after": [],
+  "past": []
+ },
+ "SYRMA": {
+  "adv": 328.1,
+  "reasons": [],
+  "after": [],
+  "past": []
+ },
+ "TATACOMM": {
+  "adv": 90.4,
+  "reasons": [],
+  "after": [],
+  "past": [
+   "15-Oct Board Meeting Intimation",
+   "15-Oct Financial Results"
+  ]
+ },
+ "TECHM": {
+  "adv": 561.23,
+  "reasons": [],
+  "after": [],
+  "past": [
+   "15-Oct Board Meeting Intimation",
+   "15-Oct Financial Results/Dividend/Bon"
+  ]
+ },
+ "TEGA": {
+  "adv": 144.9,
+  "reasons": [],
+  "after": [],
+  "past": []
+ },
+ "WELCORP": {
+  "adv": 498.27,
+  "reasons": [
+   "ASM longterm Stage I"
+  ],
+  "after": [],
+  "past": []
+ },
+ "WELSPUNLIV": {
+  "adv": 110.2,
+  "reasons": [],
+  "after": [],
+  "past": []
+ }
+}

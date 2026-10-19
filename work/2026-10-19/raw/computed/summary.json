@@ -1,0 +1,413 @@
+{
+ "session": "2026-10-16",
+ "computed_count": 499,
+ "missing_or_short": [
+  "BAGMANE",
+  "DUMMYHEG"
+ ],
+ "names_last_bar_not_session": [],
+ "session_dates": [
+  "2026-10-16"
+ ],
+ "breadth": {
+  "universe": "Nifty 500 constituents (niftyindices CSV, 501 rows)",
+  "sample_with_50dma": 499,
+  "above_50dma_count": 111,
+  "above_50dma_pct": 22.24,
+  "sample_with_20dma": 499,
+  "above_20dma_count": 163,
+  "above_20dma_pct": 32.67,
+  "sample_with_200dma": 491,
+  "above_200dma_count": 203,
+  "above_200dma_pct": 41.34,
+  "nifty50_sample_with_50dma": 50,
+  "nifty50_above_50dma_count": 16,
+  "nifty50_above_50dma_pct": 32.0,
+  "nifty50_above_50dma": [
+   "ADANIPORTS",
+   "AXISBANK",
+   "BHARTIARTL",
+   "BSE",
+   "COALINDIA",
+   "DRREDDY",
+   "ETERNAL",
+   "HCLTECH",
+   "HDFCBANK",
+   "HDFCLIFE",
+   "ICICIBANK",
+   "INFY",
+   "KOTAKBANK",
+   "TCS",
+   "TECHM",
+   "TRENT"
+  ]
+ },
+ "vix_trend": {
+  "now": 14.0600004196167,
+  "now_date": "2026-10-16",
+  "ago_21_sessions": 13.170000076293945,
+  "ago_date": "2026-09-16",
+  "change": 0.8900003433227539,
+  "change_pct": 6.757785407494099,
+  "direction": "up",
+  "last_10_closes": [
+   [
+    "2026-10-05",
+    14.779999732971191
+   ],
+   [
+    "2026-10-06",
+    13.609999656677246
+   ],
+   [
+    "2026-10-07",
+    13.890000343322754
+   ],
+   [
+    "2026-10-08",
+    15.279999732971191
+   ],
+   [
+    "2026-10-09",
+    14.380000114440918
+   ],
+   [
+    "2026-10-12",
+    15.25
+   ],
+   [
+    "2026-10-13",
+    14.119999885559082
+   ],
+   [
+    "2026-10-14",
+    14.630000114440918
+   ],
+   [
+    "2026-10-15",
+    14.029999732971191
+   ],
+   [
+    "2026-10-16",
+    14.0600004196167
+   ]
+  ]
+ },
+ "tech_rule_A_count": 70,
+ "tech_rule_A": [
+  "AARTIIND",
+  "ABDL",
+  "ACMESOLAR",
+  "ADANIGREEN",
+  "ADANIPORTS",
+  "AEGISLOG",
+  "AIIL",
+  "ANGELONE",
+  "APLAPOLLO",
+  "AUROPHARMA",
+  "BAJAJHLDNG",
+  "BALRAMCHIN",
+  "BBOX",
+  "BHEL",
+  "CARTRADE",
+  "CASTROLIND",
+  "COFORGE",
+  "CPPLUS",
+  "CRAFTSMAN",
+  "CUB",
+  "CUPID",
+  "CYIENT",
+  "DIVISLAB",
+  "DLF",
+  "ECLERX",
+  "ENGINERSIN",
+  "ETERNAL",
+  "FINCABLES",
+  "FSL",
+  "GABRIEL",
+  "GESHIP",
+  "GLAND",
+  "GRAPHITE",
+  "GROWW",
+  "HAL",
+  "HFCL",
+  "ICICIBANK",
+  "INDHOTEL",
+  "JINDALSAW",
+  "JYOTICNC",
+  "KARURVYSYA",
+  "KOTAKBANK",
+  "LAURUSLABS",
+  "LGEINDIA",
+  "MEESHO",
+  "MOTILALOFS",
+  "MRPL",
+  "NUVOCO",
+  "NYKAA",
+  "PAYTM",
+  "PERSISTENT",
+  "PETRONET",
+  "PNB",
+  "PNBHOUSING",
+  "PTCIL",
+  "PVRINOX",
+  "PWL",
+  "REDINGTON",
+  "SAGILITY",
+  "SANSERA",
+  "SHRIPISTON",
+  "SHYAMMETL",
+  "SOLARINDS",
+  "STLTECH",
+  "SYRMA",
+  "TATACOMM",
+  "TECHM",
+  "TEGA",
+  "WELCORP",
+  "WELSPUNLIV"
+ ],
+ "tech_rule_B_count": 4,
+ "tech_rule_B": [
+  "BSE",
+  "COALINDIA",
+  "SUNTV",
+  "SUPREMEIND"
+ ],
+ "tech_pass_count": 74,
+ "single_bar_indices": {
+  "IDX_CNXAUTO.json": {
+   "n_bars": 2,
+   "last": {
+    "date": "2026-10-16",
+    "open": 25598.30078125,
+    "high": 25810.55078125,
+    "low": 25430.30078125,
+    "close": 25768.5,
+    "volume": 352500.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXAUTO"
+  },
+  "IDX_CNXCMDT.json": {
+   "n_bars": 1,
+   "last": {
+    "date": "2026-10-16",
+    "open": 9085.150390625,
+    "high": 9135.900390625,
+    "low": 9005.599609375,
+    "close": 9099.5,
+    "volume": 0.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXCMDT"
+  },
+  "IDX_CNXCONSUM.json": {
+   "n_bars": 2,
+   "last": {
+    "date": "2026-10-16",
+    "open": 11024.650390625,
+    "high": 11065.0498046875,
+    "low": 10963.900390625,
+    "close": 11054.650390625,
+    "volume": 0.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXCONSUM"
+  },
+  "IDX_CNXENERGY.json": {
+   "n_bars": 2,
+   "last": {
+    "date": "2026-10-16",
+    "open": 36245.80078125,
+    "high": 36375.75,
+    "low": 35821.3984375,
+    "close": 36190.8515625,
+    "volume": 3021000.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXENERGY"
+  },
+  "IDX_CNXFIN.json": {
+   "n_bars": 1,
+   "last": {
+    "date": "2026-10-16",
+    "open": 27270.150390625,
+    "high": 27299.69921875,
+    "low": 26964.0,
+    "close": 27211.0,
+    "volume": 0.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXFIN"
+  },
+  "IDX_CNXFMCG.json": {
+   "n_bars": 2,
+   "last": {
+    "date": "2026-10-16",
+    "open": 44849.25,
+    "high": 44859.6484375,
+    "low": 44361.44921875,
+    "close": 44616.1484375,
+    "volume": 31400.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXFMCG"
+  },
+  "IDX_CNXINFRA.json": {
+   "n_bars": 2,
+   "last": {
+    "date": "2026-10-16",
+    "open": 8706.150390625,
+    "high": 8744.099609375,
+    "low": 8632.150390625,
+    "close": 8725.599609375,
+    "volume": 2388200.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXINFRA"
+  },
+  "IDX_CNXMEDIA.json": {
+   "n_bars": 1,
+   "last": {
+    "date": "2026-10-16",
+    "open": 1623.449951171875,
+    "high": 1651.550048828125,
+    "low": 1619.800048828125,
+    "close": 1648.25,
+    "volume": 0.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXMEDIA"
+  },
+  "IDX_CNXMETAL.json": {
+   "n_bars": 2,
+   "last": {
+    "date": "2026-10-16",
+    "open": 12057.150390625,
+    "high": 12197.849609375,
+    "low": 11995.0498046875,
+    "close": 12133.2001953125,
+    "volume": 991600.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXMETAL"
+  },
+  "IDX_CNXMNC.json": {
+   "n_bars": 2,
+   "last": {
+    "date": "2026-10-16",
+    "open": 29571.650390625,
+    "high": 29612.69921875,
+    "low": 29324.80078125,
+    "close": 29515.150390625,
+    "volume": 414500.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXMNC"
+  },
+  "IDX_CNXPSE.json": {
+   "n_bars": 2,
+   "last": {
+    "date": "2026-10-16",
+    "open": 9262.0498046875,
+    "high": 9297.099609375,
+    "low": 9187.650390625,
+    "close": 9247.2998046875,
+    "volume": 1744100.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXPSE"
+  },
+  "IDX_CNXPSUBANK.json": {
+   "n_bars": 2,
+   "last": {
+    "date": "2026-10-16",
+    "open": 8072.4501953125,
+    "high": 8120.7001953125,
+    "low": 8019.14990234375,
+    "close": 8094.9501953125,
+    "volume": 1113000.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXPSUBANK"
+  },
+  "IDX_CNXREALTY.json": {
+   "n_bars": 2,
+   "last": {
+    "date": "2026-10-16",
+    "open": 829.4000244140625,
+    "high": 830.75,
+    "low": 820.2000122070312,
+    "close": 825.9500122070312,
+    "volume": 80300.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXREALTY"
+  },
+  "IDX_CNXSC.json": {
+   "n_bars": 1,
+   "last": {
+    "date": "2026-10-16",
+    "open": 19172.849609375,
+    "high": 19194.94921875,
+    "low": 19069.849609375,
+    "close": 19129.80078125,
+    "volume": 0.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXSC"
+  },
+  "IDX_CNXSERVICE.json": {
+   "n_bars": 1,
+   "last": {
+    "date": "2026-10-16",
+    "open": 30144.099609375,
+    "high": 30481.849609375,
+    "low": 30102.0,
+    "close": 30481.849609375,
+    "volume": 0.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "^CNXSERVICE"
+  },
+  "IDX_NIFTY_FIN_SERVICE.NS.json": {
+   "n_bars": 2,
+   "last": {
+    "date": "2026-10-16",
+    "open": 25409.599609375,
+    "high": 25429.849609375,
+    "low": 25139.05078125,
+    "close": 25387.099609375,
+    "volume": 1576000.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "NIFTY_FIN_SERVICE.NS"
+  },
+  "IDX_NIFTY_HEALTHCARE.NS.json": {
+   "n_bars": 1,
+   "last": {
+    "date": "2026-10-16",
+    "open": 15755.849609375,
+    "high": 15766.2998046875,
+    "low": 15594.75,
+    "close": 15683.5498046875,
+    "volume": 0.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "NIFTY_HEALTHCARE.NS"
+  },
+  "IDX_NIFTY_MIDCAP_100.NS.json": {
+   "n_bars": 1,
+   "last": {
+    "date": "2026-10-16",
+    "open": 59262.05078125,
+    "high": 59302.1484375,
+    "low": 58775.8984375,
+    "close": 59129.75,
+    "volume": 0.0,
+    "close_filled_from_meta": false
+   },
+   "symbol": "NIFTY_MIDCAP_100.NS"
+  }
+ }
+}

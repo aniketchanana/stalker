@@ -1,0 +1,1091 @@
+{
+ "flows": {
+  "fpi_net_week_12_16_oct_settled_cr": {
+   "value": -7934,
+   "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/fpi-selling-crosses-rs-52000-crore-in-october-as-nifty-defies-foreign-exodus/articleshow/135025955.cms",
+   "as_of": "2026-10-16",
+   "method": "websearch",
+   "notes": "FPIs sold net Rs 7,934 Cr (settled basis) in week 12-16 Oct"
+  },
+  "fpi_net_oct_mtd_cr": {
+   "value": -52100,
+   "source_url": "https://timesofindia.indiatimes.com/business/india-business/fpis-pull-out-52100cr-from-indian-equities-in-october-so-far/articleshow/135037488.cms",
+   "as_of": "2026-10-16",
+   "method": "websearch",
+   "notes": "CDSL/NSDL depository data, Oct 1-16 (TOI 19 Oct; Fund Tracker India same figure). Sep -35,861; Aug +29,631; Jul +20,200"
+  },
+  "dii_net_oct_mtd_cr": {
+   "value": 74729,
+   "source_url": "https://fundtrackerindia.com/fii-dii",
+   "as_of": "2026-10-16",
+   "method": "websearch",
+   "notes": "Fund Tracker India; DII Sep +92,734 Cr"
+  },
+  "fpi_net_cy2026_cr": {
+   "value": "outflow > 3.1 lakh Cr",
+   "source_url": "https://timesofindia.indiatimes.com/business/india-business/fpis-pull-out-52100cr-from-indian-equities-in-october-so-far/articleshow/135037488.cms",
+   "as_of": "2026-10-16",
+   "method": "websearch",
+   "notes": "cumulative 2026 to date"
+  },
+  "fii_index_futures_net_2026-10-16_cr": {
+   "value": 1024.71,
+   "source_url": "https://www.moneycontrol.com/markets/fii-dii-data/",
+   "as_of": "2026-10-16",
+   "method": "websearch",
+   "notes": "Moneycontrol FII/DII page, provisional"
+  },
+  "note": "16-Oct provisional FII buy (+1,165.92 Cr) ended a 15-session FII selling streak (ET 18 Oct)."
+ },
+ "corporate_actions_web": {
+  "TECHM": [
+   {
+    "action": "1:1 bonus issue recommended by board; interim dividend Rs 15",
+    "announced": "2026-10-15",
+    "record_date": "N/A (not yet announced)",
+    "source_url": "https://www.techmahindra.com/insights/press-releases/techmahindra-q2-fy27-results/"
+   }
+  ],
+  "360ONE": [
+   {
+    "action": "second interim dividend Rs 7.5",
+    "announced": "2026-10-15",
+    "record_date": "2026-10-23",
+    "source_url": "https://nsearchives.nseindia.com/corporate/IIFLWAM_15102026163141_BoardMeetingOutcomeSigned.pdf"
+   }
+  ],
+  "AARTIIND": [
+   {
+    "action": "EGM to approve fund raise up to Rs 1,000 Cr (QIP/private placement/other)",
+    "announced": "2026-10-01",
+    "record_date": "EGM 2026-10-31",
+    "source_url": "https://nsearchives.nseindia.com/corporate/AARTIIND_01102026171448_AARTIIND_Outcome.pdf"
+   }
+  ]
+ },
+ "market_extra": {
+  "usdinr_reported_close_2026-10-16": {
+   "value": {
+    "ET": 94.96,
+    "New Indian Express (interbank)": 94.92
+   },
+   "source_url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-1-9-in-a-week-closes-below-95-per-dollar/articleshow/134996292.cms",
+   "as_of": "2026-10-16",
+   "method": "websearch",
+   "notes": "Rupee +1.9% w/w; RBI curbs (OMC dollar demand via RBI window). Yahoo USDINR=X 16-Oct bar 94.52 differs ~0.5% (Yahoo bar timing)."
+  },
+  "india_fx_reserves": {
+   "value": "USD 726 bn (-8.578 bn w/w; 6th straight weekly fall)",
+   "source_url": "https://www.newindianexpress.com/business/2026/Oct/16/rbi-curbs-help-rupee-post-best-week-in-seven-months",
+   "as_of": "2026-10-09",
+   "method": "websearch",
+   "notes": ""
+  },
+  "brent_context": {
+   "value": "Brent touched $110 (first since May), settled $109.86 (+3.7%) on 16 Oct; >=9 ships attacked near Hormuz since 11 Oct; Hormuz crude flows ~9.4 mb/d (~70% of pre-war)",
+   "source_url": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
+   "as_of": "2026-10-16",
+   "method": "websearch",
+   "notes": ""
+  },
+  "week_summary": {
+   "value": "Nifty +2.77% w/w (+625.7 pts) to 23,146; Sensex +3.11%; second straight weekly gain, IT-led (Nifty IT +11.7% w/w)",
+   "source_url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-outlook-geopolitical-cues-earnings-foreign-inflows-more-to-keep-dalal-street-busy/articleshow/135025850.cms",
+   "as_of": "2026-10-16",
+   "method": "websearch",
+   "notes": ""
+  },
+  "gift_nifty_pre_open_2026-10-19": {
+   "value": 23131,
+   "source_url": "https://www.business-standard.com/markets/news/stocks-to-watch-hdfc-bank-icici-bank-bajaj-fin-dlf-omcs-ntpc-more-126101900059_1.html",
+   "as_of": "2026-10-19 07:45 IST",
+   "method": "websearch",
+   "notes": "indication only (not session data); flat-to-negative start"
+  },
+  "us_10y_yield": {
+   "value": "~5.3% after US Sep CPI 3.7%",
+   "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/fpi-selling-crosses-rs-52000-crore-in-october-as-nifty-defies-foreign-exodus/articleshow/135025955.cms",
+   "as_of": "2026-10-16",
+   "method": "websearch",
+   "notes": ""
+  }
+ },
+ "breadth_cross_checks": [
+  {
+   "value": {
+    "above_50dma_pct": 21.2,
+    "above_200dma_pct": 37.8,
+    "adv_dec": "258/241",
+    "nifty50_above_50dma_pct": 30,
+    "new_lows_pct": 4.0,
+    "new_highs_pct": 1.6
+   },
+   "source_url": "https://indexbreadth.com/learn/market-breadth-eod-16-october-2026/",
+   "as_of": "2026-10-16",
+   "method": "websearch",
+   "notes": "Nifty 500 universe"
+  },
+  {
+   "value": {
+    "above_20dma_pct": 33.2,
+    "above_50dma_pct": 24.0,
+    "above_200dma_pct": 46.0,
+    "adv_dec": "255/244",
+    "new_highs": 8,
+    "new_lows": 13
+   },
+   "source_url": "https://flashfinance.news/market-breadth/",
+   "as_of": "2026-10-16",
+   "method": "websearch",
+   "notes": "Top-500 proxy universe (definition differs from Nifty 500)"
+  }
+ ],
+ "macro": {
+  "rbi_policy_last": {
+   "value": "7 Oct 2026: repo +25 bp to 5.50% (unanimous); SDF 5.25%, MSF 5.75%; stance changed to 'calibrated tightening' (rate cuts off the table near term)",
+   "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63742",
+   "as_of": "2026-10-07",
+   "method": "websearch",
+   "notes": ""
+  },
+  "rbi_next_mpc": {
+   "value": "2026-12-04 10:00 IST (decision)",
+   "source_url": "https://www.econ-calendar.com/rbi-meeting-dates",
+   "as_of": "2026",
+   "method": "websearch",
+   "notes": "outside the 15-session window"
+  },
+  "fomc": {
+   "value": "27-28 Oct 2026; statement 28 Oct 2:00 pm ET (~23:30 IST 28 Oct / reaction in India 29 Oct)",
+   "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+   "as_of": "2026-10",
+   "method": "websearch",
+   "notes": ""
+  },
+  "fomc_hike_odds": {
+   "value": {
+    "Yardeni": "17% odds of 25 bp hike",
+    "Economic Times": ">40% (citing an FPI-flows report)"
+   },
+   "source_url": "https://www.yardeniquicktakes.com/economic-week-ahead-october-19-23/",
+   "as_of": "2026-10-18",
+   "method": "websearch",
+   "notes": "CONFLICT between sources; ET URL: https://economictimes.indiatimes.com/markets/stocks/news/fpi-selling-crosses-rs-52000-crore-in-october-as-nifty-defies-foreign-exodus/articleshow/135025955.cms"
+  },
+  "us_cpi_sep": {
+   "value": "3.7% y/y (core 2.6%); PPI 6.3% y/y",
+   "source_url": "https://www.yardeniquicktakes.com/economic-week-ahead-october-19-23/",
+   "as_of": "2026-10-18",
+   "method": "websearch",
+   "notes": ""
+  },
+  "india_cpi_sep": {
+   "value": "5.54% y/y (Aug 4.83%); food 7.74%; released 12 Oct",
+   "source_url": "https://mospi.gov.in/uploads/latestReleases/latest_release_1791800601071_643518af-5320-4e52-b78c-75c92b83885b_Press_Release_for_the_month_of_September,_2026.pdf",
+   "as_of": "2026-10-12",
+   "method": "websearch",
+   "notes": ""
+  },
+  "india_release_calendar": {
+   "value": {
+    "IIP (Sep)": "2026-10-28",
+    "CPI (Oct)": "2026-11-12",
+    "Q2 GDP": "2026-11-30"
+   },
+   "source_url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1774849665042-ADVANCE_RELEASE_CALENDAR_2026_27_FINAL.pdf",
+   "as_of": "2026-27",
+   "method": "websearch",
+   "notes": ""
+  },
+  "us_events": {
+   "value": {
+    "US midterm Election Day + JOLTS": "2026-11-03",
+    "US Oct payrolls": "2026-11-06 08:30 ET",
+    "US Oct CPI": "2026-11-10"
+   },
+   "source_url": "https://squawkflow.com/calendar/election-week-2026",
+   "as_of": "2026-09",
+   "method": "websearch",
+   "notes": "payrolls: https://www.bls.gov/schedule/news_release/empsit.htm"
+  },
+  "diwali_muhurat": {
+   "value": "Muhurat trading Sun 8 Nov 2026 (timings to be notified); Balipratipada holiday Tue 10 Nov; Dussehra holiday Tue 20 Oct; Gurpurb Tue 24 Nov",
+   "source_url": "https://nsearchives.nseindia.com/content/circulars/CMTR71775.pdf",
+   "as_of": "2025-12-12",
+   "method": "scraped",
+   "notes": ""
+  },
+  "q2_season_this_week": {
+   "value": "19 Oct: Bajaj Finance, UltraTech, Hindustan Zinc, Union Bank, IREDA, LTTS, HFCL; later in week: Infosys, Coforge (23 Oct), Crisil, Swiggy. Reported 16-17 Oct (reaction 19 Oct): HDFC Bank (standalone PAT +4.7%, GNPA 1.11%), ICICI Bank (standalone PAT +20.1%), Axis Bank (PAT +39.4%)",
+   "source_url": "https://www.business-standard.com/markets/news/stocks-to-watch-hdfc-bank-icici-bank-bajaj-fin-dlf-omcs-ntpc-more-126101900059_1.html",
+   "as_of": "2026-10-19",
+   "method": "websearch",
+   "notes": ""
+  },
+  "geopolitics_oil": {
+   "value": "Oil up ~10% last week to a one-month high on Iranian attacks on tankers (Hormuz)",
+   "source_url": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-19-october-us-iran-war-oil-price-12204341",
+   "as_of": "2026-10-19 07:55 IST",
+   "method": "websearch",
+   "notes": ""
+  }
+ },
+ "screen_notes": "Industry PE = median of positive P/E on screener industry page 1 (top 25 by mcap); industry pages were fetched 19-Oct after 09:15 IST, so peer P/Es reflect live 19-Oct prices (company P/E/mcap/PB were rescaled to the 16-Oct NSE close). Pledge from NSE SHP XBRL (latest filed quarter; several are 30-Jun-2026 because the Sep-2026 SHP was not yet filed). Names with no promoter group: pledge N/A (not a fail).",
+ "calendar_items": [
+  {
+   "date": "2026-10-28",
+   "symbol": "MACRO",
+   "event": "India IIP (Sep) release",
+   "source": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1774849665042-ADVANCE_RELEASE_CALENDAR_2026_27_FINAL.pdf",
+   "method": "websearch"
+  },
+  {
+   "date": "2026-10-29",
+   "symbol": "MACRO",
+   "event": "FOMC decision (28 Oct 2pm ET = ~23:30 IST); first Indian session to react 29 Oct",
+   "source": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+   "method": "websearch"
+  },
+  {
+   "date": "2026-11-03",
+   "symbol": "MACRO",
+   "event": "US midterm elections; US JOLTS",
+   "source": "https://squawkflow.com/calendar/election-week-2026",
+   "method": "websearch"
+  },
+  {
+   "date": "2026-11-06",
+   "symbol": "MACRO",
+   "event": "US Oct non-farm payrolls (08:30 ET)",
+   "source": "https://www.bls.gov/schedule/news_release/empsit.htm",
+   "method": "websearch"
+  },
+  {
+   "date": "2026-11-08",
+   "symbol": "MACRO",
+   "event": "Diwali Muhurat trading (Sunday; timings to be notified)",
+   "source": "https://nsearchives.nseindia.com/content/circulars/CMTR71775.pdf",
+   "method": "scraped"
+  },
+  {
+   "date": "2026-11-02",
+   "symbol": "SHRIPISTON",
+   "event": "Q2 FY27 earnings call 16:00 IST (results board meeting 30 Oct)",
+   "source": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/692158eb-44e5-4a46-aa4b-beda33aed9c7.pdf",
+   "method": "websearch"
+  }
+ ],
+ "results_dates": {
+  "REDINGTON": {
+   "value": {
+    "date": "N/A",
+    "confirmed": false,
+    "estimate": "2026-10-30 (Koyfin/StockAnalysis estimate); ~2026-11-04 (Yahoo)",
+    "estimate_inside_window": true
+   },
+   "source_url": "https://stockanalysis.com/quote/nse/REDINGTON/statistics/",
+   "as_of": "2026-10-19",
+   "method": "websearch",
+   "notes": "No NSE board-meeting intimation found (NSE board-meeting API 19 Oct-30 Nov; corporate announcements to 18 Oct). Estimates only."
+  },
+  "COALINDIA": {
+   "value": {
+    "date": "N/A",
+    "confirmed": false,
+    "estimate": "2026-10-23 (StockAnalysis 'estimated earnings date')",
+    "estimate_inside_window": true
+   },
+   "source_url": "https://stockanalysis.com/quote/nse/COALINDIA/statistics/",
+   "as_of": "2026-10-19",
+   "method": "websearch",
+   "notes": "No NSE board-meeting intimation in the API pull; trading window closed from 1 Oct (Kalkine). UNCONFIRMED."
+  },
+  "GESHIP": {
+   "value": {
+    "date": "N/A",
+    "confirmed": false,
+    "estimate": "2026-11-04 (StockAnalysis estimate)",
+    "estimate_inside_window": true
+   },
+   "source_url": "https://stockanalysis.com/quote/nse/GESHIP/statistics/",
+   "as_of": "2026-10-19",
+   "method": "websearch",
+   "notes": "No NSE board-meeting intimation yet. UNCONFIRMED."
+  },
+  "HAL": {
+   "value": {
+    "date": "N/A",
+    "confirmed": false,
+    "estimate": "2026-11-06 (StockAnalysis estimate)",
+    "estimate_inside_window": true
+   },
+   "source_url": "https://stockanalysis.com/quote/nse/HAL/statistics/",
+   "as_of": "2026-10-19",
+   "method": "websearch",
+   "notes": "No NSE board-meeting intimation yet. UNCONFIRMED."
+  },
+  "SUNTV": {
+   "value": {
+    "date": "N/A",
+    "confirmed": false,
+    "estimate": "2026-11-13 (StockAnalysis estimate)",
+    "estimate_inside_window": false
+   },
+   "source_url": "https://stockanalysis.com/quote/nse/SUNTV/statistics/",
+   "as_of": "2026-10-19",
+   "method": "websearch",
+   "notes": "No NSE board-meeting intimation yet. UNCONFIRMED."
+  },
+  "WELCORP": {
+   "value": {
+    "date": "N/A",
+    "confirmed": false,
+    "estimate": "2026-10-23 (StockAnalysis estimate)",
+    "estimate_inside_window": true
+   },
+   "source_url": "https://stockanalysis.com/quote/nse/WELCORP/statistics/",
+   "as_of": "2026-10-19",
+   "method": "websearch",
+   "notes": "No NSE board-meeting intimation yet. UNCONFIRMED."
+  },
+  "JAMNAAUTO": {
+   "value": {
+    "date": "N/A",
+    "confirmed": false,
+    "estimate": "2026-11-06 (StockAnalysis estimate); prior-year Q2 board meeting 12 Nov 2025 (Trendlyne); SEBI outer deadline 14 Nov 2026",
+    "estimate_inside_window": true
+   },
+   "source_url": "https://trendlyne.com/equity/board-meeting/JAMNAAUTO/660/jamna-auto-industries-ltd-board_meeting/",
+   "as_of": "2026-10-19",
+   "method": "websearch",
+   "notes": "Trading window closed from 1 Oct until 48h after results; board-meeting date not yet announced. UNCONFIRMED."
+  },
+  "SUPRIYA": {
+   "value": {
+    "date": "N/A",
+    "confirmed": false,
+    "estimate": "2026-11-13 (StockAnalysis estimate); prior-year Q2 board meeting 12 Nov 2025",
+    "estimate_inside_window": false
+   },
+   "source_url": "https://bazaarwatch.com/announcement/150339/supriya-lifescience-limited-trading-window",
+   "as_of": "2026-10-19",
+   "method": "websearch",
+   "notes": "Company: board-meeting date 'shall be intimated in due course' (28 Sep filing). UNCONFIRMED."
+  },
+  "TANLA": {
+   "value": {
+    "date": "N/A",
+    "confirmed": false,
+    "estimate": "2026-10-23 (StockAnalysis estimate; TipRanks/finanzen listed 15-16 Oct which has passed with no NSE results filing)",
+    "estimate_inside_window": true
+   },
+   "source_url": "https://stockanalysis.com/quote/nse/TANLA/statistics/",
+   "as_of": "2026-10-19",
+   "method": "websearch",
+   "notes": "NSE corporate announcements 25 Sep-18 Oct: no results filing and no board-meeting intimation. UNCONFIRMED."
+  }
+ },
+ "bank_metrics": {
+  "SOUTHBANK": {
+   "value": {
+    "gnpa_pct": {
+     "Q2FY26": 2.93,
+     "Q3FY26": 2.67,
+     "Q4FY26": 1.43,
+     "Q1FY27": 1.38,
+     "Q2FY27": 1.24
+    },
+    "nnpa_pct": {
+     "Q2FY26": 0.56,
+     "Q3FY26": 0.45,
+     "Q4FY26": 0.29,
+     "Q1FY27": 0.26,
+     "Q2FY27": 0.09
+    },
+    "car_pct": {
+     "Q2FY26": 17.7,
+     "Q2FY27": 19.4
+    }
+   },
+   "source_url": "https://nsearchives.nseindia.com/corporate/SOUTHBANK_15102026152810_SD_STT_INVESTORPRESENTATION_15OCT2026.pdf",
+   "as_of": "2026-09-30",
+   "method": "websearch",
+   "notes": "RoA 1.08%, RoE 14.00%, CASA 31.55% (-143 bp QoQ)"
+  },
+  "CANFINHOME": {
+   "value": {
+    "gnpa_pct": {
+     "Q2FY26": 0.94,
+     "Q1FY27": 0.87,
+     "Q2FY27": 0.9
+    },
+    "nnpa_pct": {
+     "Q1FY27": 0.4,
+     "Q2FY27": 0.42
+    },
+    "car_pct": {
+     "Q2FY27": 23.34
+    }
+   },
+   "source_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3b7bdf9f-c4d0-4f62-9f90-f95152af735b.pdf",
+   "as_of": "2026-09-30",
+   "method": "websearch",
+   "notes": "HFC: NIM 3.89% (vs 4.02%); disbursements -6.8% YoY; RoE 17.12%"
+  },
+  "KARURVYSYA": {
+   "value": {
+    "gnpa_pct": {
+     "Q2FY26": 0.76,
+     "Q1FY27": 0.74,
+     "Q2FY27": 0.69
+    },
+    "nnpa_pct": {
+     "Q2FY26": 0.19,
+     "Q1FY27": 0.19,
+     "Q2FY27": 0.18
+    },
+    "car_pct": {
+     "Q2FY26": 16.58,
+     "Q1FY27": 18.61,
+     "Q2FY27": 17.97
+    }
+   },
+   "source_url": "https://www.equitybulls.com/news/377029/karur-vysya-bank-reports-q2-fy27-net-profit-growth-of-37-2-yoy-to-78-769-lakh-gr",
+   "as_of": "2026-09-30",
+   "method": "websearch",
+   "notes": "RoA 2.10%; NIM 4.26%; filing: https://www.bseindia.com/xml-data/corpfiling/AttachLive/85CB5430-7689-4AAB-A8EA-38BBF08D97B7-164609.pdf"
+  },
+  "PNB": {
+   "value": {
+    "gnpa_pct": {
+     "Q2FY26": 3.45,
+     "Q1FY27": 2.78,
+     "Q2FY27": 2.55
+    },
+    "nnpa_pct": {
+     "Q2FY26": 0.36,
+     "Q1FY27": 0.28,
+     "Q2FY27": 0.25
+    },
+    "car_pct": {
+     "Q2FY26": 17.19,
+     "Q1FY27": 18.13,
+     "Q2FY27": 17.95
+    }
+   },
+   "source_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/6c942833-673e-48dd-8377-51a5a382ac90.pdf",
+   "as_of": "2026-09-30",
+   "method": "websearch",
+   "notes": "PCR 97.32%; slippage 0.77% (vs 0.71%); provisions only Rs 97 Cr in Q2"
+  },
+  "ICICIBANK": {
+   "value": {
+    "gnpa_pct": {
+     "Q2FY26": 1.58,
+     "Q1FY27": 1.38,
+     "Q2FY27": 1.2
+    },
+    "nnpa_pct": {
+     "Q2FY26": 0.39,
+     "Q1FY27": 0.35,
+     "Q2FY27": 0.3
+    },
+    "car_pct": {
+     "Q2FY27": 16.68
+    }
+   },
+   "source_url": "https://www.icici.bank.in/about-us/news-room/2026/performance-review-quarter-ended-september-30-2026",
+   "as_of": "2026-09-30",
+   "method": "websearch",
+   "notes": "CET-1 16.01%; PCR 75.0%; NIM 4.18% (-18 bp QoQ)"
+  },
+  "CUB": {
+   "value": "N/A (Q2 FY27 results due 28 Oct 2026; latest reported Q1 FY27 not collected)",
+   "source_url": "https://www.psuconnect.in/financial/city-union-bank-q2-fy27-results-on-october-28-trading-window-to-reopen-on-october-31",
+   "as_of": "2026-10-09",
+   "method": "websearch",
+   "notes": ""
+  },
+  "PNBHOUSING": {
+   "value": {
+    "gnpa_pct": {
+     "Q1FY27": 0.95
+    },
+    "nnpa_pct": "N/A",
+    "car_pct": "N/A"
+   },
+   "source_url": "https://www.pnbhousing.com/telugu/documents/d/guest/Earnings%20Call%20Transcript%2007082026",
+   "as_of": "2026-06-30",
+   "method": "websearch",
+   "notes": "Q2 FY27 results due 28 Oct 2026; GNPA from Q1 FY27 earnings call (latest available)"
+  }
+ },
+ "cyclicals": {
+  "COALINDIA": {
+   "context": "Sep offtake +12.5% YoY, e-auction premium 94% (Nuvama, Business Today 5 Oct); H1 production -2.5% YoY. Brent $109.86 (16 Oct), +4.8% 1M, +23.1% 3M (Yahoo BZ=F, computed); Hormuz disruption (CNBC 16 Oct)",
+   "ev_ebitda_5y_avg": "N/A",
+   "ev_note": "5-year average EV/EBITDA not found in an accessible source (gap)."
+  },
+  "MRPL": {
+   "context": "Refiner: PL Capital FY27E GRM $11.3/bbl normalising to $7.4-7.5 in FY28-29E (Mint 15 Oct). Brent $109.86 (16 Oct), +4.8% 1M, +23.1% 3M (Yahoo BZ=F, computed); Hormuz disruption (CNBC 16 Oct)",
+   "ev_ebitda_5y_avg": "N/A",
+   "ev_note": "5-year average EV/EBITDA not found (gap)."
+  },
+  "GESHIP": {
+   "context": "VLCC rates eased w/e 16 Oct from records (Gulf of Oman-China WS ~776 vs 841; Maritime News/Baltic Exchange); crude tanker order book ~27% of fleet",
+   "ev_ebitda_5y_avg": "N/A",
+   "ev_note": "5-year average EV/EBITDA not found (gap)."
+  },
+  "WELCORP": {
+   "context": "Steel pipes: record order book $4.7bn; DI pipe margins pressured (CARE 15 Oct). Brent $109.86 (16 Oct), +4.8% 1M, +23.1% 3M (Yahoo BZ=F, computed); Hormuz disruption (CNBC 16 Oct)",
+   "ev_ebitda_5y_avg": "N/A",
+   "ev_note": "5-year average EV/EBITDA not found (gap)."
+  },
+  "PETRONET": {
+   "context": "LNG regas: Qatar force majeure / Hormuz; Dahej utilisation 98% in Jul 2026 via third-party cargoes (ETEnergyworld). Brent $109.86 (16 Oct), +4.8% 1M, +23.1% 3M (Yahoo BZ=F, computed); Hormuz disruption (CNBC 16 Oct)",
+   "ev_ebitda_5y_avg": "N/A",
+   "ev_note": "5-year average EV/EBITDA not found (gap)."
+  },
+  "JINDALSAW": {
+   "context": "Brent $109.86 (16 Oct), +4.8% 1M, +23.1% 3M (Yahoo BZ=F, computed); Hormuz disruption (CNBC 16 Oct)",
+   "ev_ebitda_5y_avg": "N/A",
+   "ev_note": "gap"
+  }
+ },
+ "forward_pe_second_source": {
+  "COALINDIA": {
+   "source_url": "https://stockanalysis.com/quote/nse/COALINDIA/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 7.48,
+   "notes": "stockanalysis Forward PE 7.46 at live 415.85001 (Oct 19, 2026, 9:30 AM IST); implied fwd EPS 55.74; rebased to NSE 16-Oct close 417.2. Page PE (TTM) 8.25; page earnings date Oct 23, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 23, 2026"
+  },
+  "ENGINERSIN": {
+   "source_url": "https://stockanalysis.com/quote/nse/ENGINERSIN/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 22.6,
+   "notes": "stockanalysis Forward PE 22.27 at live 269.4 (Oct 19, 2026, 9:30 AM IST); implied fwd EPS 12.1; rebased to NSE 16-Oct close 273.45. Page PE (TTM) 19.59; page earnings date Oct 30, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 30, 2026"
+  },
+  "GESHIP": {
+   "source_url": "https://stockanalysis.com/quote/nse/GESHIP/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 5.85,
+   "notes": "stockanalysis Forward PE 5.78 at live 1489.2 (Oct 19, 2026, 9:30 AM IST); implied fwd EPS 257.65; rebased to NSE 16-Oct close 1507.4. Page PE (TTM) 5.66; page earnings date Nov 4, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Nov 4, 2026"
+  },
+  "HAL": {
+   "source_url": "https://stockanalysis.com/quote/nse/HAL/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 32.45,
+   "notes": "stockanalysis Forward PE 32.29 at live 4965.0 (Oct 19, 2026, 9:30 AM IST); implied fwd EPS 153.76; rebased to NSE 16-Oct close 4989.0. Page PE (TTM) 35.79; page earnings date Nov 6, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Nov 6, 2026"
+  },
+  "KARURVYSYA": {
+   "source_url": "https://stockanalysis.com/quote/nse/KARURVYSYA/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 10.35,
+   "notes": "stockanalysis Forward PE 10.72 at live 368.5 (Oct 19, 2026, 9:30 AM IST); implied fwd EPS 34.38; rebased to NSE 16-Oct close 355.65. Page PE (TTM) 11.63; page earnings date Oct 15, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 15, 2026"
+  },
+  "MRPL": {
+   "source_url": "https://stockanalysis.com/quote/nse/MRPL/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 4.33,
+   "notes": "stockanalysis Forward PE 4.35 at live 173.62 (Oct 19, 2026, 9:30 AM IST); implied fwd EPS 39.91; rebased to NSE 16-Oct close 172.71. Page PE (TTM) 9.64; page earnings date Oct 14, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 14, 2026"
+  },
+  "PETRONET": {
+   "source_url": "https://stockanalysis.com/quote/nse/PETRONET/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 10.87,
+   "notes": "stockanalysis Forward PE 10.81 at live 291.29999 (Oct 19, 2026, 9:30 AM IST); implied fwd EPS 26.95; rebased to NSE 16-Oct close 293.0. Page PE (TTM) 10.45; page earnings date Nov 2, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Nov 2, 2026"
+  },
+  "PNB": {
+   "source_url": "https://stockanalysis.com/quote/nse/PNB/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 6.16,
+   "notes": "stockanalysis Forward PE 6.56 at live 123.95 (Oct 19, 2026, 9:30 AM IST); implied fwd EPS 18.89; rebased to NSE 16-Oct close 116.3. Page PE (TTM) 5.85; page earnings date Oct 16, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 16, 2026"
+  },
+  "REDINGTON": {
+   "source_url": "https://stockanalysis.com/quote/nse/REDINGTON/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 14.23,
+   "notes": "stockanalysis Forward PE 13.87 at live 373.75 (Oct 19, 2026, 9:30 AM IST); implied fwd EPS 26.95; rebased to NSE 16-Oct close 383.5. Page PE (TTM) 17.62; page earnings date Oct 30, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 30, 2026"
+  },
+  "SHRIPISTON": {
+   "source_url": "https://stockanalysis.com/quote/nse/SHRIPISTON/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 30.43,
+   "notes": "stockanalysis Forward PE 30.3 at live 4610.7 (Oct 19, 2026, 9:30 AM IST); implied fwd EPS 152.17; rebased to NSE 16-Oct close 4629.9. Page PE (TTM) 36.21; page earnings date Nov 2, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Nov 2, 2026"
+  },
+  "SUNTV": {
+   "source_url": "https://stockanalysis.com/quote/nse/SUNTV/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 15.27,
+   "notes": "stockanalysis Forward PE 15.31 at live 639.55 (Oct 19, 2026, 9:30 AM IST); implied fwd EPS 41.77; rebased to NSE 16-Oct close 638.0. Page PE (TTM) 16.43; page earnings date Nov 13, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Nov 13, 2026"
+  },
+  "WELCORP": {
+   "source_url": "https://stockanalysis.com/quote/nse/WELCORP/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 27.56,
+   "notes": "stockanalysis Forward PE 27.51 at live 2566.5 (Oct 19, 2026, 9:39 AM IST); implied fwd EPS 93.29; rebased to NSE 16-Oct close 2571.5. Page PE (TTM) 29.35; page earnings date Oct 23, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 23, 2026"
+  },
+  "PNBHOUSING": {
+   "source_url": "https://stockanalysis.com/quote/nse/PNBHOUSING/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 12.37,
+   "notes": "stockanalysis Forward PE 12.3 at live 1161.2 (Oct 19, 2026, 9:30 AM IST); implied fwd EPS 94.41; rebased to NSE 16-Oct close 1167.7. Page PE (TTM) 13.17; page earnings date Oct 28, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 28, 2026"
+  },
+  "SOUTHBANK": {
+   "source_url": "https://stockanalysis.com/quote/nse/SOUTHBANK/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 7.42,
+   "notes": "stockanalysis Forward PE 7.54 at live 52.25 (Oct 19, 2026, 9:30 AM IST); implied fwd EPS 6.93; rebased to NSE 16-Oct close 51.45. Page PE (TTM) 8.52; page earnings date Oct 15, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 15, 2026"
+  },
+  "JAMNAAUTO": {
+   "source_url": "https://stockanalysis.com/quote/nse/JAMNAAUTO/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 20.15,
+   "notes": "stockanalysis Forward PE 19.83 at live 138.63 (Oct 19, 2026, 9:30 AM IST); implied fwd EPS 6.99; rebased to NSE 16-Oct close 140.85. Page PE (TTM) 24.13; page earnings date Nov 6, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Nov 6, 2026"
+  },
+  "TANLA": {
+   "source_url": "https://stockanalysis.com/quote/nse/TANLA/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 13.17,
+   "notes": "stockanalysis Forward PE 12.47 at live 529.9 (Oct 19, 2026, 9:30 AM IST); implied fwd EPS 42.49; rebased to NSE 16-Oct close 559.65. Page PE (TTM) 13.92; page earnings date Oct 23, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 23, 2026"
+  },
+  "CANFINHOME": {
+   "source_url": "https://stockanalysis.com/quote/nse/CANFINHOME/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 8.22,
+   "notes": "stockanalysis Forward PE 8.18 at live 728.9 (Oct 19, 2026, 9:34 AM IST); implied fwd EPS 89.11; rebased to NSE 16-Oct close 732.15. Page PE (TTM) 8.46; page earnings date Oct 9, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 9, 2026"
+  },
+  "ELECON": {
+   "source_url": "https://stockanalysis.com/quote/nse/ELECON/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 28.66,
+   "notes": "stockanalysis Forward PE 28.07 at live 470.45 (Oct 19, 2026, 9:30 AM IST); implied fwd EPS 16.76; rebased to NSE 16-Oct close 480.35. Page PE (TTM) 44.08; page earnings date Oct 14, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 14, 2026"
+  },
+  "HCLTECH": {
+   "source_url": "https://stockanalysis.com/quote/nse/HCLTECH/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 18.31,
+   "notes": "stockanalysis Forward PE 18.31 at live 1379.9 (Oct 19, 2026, 9:30 AM IST); implied fwd EPS 75.36; rebased to NSE 16-Oct close 1380.0. Page PE (TTM) 19.99; page earnings date Oct 12, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 12, 2026"
+  },
+  "TARIL": {
+   "source_url": "https://stockanalysis.com/quote/nse/TARIL/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 28.97,
+   "notes": "stockanalysis Forward PE 28.56 at live 324.45001 (Oct 19, 2026, 9:30 AM IST); implied fwd EPS 11.36; rebased to NSE 16-Oct close 329.1. Page PE (TTM) 32.48; page earnings date Oct 13, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 13, 2026"
+  },
+  "TATAELXSI": {
+   "source_url": "https://stockanalysis.com/quote/nse/TATAELXSI/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 29.69,
+   "notes": "stockanalysis Forward PE 29.3 at live 3800.0 (Oct 19, 2026, 9:30 AM IST); implied fwd EPS 129.69; rebased to NSE 16-Oct close 3850.1. Page PE (TTM) 35.74; page earnings date Oct 13, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 13, 2026"
+  },
+  "TCS": {
+   "source_url": "https://stockanalysis.com/quote/nse/TCS/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 15.75,
+   "notes": "stockanalysis Forward PE 15.85 at live 2480.19995 (Oct 19, 2026, 9:37 AM IST); implied fwd EPS 156.48; rebased to NSE 16-Oct close 2465.0. Page PE (TTM) 17.28; page earnings date Oct 8, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 8, 2026"
+  },
+  "CRAMC": {
+   "source_url": "https://stockanalysis.com/quote/nse/CRAMC/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 17.6,
+   "notes": "stockanalysis Forward PE 17.6 at live 226.74 (At close: Oct 16, 2026); implied fwd EPS 12.88; rebased to NSE 16-Oct close 226.74. Page PE (TTM) 19.75; page earnings date Oct 9, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 9, 2026"
+  },
+  "ICICIBANK": {
+   "source_url": "https://stockanalysis.com/quote/nse/ICICIBANK/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 16.12,
+   "notes": "stockanalysis Forward PE 16.2 at live 1403.7 (Oct 19, 2026, 9:39 AM IST); implied fwd EPS 86.65; rebased to NSE 16-Oct close 1397.0. Page PE (TTM) 17.16; page earnings date Oct 17, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 17, 2026"
+  },
+  "CUB": {
+   "source_url": "https://stockanalysis.com/quote/nse/CUB/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 13.3,
+   "notes": "stockanalysis Forward PE 13.24 at live 226.36 (Oct 19, 2026, 9:30 AM IST); implied fwd EPS 17.1; rebased to NSE 16-Oct close 227.38. Page PE (TTM) 16.08; page earnings date Oct 28, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 28, 2026"
+  },
+  "AARTIIND": {
+   "source_url": "https://stockanalysis.com/quote/nse/AARTIIND/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 32.81,
+   "notes": "stockanalysis Forward PE 32.04 at live 491.20001 (Oct 19, 2026, 9:30 AM IST); implied fwd EPS 15.33; rebased to NSE 16-Oct close 503.0. Page PE (TTM) 34.37; page earnings date Nov 6, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Nov 6, 2026"
+  },
+  "AUROPHARMA": {
+   "source_url": "https://stockanalysis.com/quote/nse/AUROPHARMA/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 20.3,
+   "notes": "stockanalysis Forward PE 20.29 at live 1665.80005 (Oct 19, 2026, 9:40 AM IST); implied fwd EPS 82.1; rebased to NSE 16-Oct close 1666.9. Page PE (TTM) 26.05; page earnings date Nov 14, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Nov 14, 2026"
+  },
+  "BHEL": {
+   "source_url": "https://stockanalysis.com/quote/nse/BHEL/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 34.69,
+   "notes": "stockanalysis Forward PE 34.37 at live 430.54999 (Oct 19, 2026, 9:40 AM IST); implied fwd EPS 12.53; rebased to NSE 16-Oct close 434.6. Page PE (TTM) 52.51; page earnings date Oct 14, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 14, 2026"
+  },
+  "CYIENT": {
+   "source_url": "https://stockanalysis.com/quote/nse/CYIENT/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 18.82,
+   "notes": "stockanalysis Forward PE 18.78 at live 1191.69995 (Oct 19, 2026, 9:40 AM IST); implied fwd EPS 63.46; rebased to NSE 16-Oct close 1194.5. Page PE (TTM) 32.90; page earnings date Oct 22, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 22, 2026"
+  },
+  "SAGILITY": {
+   "source_url": "https://stockanalysis.com/quote/nse/SAGILITY/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 17.22,
+   "notes": "stockanalysis Forward PE 16.94 at live 44.57 (Oct 19, 2026, 9:40 AM IST); implied fwd EPS 2.63; rebased to NSE 16-Oct close 45.3. Page PE (TTM) 21.39; page earnings date Oct 21, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 21, 2026"
+  },
+  "BSE": {
+   "source_url": "https://stockanalysis.com/quote/nse/BSE/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 42.05,
+   "notes": "stockanalysis Forward PE 42.15 at live 3370.6 (Oct 19, 2026, 9:40 AM IST); implied fwd EPS 79.97; rebased to NSE 16-Oct close 3363.0. Page PE (TTM) 48.92; page earnings date Nov 4, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Nov 4, 2026"
+  },
+  "ECLERX": {
+   "source_url": "https://stockanalysis.com/quote/nse/ECLERX/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 22.6,
+   "notes": "stockanalysis Forward PE 22.58 at live 1955.0 (Oct 19, 2026, 9:40 AM IST); implied fwd EPS 86.58; rebased to NSE 16-Oct close 1957.0. Page PE (TTM) 25.33; page earnings date Oct 30, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 30, 2026"
+  },
+  "FINCABLES": {
+   "source_url": "https://stockanalysis.com/quote/nse/FINCABLES/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 22.68,
+   "notes": "stockanalysis Forward PE 21.45 at live 1293.5 (Oct 19, 2026, 9:40 AM IST); implied fwd EPS 60.3; rebased to NSE 16-Oct close 1367.7. Page PE (TTM) 26.14; page earnings date Nov 6, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Nov 6, 2026"
+  },
+  "FSL": {
+   "source_url": "https://stockanalysis.com/quote/nse/FSL/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 20.26,
+   "notes": "stockanalysis Forward PE 20.1 at live 279.55 (Oct 19, 2026, 9:40 AM IST); implied fwd EPS 13.91; rebased to NSE 16-Oct close 281.8. Page PE (TTM) 29.60; page earnings date Oct 29, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 29, 2026"
+  },
+  "JYOTICNC": {
+   "source_url": "https://stockanalysis.com/quote/nse/JYOTICNC/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 51.42,
+   "notes": "stockanalysis Forward PE 50.69 at live 983.0 (Oct 19, 2026, 9:40 AM IST); implied fwd EPS 19.39; rebased to NSE 16-Oct close 997.2. Page PE (TTM) 70.48; page earnings date Nov 6, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Nov 6, 2026"
+  },
+  "SHYAMMETL": {
+   "source_url": "https://stockanalysis.com/quote/nse/SHYAMMETL/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 17.55,
+   "notes": "stockanalysis Forward PE 17.85 at live 1219.2 (Oct 19, 2026, 9:40 AM IST); implied fwd EPS 68.3; rebased to NSE 16-Oct close 1198.5. Page PE (TTM) 29.92; page earnings date Nov 6, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Nov 6, 2026"
+  },
+  "TATACOMM": {
+   "source_url": "https://stockanalysis.com/quote/nse/TATACOMM/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 26.43,
+   "notes": "stockanalysis Forward PE 25.87 at live 1705.9 (Oct 19, 2026, 9:40 AM IST); implied fwd EPS 65.94; rebased to NSE 16-Oct close 1742.8. Page PE (TTM) 45.06; page earnings date Oct 15, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 15, 2026"
+  },
+  "360ONE": {
+   "source_url": "https://stockanalysis.com/quote/nse/360ONE/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 29.82,
+   "notes": "stockanalysis Forward PE 29.12 at live 1049.59998 (Oct 19, 2026, 9:40 AM IST); implied fwd EPS 36.04; rebased to NSE 16-Oct close 1075.0. Page PE (TTM) 36.32; page earnings date Oct 15, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 15, 2026"
+  },
+  "FEDERALBNK": {
+   "source_url": "https://stockanalysis.com/quote/nse/FEDERALBNK/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 14.56,
+   "notes": "stockanalysis Forward PE 14.04 at live 325.89999 (Oct 19, 2026, 9:43 AM IST); implied fwd EPS 23.21; rebased to NSE 16-Oct close 338.0. Page PE (TTM) 16.50; page earnings date Oct 16, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 16, 2026"
+  },
+  "HDFCAMC": {
+   "source_url": "https://stockanalysis.com/quote/nse/HDFCAMC/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 28.23,
+   "notes": "stockanalysis Forward PE 28.18 at live 2394.4 (Oct 19, 2026, 9:43 AM IST); implied fwd EPS 84.97; rebased to NSE 16-Oct close 2398.6. Page PE (TTM) 34.64; page earnings date Oct 15, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 15, 2026"
+  },
+  "IIFL": {
+   "source_url": "https://stockanalysis.com/quote/nse/IIFL/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 8.1,
+   "notes": "stockanalysis Forward PE 8.15 at live 619.35 (Oct 19, 2026, 9:40 AM IST); implied fwd EPS 75.99; rebased to NSE 16-Oct close 615.4. Page PE (TTM) 10.58; page earnings date Oct 15, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 15, 2026"
+  },
+  "TECHM": {
+   "source_url": "https://stockanalysis.com/quote/nse/TECHM/statistics/",
+   "as_of": "2026-10-16 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 20.51,
+   "notes": "stockanalysis Forward PE 20.52 at live 1790.80005 (Oct 19, 2026, 9:42 AM IST); implied fwd EPS 87.27; rebased to NSE 16-Oct close 1790.0. Page PE (TTM) 28.77; page earnings date Oct 15, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 15, 2026"
+  }
+ },
+ "cross_checks_extra": [
+  {
+   "field": "usdinr_close_2026-10-16",
+   "ticker": "USDINR",
+   "source_a": "Yahoo USDINR=X",
+   "source_b": "ET reported close",
+   "values": [
+    94.52,
+    94.96
+   ],
+   "gap_pct": 0.47,
+   "chosen": "reported close (ET/NIE) for level; Yahoo for returns"
+  },
+  {
+   "field": "fomc_hike_odds",
+   "ticker": "MACRO",
+   "source_a": "Yardeni 17%",
+   "source_b": "ET >40%",
+   "values": [
+    17,
+    40
+   ],
+   "gap_pct": null,
+   "chosen": "both recorded (conflict)"
+  },
+  {
+   "field": "breadth_above_50dma",
+   "ticker": "NIFTY 500",
+   "source_a": "computed 22.24%",
+   "source_b": "IndexBreadth 21.2% / Flash Finance 24.0%",
+   "values": [
+    22.24,
+    21.2,
+    24.0
+   ],
+   "gap_pct": null,
+   "chosen": "computed (within ~1-2 pp of published)"
+  },
+  {
+   "field": "breadth_above_200dma",
+   "ticker": "NIFTY 500",
+   "source_a": "computed 41.34%",
+   "source_b": "IndexBreadth 37.8% / Flash Finance 46.0%",
+   "values": [
+    41.34,
+    37.8,
+    46.0
+   ],
+   "gap_pct": null,
+   "chosen": "computed (published values bracket it; universe definitions differ)"
+  }
+ ],
+ "gaps": [
+  {
+   "item": "EV/EBITDA 5-year average (cyclicals COALINDIA, MRPL, GESHIP, WELCORP, PETRONET, JINDALSAW)",
+   "status": "N/A",
+   "reason": "no free source with a 5y EV/EBITDA history found; current EV/EBITDA only where screener shows it"
+  },
+  {
+   "item": "Results dates not yet intimated to NSE",
+   "status": "unconfirmed",
+   "tickers": [
+    "COALINDIA",
+    "GESHIP",
+    "HAL",
+    "REDINGTON",
+    "SUNTV",
+    "WELCORP",
+    "JAMNAAUTO",
+    "SUPRIYA",
+    "TANLA",
+    "AARTIIND",
+    "AUROPHARMA",
+    "ECLERX",
+    "FINCABLES",
+    "JYOTICNC",
+    "SHYAMMETL"
+   ],
+   "reason": "no board-meeting intimation on NSE as of 19-Oct; StockAnalysis/Koyfin estimates or prior-year Q2 dates recorded as hints only"
+  },
+  {
+   "item": "NSE corporate financial-results API",
+   "status": "empty response",
+   "reason": "api/corporates-financial-results returned [] for all symbols; Q2 filings detected via api/corporate-announcements instead"
+  },
+  {
+   "item": "Industry / peer pages (screener /market/)",
+   "status": "live 19-Oct prices",
+   "reason": "fetched after 09:15 IST on 19-Oct; industry median PE and peer PB/ROE medians reflect 19-Oct intraday prices, not 16-Oct close (subject PE/PB rescaled to 16-Oct close)"
+  },
+  {
+   "item": "Stale screener quarterly data",
+   "status": "stale",
+   "tickers": [
+    "GSPLTRANS",
+    "MONEYVIEW",
+    "AXIOMGAS (2024-06)",
+    "SITINET (2025-09)"
+   ],
+   "reason": "both consolidated and standalone pages lack the latest quarter; affects peer medians only (none is a candidate)"
+  },
+  {
+   "item": "Promoter pledge",
+   "status": "as of 30-Jun-2026 for many names",
+   "reason": "Sep-2026 shareholding pattern not yet filed; REDINGTON, SOUTHBANK, BSE, FEDERALBNK have no promoter group -> pledge N/A (not a fail)"
+  },
+  {
+   "item": "Forward PE second source",
+   "status": "N/A for SUPRIYA and JAYNECOIND (JAYNECOIND also has no Yahoo forward EPS)",
+   "reason": "StockAnalysis page has no forward PE for these"
+  },
+  {
+   "item": "CUB bank metrics (GNPA/NNPA/CAR)",
+   "status": "N/A",
+   "reason": "Q2FY27 not yet reported; latest-quarter figures not found on a fetchable page"
+  },
+  {
+   "item": "Nifty Midcap/Smallcap index series on Yahoo",
+   "status": "HTTP 404",
+   "reason": "sector/size RS taken from NSE ind_close_all CSVs instead"
+  },
+  {
+   "item": "NSDL fortnightly FPI data / tipsheet numbers",
+   "status": "omitted",
+   "reason": "figures seen only without a citable URL; FII/DII flows taken from news reports citing NSE provisional data"
+  },
+  {
+   "item": "Earnings-call transcripts",
+   "status": "N/A",
+   "reason": "transcript fetch returned an empty document"
+  },
+  {
+   "item": "Setup-C reaction for filings on/after 16-Oct 15:30 or on Sat 17-Oct",
+   "status": "pending",
+   "tickers": [
+    "AXISBANK",
+    "BAJAJHFL",
+    "CENTRALBK",
+    "DLF",
+    "HDFCBANK",
+    "HSCL",
+    "ICICIBANK",
+    "IDBI",
+    "INDIACEM",
+    "IXIGO",
+    "JINDALSAW",
+    "LTM",
+    "OBEROIRLTY",
+    "PNB",
+    "TEJASNET",
+    "URBANCO",
+    "YESBANK"
+   ],
+   "reason": "reaction session is 19-Oct (live, excluded)"
+  }
+ ]
+}
