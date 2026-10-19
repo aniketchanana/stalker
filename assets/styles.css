@@ -665,3 +665,164 @@ th.sort-header[aria-sort="descending"]::after {
     gap: 0.45rem;
   }
 }
+
+/* Added 19 Oct 2026: final-pick card and related blocks. */
+.banner-pick {
+  border-color: color-mix(in srgb, var(--web) 55%, var(--border));
+  background: color-mix(in srgb, var(--web) 12%, var(--bg-elev));
+}
+
+.banner-pick h2 {
+  color: var(--text);
+  text-transform: none;
+  letter-spacing: -0.01em;
+}
+
+.callout-risk {
+  margin-bottom: 1.4rem;
+  border-color: color-mix(in srgb, var(--risk-off) 50%, var(--border));
+  background: color-mix(in srgb, var(--risk-off) 8%, var(--bg-elev));
+}
+
+.callout-risk p:last-child {
+  margin-bottom: 0;
+}
+
+.regime-lines {
+  margin-bottom: 0.9rem;
+}
+
+.funnel-step.is-final {
+  border-color: color-mix(in srgb, var(--web) 60%, var(--border));
+  background: color-mix(in srgb, var(--web) 12%, var(--bg-elev-2));
+}
+
+.table-wide {
+  min-width: 48rem;
+}
+
+.pick-card {
+  min-width: 0;
+  padding: 0.95rem 1rem 1.05rem;
+  border: 1px solid color-mix(in srgb, var(--web) 50%, var(--border));
+  border-radius: 10px;
+  background: #0e151c;
+  overflow-wrap: anywhere;
+}
+
+.pick-card > h3 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.5rem;
+  margin: 0 0 0.55rem;
+  font-size: 1.2rem;
+}
+
+.pick-card .ticker {
+  font-family: var(--mono);
+  letter-spacing: 0.02em;
+}
+
+.pick-name {
+  color: var(--muted);
+  font-size: 0.95rem;
+  font-weight: 500;
+}
+
+.pick-card h4 {
+  margin: 1.05rem 0 0.35rem;
+  font-size: 0.98rem;
+}
+
+.badge-score {
+  color: #0b0f14;
+  background: var(--link);
+}
+
+.bull-bear {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
+  gap: 0.7rem;
+  margin-top: 0.9rem;
+}
+
+.case {
+  min-width: 0;
+  padding: 0.6rem 0.75rem;
+  border: 1px solid var(--border);
+  border-left-width: 4px;
+  border-radius: 8px;
+  background: var(--bg-elev);
+}
+
+.case h4 {
+  margin: 0 0 0.25rem;
+}
+
+.case p {
+  margin: 0;
+}
+
+.case-bull {
+  border-left-color: var(--risk-on);
+}
+
+.case-bear {
+  border-left-color: var(--risk-off);
+}
+
+.pick-card table {
+  overflow-wrap: normal;
+}
+
+.pick-card td.num {
+  white-space: nowrap;
+}
+
+.plan-table .plan-entry {
+  min-width: 16rem;
+}
+
+.plan-table td:last-child {
+  min-width: 12rem;
+}
+
+.plan-notes {
+  margin-top: 0.7rem;
+}
+
+.score-card-pick {
+  margin-top: 1rem;
+  border-color: var(--border);
+}
+
+.score-card-pick h4 {
+  margin-top: 0;
+}
+
+.score-basis {
+  font-size: 0.9rem;
+}
+
+.plan-box h4 {
+  margin: 0.3rem 0 0.3rem;
+}
+
+.risk-box {
+  margin-top: 0.8rem;
+  padding: 0.6rem 0.75rem;
+  border: 1px solid color-mix(in srgb, var(--neutral) 45%, var(--border));
+  border-radius: 8px;
+}
+
+.risk-box p {
+  margin: 0.3rem 0;
+}
+
+.portfolio-line {
+  margin: 0.9rem 0 0;
+  padding: 0.6rem 0.75rem;
+  border: 1px dashed var(--border);
+  border-radius: 8px;
+}
