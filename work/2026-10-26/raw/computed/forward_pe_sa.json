@@ -1,0 +1,236 @@
+{
+ "CHENNPETRO": {
+  "source_url": "https://stockanalysis.com/quote/nse/CHENNPETRO/statistics/",
+  "as_of": "2026-10-23 (rebased)",
+  "method": "scraped",
+  "http": 200,
+  "value": 2.7,
+  "notes": "stockanalysis Forward PE 2.7 at live 1475.6 (Oct 23, 2026, 3:29 PM IST); implied fwd EPS 546.52; rebased to NSE 23-Oct close 1475.6. Page PE (TTM) 3.85; page earnings date Oct 22, 2026 (estimate unless confirmed by NSE).",
+  "earnings_date_page": "Oct 22, 2026"
+ },
+ "GESHIP": {
+  "source_url": "https://stockanalysis.com/quote/nse/GESHIP/statistics/",
+  "as_of": "2026-10-23 (rebased)",
+  "method": "scraped",
+  "http": 200,
+  "value": 5.74,
+  "notes": "stockanalysis Forward PE 5.74 at live 1496.6 (Oct 23, 2026, 3:30 PM IST); implied fwd EPS 260.73; rebased to NSE 23-Oct close 1496.6. Page PE (TTM) 5.71; page earnings date Nov 4, 2026 (estimate unless confirmed by NSE).",
+  "earnings_date_page": "Nov 4, 2026"
+ },
+ "IPCALAB": {
+  "source_url": "https://stockanalysis.com/quote/nse/IPCALAB/statistics/",
+  "as_of": "2026-10-23 (rebased)",
+  "method": "scraped",
+  "http": 200,
+  "value": 31.21,
+  "notes": "stockanalysis Forward PE 31.21 at live 1953.3 (Oct 23, 2026, 3:29 PM IST); implied fwd EPS 62.59; rebased to NSE 23-Oct close 1953.3. Page PE (TTM) 37.83; page earnings date Nov 6, 2026 (estimate unless confirmed by NSE).",
+  "earnings_date_page": "Nov 6, 2026"
+ },
+ "PNB": {
+  "source_url": "https://stockanalysis.com/quote/nse/PNB/statistics/",
+  "as_of": "2026-10-23 (rebased)",
+  "method": "scraped",
+  "http": 200,
+  "value": 6.6,
+  "notes": "stockanalysis Forward PE 6.6 at live 120.37 (Oct 23, 2026, 3:28 PM IST); implied fwd EPS 18.24; rebased to NSE 23-Oct close 120.37. Page PE (TTM) 6.05; page earnings date Oct 16, 2026 (estimate unless confirmed by NSE).",
+  "earnings_date_page": "Oct 16, 2026"
+ },
+ "SUNTV": {
+  "source_url": "https://stockanalysis.com/quote/nse/SUNTV/statistics/",
+  "as_of": "2026-10-23 (rebased)",
+  "method": "scraped",
+  "http": 200,
+  "value": 13.89,
+  "notes": "stockanalysis Forward PE 13.89 at live 578.8 (Oct 23, 2026, 3:29 PM IST); implied fwd EPS 41.67; rebased to NSE 23-Oct close 578.8. Page PE (TTM) 14.90; page earnings date Oct 30, 2026 (estimate unless confirmed by NSE).",
+  "earnings_date_page": "Oct 30, 2026"
+ },
+ "CYIENT": {
+  "source_url": "https://stockanalysis.com/quote/nse/CYIENT/statistics/",
+  "as_of": "2026-10-23 (rebased)",
+  "method": "scraped",
+  "http": 200,
+  "value": 18.7,
+  "notes": "stockanalysis Forward PE 18.7 at live 1233.0 (Oct 23, 2026, 3:29 PM IST); implied fwd EPS 65.94; rebased to NSE 23-Oct close 1233.0. Page PE (TTM) 36.37; page earnings date Oct 22, 2026 (estimate unless confirmed by NSE).",
+  "earnings_date_page": "Oct 22, 2026"
+ },
+ "SHYAMMETL": {
+  "source_url": "https://stockanalysis.com/quote/nse/SHYAMMETL/statistics/",
+  "as_of": "2026-10-23 (rebased)",
+  "method": "scraped",
+  "http": 200,
+  "value": 16.85,
+  "notes": "stockanalysis Forward PE 16.85 at live 1131.3 (Oct 23, 2026, 3:29 PM IST); implied fwd EPS 67.14; rebased to NSE 23-Oct close 1131.3. Page PE (TTM) 28.24; page earnings date Oct 31, 2026 (estimate unless confirmed by NSE).",
+  "earnings_date_page": "Oct 31, 2026"
+ },
+ "ICICIBANK": {
+  "source_url": "https://stockanalysis.com/quote/nse/ICICIBANK/statistics/",
+  "as_of": "2026-10-23 (rebased)",
+  "method": "scraped",
+  "http": 200,
+  "value": 15.4,
+  "notes": "stockanalysis Forward PE 15.4 at live 1394.2 (Oct 23, 2026, 3:28 PM IST); implied fwd EPS 90.53; rebased to NSE 23-Oct close 1394.2. Page PE (TTM) 17.12; page earnings date Oct 17, 2026 (estimate unless confirmed by NSE).",
+  "earnings_date_page": "Oct 17, 2026"
+ },
+ "REDINGTON": {
+  "source_url": "https://stockanalysis.com/quote/nse/REDINGTON/statistics/",
+  "as_of": "2026-10-23 (rebased)",
+  "method": "scraped",
+  "http": 200,
+  "value": 12.99,
+  "notes": "stockanalysis Forward PE 12.99 at live 359.1 (Oct 23, 2026, 3:30 PM IST); implied fwd EPS 27.64; rebased to NSE 23-Oct close 359.1. Page PE (TTM) 16.50; page earnings date Oct 30, 2026 (estimate unless confirmed by NSE).",
+  "earnings_date_page": "Oct 30, 2026"
+ },
+ "TANLA": {
+  "source_url": "https://stockanalysis.com/quote/nse/TANLA/statistics/",
+  "as_of": "2026-10-23 (rebased)",
+  "method": "scraped",
+  "http": 200,
+  "value": 12.41,
+  "notes": "stockanalysis Forward PE 12.41 at live 557.15 (Oct 23, 2026, 3:30 PM IST); implied fwd EPS 44.9; rebased to NSE 23-Oct close 557.15. Page PE (TTM) 13.86; page earnings date Oct 27, 2026 (estimate unless confirmed by NSE).",
+  "earnings_date_page": "Oct 27, 2026"
+ },
+ "JAMNAAUTO": {
+  "source_url": "https://stockanalysis.com/quote/nse/JAMNAAUTO/statistics/",
+  "as_of": "2026-10-23 (rebased)",
+  "method": "scraped",
+  "http": 200,
+  "value": 17.3,
+  "notes": "stockanalysis Forward PE 17.3 at live 123.16 (Oct 23, 2026, 3:29 PM IST); implied fwd EPS 7.12; rebased to NSE 23-Oct close 123.16. Page PE (TTM) 21.09; page earnings date Nov 6, 2026 (estimate unless confirmed by NSE).",
+  "earnings_date_page": "Nov 6, 2026"
+ },
+ "SOUTHBANK": {
+  "source_url": "https://stockanalysis.com/quote/nse/SOUTHBANK/statistics/",
+  "as_of": "2026-10-23 (rebased)",
+  "method": "scraped",
+  "http": 200,
+  "value": 7.34,
+  "notes": "stockanalysis Forward PE 7.34 at live 52.57 (Oct 23, 2026, 3:30 PM IST); implied fwd EPS 7.16; rebased to NSE 23-Oct close 52.57. Page PE (TTM) 8.70; page earnings date Oct 15, 2026 (estimate unless confirmed by NSE).",
+  "earnings_date_page": "Oct 15, 2026"
+ },
+ "FEDERALBNK": {
+  "source_url": "https://stockanalysis.com/quote/nse/FEDERALBNK/statistics/",
+  "as_of": "2026-10-23 (rebased)",
+  "method": "scraped",
+  "http": 200,
+  "value": 14.05,
+  "notes": "stockanalysis Forward PE 14.05 at live 340.9 (Oct 23, 2026, 3:28 PM IST); implied fwd EPS 24.26; rebased to NSE 23-Oct close 340.9. Page PE (TTM) 16.64; page earnings date Oct 16, 2026 (estimate unless confirmed by NSE).",
+  "earnings_date_page": "Oct 16, 2026"
+ },
+ "HCLTECH": {
+  "source_url": "https://stockanalysis.com/quote/nse/HCLTECH/statistics/",
+  "as_of": "2026-10-23 (rebased)",
+  "method": "scraped",
+  "http": 200,
+  "value": 18.87,
+  "notes": "stockanalysis Forward PE 18.87 at live 1422.2 (Oct 23, 2026, 3:28 PM IST); implied fwd EPS 75.37; rebased to NSE 23-Oct close 1422.2. Page PE (TTM) 20.60; page earnings date Oct 12, 2026 (estimate unless confirmed by NSE).",
+  "earnings_date_page": "Oct 12, 2026"
+ },
+ "IGIL": {
+  "source_url": "https://stockanalysis.com/quote/nse/IGIL/statistics/",
+  "as_of": "2026-10-23 (rebased)",
+  "method": "scraped",
+  "http": 200,
+  "value": 28.11,
+  "notes": "stockanalysis Forward PE 28.11 at live 381.15 (Oct 23, 2026, 3:29 PM IST); implied fwd EPS 13.56; rebased to NSE 23-Oct close 381.15. Page PE (TTM) 34.84; page earnings date Oct 21, 2026 (estimate unless confirmed by NSE).",
+  "earnings_date_page": "Oct 21, 2026"
+ },
+ "INDHOTEL": {
+  "source_url": "https://stockanalysis.com/quote/nse/INDHOTEL/statistics/",
+  "as_of": "2026-10-23 (rebased)",
+  "method": "scraped",
+  "http": 200,
+  "value": 44.12,
+  "notes": "stockanalysis Forward PE 44.12 at live 781.75 (Oct 23, 2026, 3:28 PM IST); implied fwd EPS 17.72; rebased to NSE 23-Oct close 781.75. Page PE (TTM) 50.32; page earnings date Oct 21, 2026 (estimate unless confirmed by NSE).",
+  "earnings_date_page": "Oct 21, 2026"
+ },
+ "IXIGO": {
+  "source_url": "https://stockanalysis.com/quote/nse/IXIGO/statistics/",
+  "as_of": "2026-10-23 (rebased)",
+  "method": "scraped",
+  "http": 200,
+  "value": 42.84,
+  "notes": "stockanalysis Forward PE 42.84 at live 146.58 (Last updated: Oct 23, 2026, 3:29 PM IST); implied fwd EPS 3.42; rebased to NSE 23-Oct close 146.58. Page PE (TTM) 43.59; page earnings date Oct 17, 2026 (estimate unless confirmed by NSE).",
+  "earnings_date_page": "Oct 17, 2026"
+ },
+ "LTTS": {
+  "source_url": "https://stockanalysis.com/quote/nse/LTTS/statistics/",
+  "as_of": "2026-10-23 (rebased)",
+  "method": "scraped",
+  "http": 200,
+  "value": 25.29,
+  "notes": "stockanalysis Forward PE 25.29 at live 3910.3 (Oct 23, 2026, 3:29 PM IST); implied fwd EPS 154.62; rebased to NSE 23-Oct close 3910.3. Page PE (TTM) 26.96; page earnings date Oct 19, 2026 (estimate unless confirmed by NSE).",
+  "earnings_date_page": "Oct 19, 2026"
+ },
+ "SHREECEM": {
+  "source_url": "https://stockanalysis.com/quote/nse/SHREECEM/statistics/",
+  "as_of": "2026-10-23 (rebased)",
+  "method": "scraped",
+  "http": 200,
+  "value": 40.08,
+  "notes": "stockanalysis Forward PE 40.08 at live 22735.0 (Oct 23, 2026, 3:28 PM IST); implied fwd EPS 567.24; rebased to NSE 23-Oct close 22735.0. Page PE (TTM) 51.81; page earnings date Oct 23, 2026 (estimate unless confirmed by NSE).",
+  "earnings_date_page": "Oct 23, 2026"
+ },
+ "STLTECH": {
+  "source_url": "https://stockanalysis.com/quote/nse/STLTECH/statistics/",
+  "as_of": "2026-10-23 (rebased)",
+  "method": "scraped",
+  "http": 200,
+  "value": 28.93,
+  "notes": "stockanalysis Forward PE 28.93 at live 826.65 (Oct 23, 2026, 3:30 PM IST); implied fwd EPS 28.57; rebased to NSE 23-Oct close 826.65. Page PE (TTM) 58.15; page earnings date Oct 23, 2026 (estimate unless confirmed by NSE).",
+  "earnings_date_page": "Oct 23, 2026"
+ },
+ "TATAELXSI": {
+  "source_url": "https://stockanalysis.com/quote/nse/TATAELXSI/statistics/",
+  "as_of": "2026-10-23 (rebased)",
+  "method": "scraped",
+  "http": 200,
+  "value": 28.14,
+  "notes": "stockanalysis Forward PE 28.14 at live 3700.0 (Oct 23, 2026, 3:28 PM IST); implied fwd EPS 131.49; rebased to NSE 23-Oct close 3700.0. Page PE (TTM) 34.39; page earnings date Oct 13, 2026 (estimate unless confirmed by NSE).",
+  "earnings_date_page": "Oct 13, 2026"
+ },
+ "TCS": {
+  "source_url": "https://stockanalysis.com/quote/nse/TCS/statistics/",
+  "as_of": "2026-10-23 (rebased)",
+  "method": "scraped",
+  "http": 200,
+  "value": 16.36,
+  "notes": "stockanalysis Forward PE 16.27 at live 2516.0 (Oct 26, 2026, 9:30 AM IST); implied fwd EPS 154.64; rebased to NSE 23-Oct close 2530.0. Page PE (TTM) 17.64; page earnings date Oct 8, 2026 (estimate unless confirmed by NSE).",
+  "earnings_date_page": "Oct 8, 2026"
+ },
+ "TECHM": {
+  "source_url": "https://stockanalysis.com/quote/nse/TECHM/statistics/",
+  "as_of": "2026-10-23 (rebased)",
+  "method": "scraped",
+  "http": 200,
+  "value": 20.62,
+  "notes": "stockanalysis Forward PE 20.5 at live 1779.3 (Oct 26, 2026, 9:30 AM IST); implied fwd EPS 86.8; rebased to NSE 23-Oct close 1790.0. Page PE (TTM) 28.60; page earnings date Oct 15, 2026 (estimate unless confirmed by NSE).",
+  "earnings_date_page": "Oct 15, 2026"
+ },
+ "TTML": {
+  "source_url": "https://stockanalysis.com/quote/nse/TTML/statistics/",
+  "as_of": "2026-10-23 (rebased)",
+  "method": "scraped",
+  "http": 200,
+  "value": "N/A",
+  "notes": "Forward PE not shown/invalid (n/a); page PE 196.08; earnings date Oct 22, 2026",
+  "earnings_date_page": "Oct 22, 2026"
+ },
+ "UNIONBANK": {
+  "source_url": "https://stockanalysis.com/quote/nse/UNIONBANK/statistics/",
+  "as_of": "2026-10-23 (rebased)",
+  "method": "scraped",
+  "http": 200,
+  "value": 6.52,
+  "notes": "stockanalysis Forward PE 6.51 at live 178.52 (Oct 26, 2026, 9:30 AM IST); implied fwd EPS 27.42; rebased to NSE 23-Oct close 178.9. Page PE (TTM) 6.20; page earnings date Oct 19, 2026 (estimate unless confirmed by NSE).",
+  "earnings_date_page": "Oct 19, 2026"
+ },
+ "WESTLIFE": {
+  "source_url": "https://stockanalysis.com/quote/nse/WESTLIFE/statistics/",
+  "as_of": "2026-10-23 (rebased)",
+  "method": "scraped",
+  "http": 200,
+  "value": 161.04,
+  "notes": "stockanalysis Forward PE 160.61 at live 566.4 (Oct 26, 2026, 9:30 AM IST); implied fwd EPS 3.53; rebased to NSE 23-Oct close 567.9. Page PE (TTM) 4,764.07; page earnings date Oct 23, 2026 (estimate unless confirmed by NSE).",
+  "earnings_date_page": "Oct 23, 2026"
+ }
+}
