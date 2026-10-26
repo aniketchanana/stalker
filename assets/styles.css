@@ -826,3 +826,25 @@ th.sort-header[aria-sort="descending"]::after {
   border: 1px dashed var(--border);
   border-radius: 8px;
 }
+
+/* Added 26 Oct 2026: open-position card (carried trade, not a new pick). */
+.position-card {
+  border-color: color-mix(in srgb, var(--muted) 45%, var(--border));
+}
+
+.position-card > p {
+  margin-top: 0.2rem;
+}
+
+.position-card .table-wrap + .table-wrap {
+  margin-top: 0.7rem;
+}
+
+/* details inherits overflow-wrap: anywhere, which splits numbers inside narrow cells. */
+details table {
+  overflow-wrap: normal;
+}
+
+details td.num {
+  white-space: nowrap;
+}
