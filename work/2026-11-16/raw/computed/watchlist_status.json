@@ -1,0 +1,100 @@
+{
+ "PNB": {
+  "condition_2026-10-26": "consensus forward EPS > TTM EPS 19.89 (fwd PE < trailing) AND pullback entry <= 117.65 holding 113.95",
+  "close_2026-11-13": 142.81,
+  "yahoo_forwardEps": 18.51918,
+  "yahoo_trailingEps": 19.85,
+  "consensus_eps_fy_current_0y": 18.12488,
+  "consensus_eps_fy_current_n": 18,
+  "consensus_eps_next_fy_+1y": 18.52262,
+  "consensus_eps_next_fy_n": 16,
+  "forward_eps_gt_19.89": false,
+  "sessions_since_26oct_with_low_le_117.65": [],
+  "sessions_since_26oct_with_close_lt_113.95": [],
+  "min_low_since_26oct": [
+   118.2,
+   "2026-10-26"
+  ],
+  "max_high_since_26oct": [
+   145.14,
+   "2026-11-13"
+  ],
+  "ema20": 127.13,
+  "dma50": 119.4,
+  "dma200": 114.34,
+  "rsi14": 81.52,
+  "pct_above_ema20": 12.34,
+  "source_url": [
+   "https://query1.finance.yahoo.com/v8/finance/chart/PNB.NS?interval=1d&range=1y",
+   "https://query1.finance.yahoo.com/v10/finance/quoteSummary/PNB.NS"
+  ],
+  "as_of": "2026-11-13",
+  "method": "computed"
+ },
+ "HCLTECH": {
+  "condition_2026-10-26": "50 DMA > 200 DMA or rising 200 DMA; RSI < 75; not > 8-10% above EMA20",
+  "close_2026-11-13": 1378.0,
+  "dma50": 1315.95,
+  "dma200": 1313.64,
+  "dma50_gt_dma200": true,
+  "dma200_change_20_sessions": -24.72,
+  "dma200_rising_20s": false,
+  "rsi14": 51.15,
+  "ema20": 1386.44,
+  "pct_above_ema20": -0.61,
+  "ret_1m_21s_pct": 3.92,
+  "ret_3m_63s_pct": 0.92,
+  "tech_rule": "A",
+  "last_5_closes": [
+   [
+    "2026-11-06",
+    1440.0
+   ],
+   [
+    "2026-11-09",
+    1407.0
+   ],
+   [
+    "2026-11-11",
+    1395.0
+   ],
+   [
+    "2026-11-12",
+    1380.8
+   ],
+   [
+    "2026-11-13",
+    1378.0
+   ]
+  ],
+  "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/HCLTECH.NS?interval=1d&range=1y",
+  "as_of": "2026-11-13",
+  "method": "computed"
+ },
+ "TANLA": {
+  "condition_2026-10-26": "Setup C after 27-Oct Q2 results; needs 3M RS > Nifty 500",
+  "close_2026-11-13": 732.9,
+  "results_filing_ts_ist": "2026-10-27 17:29:48",
+  "reaction_session": "2026-10-28",
+  "prior_close": 579.15,
+  "post_result_move_pct": 1.18,
+  "post_result_move_basis": "reaction-session open vs prior close (results filed after market)",
+  "held_close": true,
+  "sessions_since_reaction_incl": 12,
+  "min_close_since": 598.7,
+  "return_since_prior_close_pct": 26.55,
+  "ret_3m_yahoo_63s_pct": 23.3,
+  "nifty500_ret_3m_nse_pct": 0.322,
+  "rs_3m_vs_nifty500_pp": 22.98,
+  "dma50": 551.05,
+  "dma200": 521.54,
+  "rsi14": 82.98,
+  "tech_rule": null,
+  "source_url": [
+   "https://query1.finance.yahoo.com/v8/finance/chart/TANLA.NS?interval=1d&range=1y",
+   "https://www.nseindia.com/api/corporate-announcements?index=equities&symbol=TANLA"
+  ],
+  "as_of": "2026-11-13",
+  "method": "computed"
+ }
+}

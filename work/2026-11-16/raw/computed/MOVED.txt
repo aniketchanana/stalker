@@ -1,0 +1,9 @@
+Moved to /tmp/run1116/computed/ (bulky; copy back before re-running assemble_outputs.py):
+industry_medians.json
+nse_bhav_summary.json
+peer_pb_roe.json
+quotesummary.json
+screener_fundamentals.json
+setupc_price_action.json
+tech.json
+trackb_tech.json

@@ -1,0 +1,1093 @@
+{
+ "flows": {
+  "daily_fii_dii_net_cr": {
+   "value": {
+    "2026-10-26": {
+     "fii": -1462.49,
+     "dii": 2609.57
+    },
+    "2026-10-27": {
+     "fii": 4240.39,
+     "dii": -1250.03
+    },
+    "2026-10-28": {
+     "fii": 871.83,
+     "dii": 643.35
+    },
+    "2026-10-29": {
+     "fii": -943.6,
+     "dii": 1924.41
+    },
+    "2026-10-30": {
+     "fii": 3598.54,
+     "dii": -817.51
+    },
+    "2026-11-02": {
+     "fii": 3114.68,
+     "dii": -392.2
+    },
+    "2026-11-03": {
+     "fii": 6836.81,
+     "dii": -3678.85
+    },
+    "2026-11-04": {
+     "fii": 7284.03,
+     "dii": -3712.23
+    },
+    "2026-11-05": {
+     "fii": 14974.68,
+     "dii": -10444.54
+    },
+    "2026-11-06": {
+     "fii": 13749.82,
+     "dii": -5968.7
+    },
+    "2026-11-08": {
+     "fii": -0.25,
+     "dii": -700.31
+    },
+    "2026-11-09": {
+     "fii": 7212.22,
+     "dii": -7172.53
+    },
+    "2026-11-11": {
+     "fii": 12563.33,
+     "dii": -8434.53
+    },
+    "2026-11-12": {
+     "fii": 7830.6,
+     "dii": -6331.17
+    },
+    "2026-11-13": {
+     "fii": 5736.55,
+     "dii": -2253.58
+    }
+   },
+   "source_url": "https://alloqo.com/fii-dii",
+   "as_of": "2026-11-13",
+   "method": "scraped",
+   "notes": "NSE provisional (Alloqo table; identical to ET cash-provisional table https://economictimes.indiatimes.com/markets/fii-dii-activity/cash-provisional). 13-Nov cross-checked vs NSE api/fiidiiTradeReact."
+  },
+  "week_26_30_oct": {
+   "value": {
+    "fii_net_cr": 6304.67,
+    "dii_net_cr": 3109.79,
+    "sessions": 5
+   },
+   "source_url": "https://alloqo.com/fii-dii",
+   "as_of": "2026-10-30",
+   "method": "computed",
+   "notes": "sum of NSE daily provisional; fiianddiidata 6-Nov report quotes prior week FII +6,305 / DII +3,110 Cr (matches)"
+  },
+  "week_02_06_nov": {
+   "value": {
+    "fii_net_cr": 45960.02,
+    "dii_net_cr": -24196.52,
+    "sessions": 5
+   },
+   "source_url": "https://fiianddiidata.com/fii-dii-weekly-report-06-november-2026/",
+   "as_of": "2026-11-06",
+   "method": "computed",
+   "notes": "sum of NSE daily provisional; matches fiianddiidata/ET/Business Standard weekly FII +45,960 / DII -24,197 Cr. CNBC-TV18 quotes +48,263.07 Cr with different daily values (see cross_checks). Excludes Sun 8-Nov Muhurat (FII -0.25 / DII -700.31)."
+  },
+  "week_09_13_nov": {
+   "value": {
+    "fii_net_cr": 33342.7,
+    "dii_net_cr": -24191.81,
+    "sessions": 4
+   },
+   "source_url": "https://fiianddiidata.com/fii-dii-weekly-report-13-november-2026/",
+   "as_of": "2026-11-13",
+   "method": "computed",
+   "notes": "sum of NSE daily provisional (10-Nov holiday); matches fiianddiidata weekly FII +33,342.70 / DII -24,191.81 Cr"
+  },
+  "november_mtd_to_13nov": {
+   "value": {
+    "fii_net_cr": 79302.47,
+    "dii_net_cr": -49088.64
+   },
+   "source_url": "https://www.thehindubusinessline.com/markets/nifty-may-open-75-points-higher-experts-flag-consolidation-amid-global-weakness/article71706610.ece",
+   "as_of": "2026-11-13",
+   "method": "computed",
+   "notes": "sum of daily provisional incl. Muhurat; BusinessLine quotes FPI Rs 79,301 Cr for Nov to 13th (matches)"
+  },
+  "fpi_usd_november": {
+   "value": "over $8 bn into Indian stocks in November so far (Reuters 13-Nov); BS column: $6.43 bn up to 12-Nov (NSDL basis)",
+   "source_url": "https://www.reuters.com/5f374b32b07b/world/india/rupees-faltering-rally-faces-returning-oil-pressure-surging-us-yields-2026-11-13/",
+   "as_of": "2026-11-13",
+   "method": "websearch",
+   "notes": ""
+  },
+  "fpi_october_net_cr": {
+   "value": {
+    "Moneycontrol": -34843,
+    "ET": -45162
+   },
+   "source_url": "https://www.moneycontrol.com/news/business/markets/three-forces-behind-november-s-market-turnaround-ai-correction-rs-54-000-crore-fii-comeback-and-earnings-resilience-14077031.html",
+   "as_of": "2026-10-31",
+   "method": "websearch",
+   "notes": "bases differ (NSDL vs exchange); ET: https://economictimes.indiatimes.com/markets/stocks/news/fiis-pump-rs-45960-crore-into-indian-stocks-in-a-week-is-the-tide-finally-turning-for-dalal-street/articleshow/135631663.cms"
+  },
+  "fii_index_futures_net_short_contracts": {
+   "value": {
+    "~2026-10-23": "~280,000 (BS column)",
+    "2026-11-04": 185979,
+    "2026-11-06": 100416
+   },
+   "source_url": "https://fiianddiidata.com/fii-dii-weekly-report-06-november-2026/",
+   "as_of": "2026-11-06",
+   "method": "websearch",
+   "notes": "NSE participant OI via Quantsapp; BS: https://www.business-standard.com/opinion/columns/short-covering-and-foreign-inflows-are-fuelling-indian-stock-market-rebound-126111500739_1.html"
+  }
+ },
+ "corporate_actions_web": {
+  "GESHIP": [
+   {
+    "action": "Interim dividend Rs 14.40 (paid on/after 1-Dec)",
+    "announced": "2026-11-06",
+    "record_date": "2026-11-13",
+    "source_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e4690ad5-c8e2-4628-861b-895e6958a90c.pdf"
+   }
+  ],
+  "PETRONET": [
+   {
+    "action": "Interim dividend Rs 7",
+    "announced": "2026-11-02",
+    "record_date": "2026-11-06",
+    "source_url": "https://www.petronetlng.in/w/press-release-q2-2026-27-financial-results"
+   }
+  ],
+  "SUNTV": [
+   {
+    "action": "Interim dividend Rs 3.75",
+    "announced": "2026-10-30",
+    "record_date": "N/A (see NSE corporate actions)",
+    "source_url": "https://nsearchives.nseindia.in/corporate/SUNTV1_30102026165037_SunTVOutcome30102026final.pdf"
+   }
+  ]
+ },
+ "market_extra": {
+  "rally_since_23oct": {
+   "value": "Nifty 50 22,600 (23-Oct) -> 25,144.30 (13-Nov), +11.3% in three weeks; 30-Oct->6-Nov +8.58% (best week since Feb 2021). Drivers per BS column: govt hint on reconsidering LTCG for FPIs; unwinding of crowded AI trade in Taiwan/Korea/US; Brent down ~1/5 from ~$113-117 (30-Oct); FPI index-futures short covering (net short ~280k contracts near 23-Oct -> ~100k by 6-Nov); Q2 earnings (27/50 Nifty cos beat)",
+   "source_url": "https://www.business-standard.com/opinion/columns/short-covering-and-foreign-inflows-are-fuelling-indian-stock-market-rebound-126111500739_1.html",
+   "as_of": "2026-11-15",
+   "method": "websearch",
+   "notes": "Reuters 6-Nov: https://www.reuters.com/5f374b32b07b/world/india/indian-stocks-set-pullback-after-sharp-rally-oil-slide-foreign-inflows-2026-11-06/"
+  },
+  "week_9_13_nov_summary": {
+   "value": "Nifty +0.46% w/w to 25,144.30 (Fri -155.05 / -0.61%); Sensex 81,592.45 (+0.7% w/w); Bank Nifty +3.7% w/w; Midcap 100 +2%, Smallcap 100 +2.6%; nine-month high above 25,400 intraweek; PSU Bank index +7.5% w/w; Nifty IT -3.2% w/w (Nvidia/AI turmoil)",
+   "source_url": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-november-16-20-nifty-logs-3-week-winning-streak-first-since-june-rally-ahead-or-a-pause-11794738601982.html",
+   "as_of": "2026-11-14",
+   "method": "websearch",
+   "notes": "sector detail: https://www.thefinancialeconomy.com/nifty-outlook-next-week/ ; BS: https://www.business-standard.com/markets/news/indian-markets-extend-gains-for-3rd-straight-week-despite-nvidia-crisis-126111301616_1.html"
+  },
+  "usdinr_reported_close_2026-11-13": {
+   "value": {
+    "Business Standard": 94.25,
+    "BusinessLine": 94.24,
+    "Reuters": 94.24
+   },
+   "source_url": "https://www.business-standard.com/economy/news/rupee-weakens-to-94-25-10-year-bond-yield-rises-as-crude-prices-surge-126111301340_1.html",
+   "as_of": "2026-11-13",
+   "method": "websearch",
+   "notes": "prev close 94.04; 6-Nov close 93.91 = strongest since 22-Apr (fiianddiidata); Yahoo USDINR=X 13-Nov bar differs (bar timing)"
+  },
+  "india_10y_gsec": {
+   "value": "7.31% (+6 bp d/d) on 13-Nov; 10y auction cut-off 7.3203%; 5y 6.98%; +84 bp over a year",
+   "source_url": "https://www.business-standard.com/economy/news/rupee-weakens-to-94-25-10-year-bond-yield-rises-as-crude-prices-surge-126111301340_1.html",
+   "as_of": "2026-11-13",
+   "method": "websearch",
+   "notes": "SquawkNews 7.3079%; BL: https://www.thehindubusinessline.com/money-and-banking/g-sec-yields-harden-as-oct-inflation-breaches-6-mark-us-yields-rise/article71698427.ece ; week to 6-Nov fell 23 bp to 7.19%"
+  },
+  "brent_context": {
+   "value": "Brent ~$95.87 on 13-Nov after attacks on Saudi Aramco infrastructure and Hormuz shipping disruption (from ~$92.31 on 12-Nov); peak ~$117.64 on 30-Oct",
+   "source_url": "https://www.business-standard.com/economy/news/rupee-weakens-to-94-25-10-year-bond-yield-rises-as-crude-prices-surge-126111301340_1.html",
+   "as_of": "2026-11-13",
+   "method": "websearch",
+   "notes": "30-Oct high per fiianddiidata/BS: https://fiianddiidata.com/fii-dii-weekly-report-06-november-2026/"
+  },
+  "dollar_index": {
+   "value": "~103.19 (near 19-month high)",
+   "source_url": "https://www.business-standard.com/economy/news/rupee-weakens-to-94-25-10-year-bond-yield-rises-as-crude-prices-surge-126111301340_1.html",
+   "as_of": "2026-11-13",
+   "method": "websearch",
+   "notes": ""
+  },
+  "india_cpi_oct": {
+   "value": "6.09% YoY (breached RBI 6% upper tolerance)",
+   "source_url": "https://www.thehindubusinessline.com/money-and-banking/g-sec-yields-harden-as-oct-inflation-breaches-6-mark-us-yields-rise/article71698427.ece",
+   "as_of": "2026-11-12",
+   "method": "websearch",
+   "notes": "markets expect a 25 bp repo hike to 5.75% on 4-Dec (BL); ET: https://economictimes.indiatimes.com/news/economy/indicators/et-poll-india-growth-seen-at-7-7-in-q2-on-track-for-7-3-in-fy2/articleshow/135864178.cms"
+  },
+  "nifty_levels_view": {
+   "value": "support 24,800-24,700, resistance 25,400 (HDFC Securities); support 24,750 (Master Capital)",
+   "source_url": "https://www.cnbctv18.com/market/nifty-outlook-monday-november-16-index-may-see-near-term-consolidation-after-fridays-fall-key-levels-to-watch-20034415.htm",
+   "as_of": "2026-11-15",
+   "method": "websearch",
+   "notes": "third-party opinion, not a computed level"
+  },
+  "gift_nifty_pre_open_2026-11-16": {
+   "value": "25,255 (~+75 pts indication)",
+   "source_url": "https://www.thehindubusinessline.com/markets/nifty-may-open-75-points-higher-experts-flag-consolidation-amid-global-weakness/article71706610.ece",
+   "as_of": "2026-11-16 pre-open",
+   "method": "websearch",
+   "notes": "indication only (not session data)"
+  },
+  "brokerage_views": {
+   "value": "Citi end-2027 Nifty target 28,000; HSBC upgraded India to overweight",
+   "source_url": "https://regalticker.com/nvidia-softbank-ai-reset-india-it-stocks-impact",
+   "as_of": "2026-11-09",
+   "method": "websearch",
+   "notes": "third-party aggregation; not independently verified"
+  }
+ },
+ "breadth_cross_checks": [
+  {
+   "value": {
+    "above_50dma_pct": 56.0,
+    "above_200dma_pct": 46.0,
+    "adv_dec": "157/341",
+    "nifty50_above_50dma_pct": 82.0
+   },
+   "source_url": "https://indexbreadth.com/learn/market-breadth-eod-13-november-2026/",
+   "as_of": "2026-11-13",
+   "method": "scraped",
+   "notes": "Nifty 500 universe; 12-Nov was 60.0% / 49.2%"
+  },
+  {
+   "value": {
+    "above_50dma_pct": 59.2,
+    "above_200dma_pct": 55.3,
+    "above_20dma_pct": 80.8,
+    "adv_dec": "170/329"
+   },
+   "source_url": "https://flashfinance.news/market-breadth/",
+   "as_of": "2026-11-13",
+   "method": "websearch",
+   "notes": "Top-500-by-mcap proxy universe (definition differs from Nifty 500)"
+  },
+  {
+   "value": {
+    "above_50dma_pct": 50.0,
+    "ten_pct_12_sessions_earlier": true
+   },
+   "source_url": "https://www.businesstoday.in/markets/stocks/story/stock-market-nifty-500-stocks-above-50-day-smas-rise-to-50-from-10-in-12-sessions-566812-2026-11-11",
+   "as_of": "2026-11-11",
+   "method": "websearch",
+   "notes": "ICICI Securities via BusinessToday; intraday 11-Nov article (likely 9-Nov close basis)"
+  }
+ ],
+ "macro": {
+  "rbi_policy_last": {
+   "value": "7 Oct 2026: repo +25 bp to 5.50%",
+   "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63742",
+   "as_of": "2026-10-07",
+   "method": "websearch",
+   "notes": "BL 13-Nov: market expects +25 bp to 5.75% in December after Oct CPI 6.09%"
+  },
+  "rbi_next_mpc": {
+   "value": "2-4 Dec 2026 (decision Fri 4-Dec) - INSIDE the 15-session window (day 14)",
+   "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62422",
+   "as_of": "2026-03-23",
+   "method": "scraped",
+   "notes": ""
+  },
+  "india_gdp_q2fy27": {
+   "value": "Mon 30-Nov-2026 (MoSPI); ET poll median 7.7% (range 6.7-8.0%); Q1 FY27 7.8%",
+   "source_url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1793948871564-ARC%202026-27%20updated%20till%20October%202026.pdf",
+   "as_of": "2026-10",
+   "method": "websearch",
+   "notes": "ET: https://economictimes.indiatimes.com/news/economy/indicators/et-poll-india-growth-seen-at-7-7-in-q2-on-track-for-7-3-in-fy2/articleshow/135864178.cms"
+  },
+  "india_release_calendar": {
+   "value": {
+    "WPI (Oct)": "2026-11-16",
+    "IIP (Oct)": "2026-11-28",
+    "Q2 GDP": "2026-11-30",
+    "CPI (Nov)": "2026-12-12"
+   },
+   "source_url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1793948871564-ARC%202026-27%20updated%20till%20October%202026.pdf",
+   "as_of": "2026-10",
+   "method": "websearch",
+   "notes": "WPI date per thefinancialeconomy week-ahead (https://www.thefinancialeconomy.com/nifty-outlook-next-week/); IIP 28-Nov is a Saturday (MoSPI dates)"
+  },
+  "fo_expiries": {
+   "value": {
+    "Nifty weekly": [
+     "2026-11-17",
+     "2026-12-01",
+     "2026-12-08"
+    ],
+    "NSE November monthly (Nifty/BankNifty/FinNifty/MidcapNifty/NiftyNxt50/stock F&O)": "2026-11-23 (Mon; moved from Tue 24-Nov holiday)",
+    "BSE Sensex weekly": [
+     "2026-11-19",
+     "2026-12-03"
+    ],
+    "BSE monthly": "2026-11-26",
+    "NSE December monthly": "2026-12-29"
+   },
+   "source_url": "https://www.quantsapp.com/expiry-calendar",
+   "as_of": "2026-11-15",
+   "method": "websearch",
+   "notes": "cross-check: https://www.laabh.com/market/fo-expiry-calendar/ ; https://www.potoosresearch.in/news/nifty-monthly-expiry-november-2026/"
+  },
+  "us_events": {
+   "value": {
+    "Nvidia Q3 results": "2026-11-17 (US)",
+    "US retail sales (Oct)": "2026-11-17",
+    "FOMC minutes (27-28 Oct meeting)": "2026-11-18 14:00 ET",
+    "US GDP Q3 2nd est + PCE (Oct)": "2026-11-25 08:30 ET",
+    "US Thanksgiving (market holiday)": "2026-11-26",
+    "US JOLTS (Oct)": "2026-12-01",
+    "US payrolls (Nov)": "2026-12-04 08:30 ET",
+    "FOMC decision": "2026-12-09 14:00 ET (outside window)",
+    "US CPI (Nov)": "2026-12-10 (outside window)"
+   },
+   "source_url": "https://www.bls.gov/schedule/2026/11_sched.htm",
+   "as_of": "2026-11-09",
+   "method": "websearch",
+   "notes": "BEA: https://www.bea.gov/news/schedule ; Fed: https://www.federalreserve.gov/newsevents/2026-november.htm ; Nvidia date per https://www.thefinancialeconomy.com/nifty-outlook-next-week/"
+  },
+  "nse_holidays_in_window": {
+   "value": "Tue 24-Nov-2026 Prakash Gurpurb Sri Guru Nanak Dev; next: Fri 25-Dec Christmas",
+   "source_url": "https://nsearchives.nseindia.com/content/circulars/FAOP71777.pdf",
+   "as_of": "2025-12",
+   "method": "scraped",
+   "notes": ""
+  },
+  "ipo_events": {
+   "value": "Mahanadi Coalfields (Coal India subsidiary) Rs 9,500 Cr offer opens Thu 19-Nov",
+   "source_url": "https://www.thefinancialeconomy.com/nifty-outlook-next-week/",
+   "as_of": "2026-11-15",
+   "method": "websearch",
+   "notes": "single source; not verified on NSE"
+  },
+  "geopolitics_oil": {
+   "value": "Iran conflict: de-escalation hopes after US midterms faded late week; fresh attacks on Saudi Aramco infrastructure and Hormuz shipping disruption lifted Brent to ~$95.9",
+   "source_url": "https://www.business-standard.com/economy/news/rupee-weakens-to-94-25-10-year-bond-yield-rises-as-crude-prices-surge-126111301340_1.html",
+   "as_of": "2026-11-13",
+   "method": "websearch",
+   "notes": ""
+  }
+ },
+ "screen_notes": "Industry PE = median of positive P/E on the screener industry page(s) for the sub-sector; company P/E/mcap/PB taken from screener pages showing the 13-Nov close (pages fetched after 09:15 IST on 16-Nov show a live price and were rescaled to the 13-Nov NSE close by adjust_fundamentals.py). Pledge from NSE SHP XBRL (latest filed quarter). Names with no promoter group: pledge N/A (not a fail).",
+ "calendar_items": [
+  {
+   "date": "2026-11-16",
+   "symbol": "MACRO",
+   "event": "India WPI (Oct)",
+   "source": "https://www.thefinancialeconomy.com/nifty-outlook-next-week/",
+   "method": "websearch"
+  },
+  {
+   "date": "2026-11-17",
+   "symbol": "MACRO",
+   "event": "Nifty weekly expiry; Nvidia results (US, after close -> India reacts 18-Nov); US retail sales",
+   "source": "https://www.quantsapp.com/expiry-calendar",
+   "method": "websearch"
+  },
+  {
+   "date": "2026-11-19",
+   "symbol": "MACRO",
+   "event": "FOMC minutes (18-Nov 14:00 ET) - first Indian session to react; Sensex weekly expiry",
+   "source": "https://www.federalreserve.gov/newsevents/2026-november.htm",
+   "method": "websearch"
+  },
+  {
+   "date": "2026-11-23",
+   "symbol": "MACRO",
+   "event": "NSE November monthly F&O expiry (moved from 24-Nov holiday)",
+   "source": "https://www.quantsapp.com/expiry-calendar",
+   "method": "websearch"
+  },
+  {
+   "date": "2026-11-24",
+   "symbol": "MACRO",
+   "event": "NSE holiday (Prakash Gurpurb Sri Guru Nanak Dev) - not a session",
+   "source": "https://nsearchives.nseindia.com/content/circulars/FAOP71777.pdf",
+   "method": "scraped"
+  },
+  {
+   "date": "2026-11-26",
+   "symbol": "MACRO",
+   "event": "US GDP Q3 2nd est + Oct PCE (25-Nov 08:30 ET) - first Indian session to react; US Thanksgiving",
+   "source": "https://www.bea.gov/news/schedule",
+   "method": "websearch"
+  },
+  {
+   "date": "2026-11-30",
+   "symbol": "MACRO",
+   "event": "India Q2 FY27 GDP (MoSPI, evening release; IIP 28-Nov)",
+   "source": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1793948871564-ARC%202026-27%20updated%20till%20October%202026.pdf",
+   "method": "websearch"
+  },
+  {
+   "date": "2026-12-01",
+   "symbol": "MACRO",
+   "event": "Nifty weekly expiry",
+   "source": "https://www.quantsapp.com/expiry-calendar",
+   "method": "websearch"
+  },
+  {
+   "date": "2026-12-04",
+   "symbol": "MACRO",
+   "event": "RBI MPC decision (2-4 Dec); US Nov payrolls 08:30 ET (India reacts 7-Dec)",
+   "source": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62422",
+   "method": "scraped"
+  }
+ ],
+ "results_dates": {},
+ "bank_metrics": {
+  "SOUTHBANK": {
+   "value": {
+    "gnpa_pct": {
+     "Q2FY27": 1.24
+    },
+    "nnpa_pct": {
+     "Q2FY27": 0.09
+    },
+    "car_pct": {
+     "Q2FY27": 19.4
+    },
+    "tier1_pct": {
+     "Q2FY27": 18.71
+    }
+   },
+   "source_url": "https://nsearchives.nseindia.com/corporate/SOUTHBANK_15102026143755_SD_STT_PRESSRELEASE_15OCT2026.pdf",
+   "as_of": "2026-09-30",
+   "method": "websearch",
+   "notes": "GNPA/NNPA/PCR incl. w/o 97.84%/NIM 3.33% from the NSE press release; CRAR 19.40% and Tier I 18.71% from ICICI Direct Q2FY27 note (https://mailcontent.icicidirect.com/mailcontent/idirect_sib_q2fy27.pdf). MarketsMojo's CAR 15.95% conflicts and is not used."
+  },
+  "PNB": {
+   "value": {
+    "gnpa_pct": {
+     "Q2FY27": 2.55
+    },
+    "nnpa_pct": {
+     "Q2FY27": 0.25
+    },
+    "car_pct": {
+     "Q2FY26": 17.19,
+     "Q2FY27": 17.95
+    }
+   },
+   "source_url": "https://nsearchives.nseindia.in/corporate/pnb2_16102026163153_Intimation_Press_Release_16102026_DS_.pdf",
+   "as_of": "2026-09-30",
+   "method": "websearch",
+   "notes": "CRAR/PCR 97.32%/RoA 1.05% from the press release; GNPA (-90 bp YoY) and NNPA from Economic Times 19-Oct; NIM 2.58% (NDTV Profit)."
+  },
+  "KARURVYSYA": {
+   "value": {
+    "gnpa_pct": {
+     "Q2FY27": 0.69
+    },
+    "nnpa_pct": {
+     "Q2FY27": 0.18
+    },
+    "car_pct": {
+     "Q2FY26": 16.58,
+     "Q2FY27": 17.97
+    }
+   },
+   "source_url": "https://equibles.com/stocks/xnse/karurvysya/calls/2027-q2/slides",
+   "as_of": "2026-09-30",
+   "method": "websearch",
+   "notes": "Investor presentation copy; PCR 96.13%; slippage 0.44%; credit cost 0.43%."
+  },
+  "UNIONBANK": {
+   "value": {
+    "gnpa_pct": {
+     "Q2FY27": 2.42
+    },
+    "nnpa_pct": {
+     "Q2FY27": 0.42
+    },
+    "car_pct": {
+     "Q2FY27": 17.94
+    }
+   },
+   "source_url": "https://nsearchives.nseindia.com/corporate/UNIONBANK_19102026122926_Presentation_Sept2026.pdf",
+   "as_of": "2026-09-30",
+   "method": "websearch",
+   "notes": "GNPA -87 bp YoY, NNPA -13 bp YoY; CET-1 16.05%; PCR 95.20%; NIM 2.86%."
+  },
+  "CUB": {
+   "value": {
+    "gnpa_pct": {
+     "Q2FY27": 1.44
+    },
+    "nnpa_pct": {
+     "Q2FY27": 0.48
+    },
+    "car_pct": {
+     "Q2FY27": 21.26
+    }
+   },
+   "source_url": "https://nsearchives.nseindia.com/corporate/CUB_28102026165006_InvestorPresentationQ2FY2027.pdf",
+   "as_of": "2026-09-30",
+   "method": "websearch",
+   "notes": "Tier-1 20.43%; PCR 82% with TW / 67% without."
+  },
+  "INDIANB": {
+   "value": {
+    "gnpa_pct": {
+     "Q2FY27": 1.61
+    },
+    "nnpa_pct": {
+     "Q2FY27": 0.14
+    },
+    "car_pct": {
+     "Q1FY27": 17.58,
+     "Q2FY27": 16.21
+    }
+   },
+   "source_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/15e6fff7-d521-4cf8-901c-4ce5e5b0db7c.pdf",
+   "as_of": "2026-09-30",
+   "method": "websearch",
+   "notes": "Standalone CRAR; RoA 1.31%."
+  },
+  "MAHABANK": {
+   "value": {
+    "gnpa_pct": {
+     "Q2FY27": 1.25
+    },
+    "nnpa_pct": {
+     "Q2FY27": 0.12
+    },
+    "car_pct": {
+     "Q2FY27": 18.51
+    }
+   },
+   "source_url": "https://nsearchives.nseindia.com/corporate/MAHABANK_26102026153445_LettertoSE_Press_release_26102026.pdf",
+   "as_of": "2026-09-30",
+   "method": "websearch",
+   "notes": "CET1 15.61%; PCR 98.53%; RoA 2.02%."
+  },
+  "ICICIBANK": {
+   "value": {
+    "gnpa_pct": {
+     "Q2FY27": 1.2
+    },
+    "nnpa_pct": {
+     "Q2FY27": 0.3
+    },
+    "car_pct": {
+     "Q2FY27": 16.68
+    }
+   },
+   "source_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/b831cebf-9ddc-48a6-861f-1879e07a86fc.pdf",
+   "as_of": "2026-09-30",
+   "method": "websearch",
+   "notes": "CET-1 16.01%; PCR 75.0%."
+  },
+  "IIFL": {
+   "value": {
+    "gnpa_pct": {
+     "Q2FY27": 1.5
+    },
+    "nnpa_pct": {
+     "Q2FY27": 0.9
+    },
+    "car_pct": {
+     "Q2FY27": 23.5
+    }
+   },
+   "source_url": "https://nbfciiflprodstg.blob.core.windows.net/iifl-finance-storage/files/media/pdf/Press%20Release%20Q2FY27%20Final%20%281%29.pdf",
+   "as_of": "2026-09-30",
+   "method": "websearch",
+   "notes": "NBFC (gold-loan heavy); NNPA up 5 bp QoQ per press release."
+  },
+  "LICHSGFIN": {
+   "value": {
+    "stage3_pct": {
+     "Q2FY26": 2.51,
+     "Q2FY27": 2.05
+    },
+    "nnpa_pct": "N/A",
+    "car_pct": "N/A"
+   },
+   "source_url": "https://cdn.lichousing.com/2026/10/Press_Release_Q2_FY2027.pdf",
+   "as_of": "2026-09-30",
+   "method": "websearch",
+   "notes": "HFC reports Stage 3 EAD; PCR on Stage 3 49%. NNPA and CRAR not stated in the press release."
+  },
+  "AIIL": {
+   "value": {
+    "gnpa_pct": "N/A",
+    "nnpa_pct": "N/A",
+    "car_pct": "N/A"
+   },
+   "source_url": "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_NBFC_INDAS_209131_03112026211434_iXBRL_WEB.html",
+   "as_of": "2026-09-30",
+   "method": "websearch",
+   "notes": "Investment NBFC; asset-quality ratios not disclosed in the filing summary found."
+  }
+ },
+ "cyclicals": {
+  "ADANIPOWER": {
+   "context": "Thermal power: Q2 PAT Rs 7,019 Cr incl. one-time prior-period revenue Rs 2,422 Cr; 25-yr 1,234 MW Uttarakhand PSA signed 4-Nov; ICRA upgrade to AA/Stable (10-Nov).",
+   "ev_ebitda_5y_avg": "N/A",
+   "ev_note": "5-year average EV/EBITDA not found in an accessible source (gap)."
+  },
+  "MRPL": {
+   "context": "Refiner: Q2 implied GRM USD 14.8/bbl (PL Capital; company no longer publishes quarterly GRM); fire at Phase-3 coker hydrotreater, restoration targeted mid-Dec (call transcript).",
+   "ev_ebitda_5y_avg": "N/A",
+   "ev_note": "5-year average EV/EBITDA not found in an accessible source (gap)."
+  },
+  "GESHIP": {
+   "context": "Shipping: Q2 consolidated PAT Rs 1,269 Cr incl. Rs 307.9 Cr profit on ship sales; NAV Rs 2,224/share; net cash Rs 8,475 Cr.",
+   "ev_ebitda_5y_avg": "N/A",
+   "ev_note": "5-year average EV/EBITDA not found in an accessible source (gap)."
+  },
+  "PETRONET": {
+   "context": "LNG regas: Qatar force majeure (Hormuz) - ~6 of 75-80 cargoes received Mar-Oct; Rs 660 Cr efficiency/trading gains in Q2 EBITDA.",
+   "ev_ebitda_5y_avg": "N/A",
+   "ev_note": "5-year average EV/EBITDA not found in an accessible source (gap)."
+  },
+  "GAIL": {
+   "context": "Gas transmission/marketing; Setup-C name (results 30-Oct).",
+   "ev_ebitda_5y_avg": "N/A",
+   "ev_note": "5-year average EV/EBITDA not found in an accessible source (gap)."
+  },
+  "SHYAMMETL": {
+   "context": "Steel/ferro alloys; near-miss PE within 5%.",
+   "ev_ebitda_5y_avg": "N/A",
+   "ev_note": "5-year average EV/EBITDA not found in an accessible source (gap)."
+  },
+  "NUVOCO": {
+   "context": "Cement; near-miss PE within 5%.",
+   "ev_ebitda_5y_avg": "N/A",
+   "ev_note": "5-year average EV/EBITDA not found in an accessible source (gap)."
+  }
+ },
+ "forward_pe_second_source": {
+  "ADANIPOWER": {
+   "source_url": "https://stockanalysis.com/quote/nse/ADANIPOWER/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 29.01,
+   "notes": "stockanalysis Forward PE 29.01 at live 205.67 (Nov 13, 2026, 3:28 PM IST); implied fwd EPS 7.09; rebased to NSE 13-Nov close 205.67. Page PE (TTM) 21.75; page earnings date Oct 23, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 23, 2026"
+  },
+  "APOLLOHOSP": {
+   "source_url": "https://stockanalysis.com/quote/nse/APOLLOHOSP/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 41.47,
+   "notes": "stockanalysis Forward PE 41.47 at live 8526.0 (Nov 13, 2026, 3:28 PM IST); implied fwd EPS 205.59; rebased to NSE 13-Nov close 8526.0. Page PE (TTM) 54.61; page earnings date Nov 4, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Nov 4, 2026"
+  },
+  "ASAHIINDIA": {
+   "source_url": "https://stockanalysis.com/quote/nse/ASAHIINDIA/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 40.53,
+   "notes": "stockanalysis Forward PE 40.67 at live 1114.0 (Nov 13, 2026, 3:29 PM IST); implied fwd EPS 27.39; rebased to NSE 13-Nov close 1110.25. Page PE (TTM) 50.66; page earnings date Jan 27, 2027 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Jan 27, 2027"
+  },
+  "BHEL": {
+   "source_url": "https://stockanalysis.com/quote/nse/BHEL/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 34.52,
+   "notes": "stockanalysis Forward PE 34.52 at live 436.3 (Nov 13, 2026, 3:28 PM IST); implied fwd EPS 12.64; rebased to NSE 13-Nov close 436.3. Page PE (TTM) 52.60; page earnings date Jan 13, 2027 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Jan 13, 2027"
+  },
+  "DRREDDY": {
+   "source_url": "https://stockanalysis.com/quote/nse/DRREDDY/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 26.46,
+   "notes": "stockanalysis Forward PE 26.46 at live 1380.0 (Nov 13, 2026, 3:28 PM IST); implied fwd EPS 52.15; rebased to NSE 13-Nov close 1380.0. Page PE (TTM) 41.10; page earnings date Oct 23, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 23, 2026"
+  },
+  "EMCURE": {
+   "source_url": "https://stockanalysis.com/quote/nse/EMCURE/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 32.13,
+   "notes": "stockanalysis Forward PE 31.94 at live 2348.0 (Nov 13, 2026, 3:29 PM IST); implied fwd EPS 73.51; rebased to NSE 13-Nov close 2361.7. Page PE (TTM) 40.74; page earnings date Nov 3, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Nov 3, 2026"
+  },
+  "ENGINERSIN": {
+   "source_url": "https://stockanalysis.com/quote/nse/ENGINERSIN/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 23.64,
+   "notes": "stockanalysis Forward PE 23.69 at live 313.1 (Nov 13, 2026, 3:29 PM IST); implied fwd EPS 13.22; rebased to NSE 13-Nov close 312.45. Page PE (TTM) 19.62; page earnings date Oct 30, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 30, 2026"
+  },
+  "GAIL": {
+   "source_url": "https://stockanalysis.com/quote/nse/GAIL/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 9.47,
+   "notes": "stockanalysis Forward PE 9.47 at live 188.0 (Nov 13, 2026, 3:28 PM IST); implied fwd EPS 19.85; rebased to NSE 13-Nov close 188.0. Page PE (TTM) 9.79; page earnings date Oct 30, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 30, 2026"
+  },
+  "GESHIP": {
+   "source_url": "https://stockanalysis.com/quote/nse/GESHIP/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 5.44,
+   "notes": "stockanalysis Forward PE 5.41 at live 1510.5 (Nov 13, 2026, 3:29 PM IST); implied fwd EPS 279.21; rebased to NSE 13-Nov close 1518.0. Page PE (TTM) 4.87; page earnings date Nov 6, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Nov 6, 2026"
+  },
+  "GLENMARK": {
+   "source_url": "https://stockanalysis.com/quote/nse/GLENMARK/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 30.85,
+   "notes": "stockanalysis Forward PE 30.85 at live 2640.0 (Nov 13, 2026, 3:28 PM IST); implied fwd EPS 85.58; rebased to NSE 13-Nov close 2640.0. Page PE (TTM) 51.35; page earnings date Nov 5, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Nov 5, 2026"
+  },
+  "HCLTECH": {
+   "source_url": "https://stockanalysis.com/quote/nse/HCLTECH/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 18.28,
+   "notes": "stockanalysis Forward PE 18.28 at live 1378.0 (Nov 13, 2026, 3:28 PM IST); implied fwd EPS 75.38; rebased to NSE 13-Nov close 1378.0. Page PE (TTM) 19.96; page earnings date Jan 11, 2027 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Jan 11, 2027"
+  },
+  "IIFL": {
+   "source_url": "https://stockanalysis.com/quote/nse/IIFL/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 8.75,
+   "notes": "stockanalysis Forward PE 8.75 at live 641.1 (Nov 13, 2026, 3:30 PM IST); implied fwd EPS 73.27; rebased to NSE 13-Nov close 641.1. Page PE (TTM) 11.02; page earnings date Oct 15, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 15, 2026"
+  },
+  "KARURVYSYA": {
+   "source_url": "https://stockanalysis.com/quote/nse/KARURVYSYA/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 11.56,
+   "notes": "stockanalysis Forward PE 11.56 at live 381.55 (Nov 13, 2026, 3:28 PM IST); implied fwd EPS 33.01; rebased to NSE 13-Nov close 381.55. Page PE (TTM) 12.47; page earnings date Jan 11, 2027 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Jan 11, 2027"
+  },
+  "LICHSGFIN": {
+   "source_url": "https://stockanalysis.com/quote/nse/LICHSGFIN/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 5.36,
+   "notes": "stockanalysis Forward PE 5.36 at live 585.1 (Nov 13, 2026, 3:28 PM IST); implied fwd EPS 109.16; rebased to NSE 13-Nov close 585.1. Page PE (TTM) 5.46; page earnings date Jan 29, 2027 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Jan 29, 2027"
+  },
+  "LODHA": {
+   "source_url": "https://stockanalysis.com/quote/nse/LODHA/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 25.84,
+   "notes": "stockanalysis Forward PE 25.84 at live 1220.0 (Nov 13, 2026, 3:28 PM IST); implied fwd EPS 47.21; rebased to NSE 13-Nov close 1220.0. Page PE (TTM) 41.88; page earnings date Oct 30, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 30, 2026"
+  },
+  "MINDACORP": {
+   "source_url": "https://stockanalysis.com/quote/nse/MINDACORP/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 35.15,
+   "notes": "stockanalysis Forward PE 35.14 at live 736.0 (Nov 13, 2026, 3:30 PM IST); implied fwd EPS 20.94; rebased to NSE 13-Nov close 736.15. Page PE (TTM) 31.45; page earnings date Nov 3, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Nov 3, 2026"
+  },
+  "MRPL": {
+   "source_url": "https://stockanalysis.com/quote/nse/MRPL/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 4.46,
+   "notes": "stockanalysis Forward PE 4.47 at live 178.9 (Nov 13, 2026, 3:30 PM IST); implied fwd EPS 40.02; rebased to NSE 13-Nov close 178.68. Page PE (TTM) 7.11; page earnings date Jan 13, 2027 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Jan 13, 2027"
+  },
+  "NUVOCO": {
+   "source_url": "https://stockanalysis.com/quote/nse/NUVOCO/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 20.99,
+   "notes": "stockanalysis Forward PE 21.03 at live 342.0 (Nov 13, 2026, 3:29 PM IST); implied fwd EPS 16.26; rebased to NSE 13-Nov close 341.4. Page PE (TTM) 29.48; page earnings date Oct 22, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 22, 2026"
+  },
+  "OBEROIRLTY": {
+   "source_url": "https://stockanalysis.com/quote/nse/OBEROIRLTY/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 17.13,
+   "notes": "stockanalysis Forward PE 17.13 at live 1797.6 (Nov 13, 2026, 3:28 PM IST); implied fwd EPS 104.94; rebased to NSE 13-Nov close 1797.6. Page PE (TTM) 24.85; page earnings date Oct 16, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 16, 2026"
+  },
+  "PETRONET": {
+   "source_url": "https://stockanalysis.com/quote/nse/PETRONET/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 10.92,
+   "notes": "stockanalysis Forward PE 10.92 at live 324.05 (Nov 13, 2026, 3:28 PM IST); implied fwd EPS 29.67; rebased to NSE 13-Nov close 324.05. Page PE (TTM) 10.49; page earnings date Nov 2, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Nov 2, 2026"
+  },
+  "PNB": {
+   "source_url": "https://stockanalysis.com/quote/nse/PNB/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 7.82,
+   "notes": "stockanalysis Forward PE 7.82 at live 142.81 (Nov 13, 2026, 3:28 PM IST); implied fwd EPS 18.26; rebased to NSE 13-Nov close 142.81. Page PE (TTM) 7.18; page earnings date Jan 15, 2027 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Jan 15, 2027"
+  },
+  "PNGJL": {
+   "source_url": "https://stockanalysis.com/quote/nse/PNGJL/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 16.27,
+   "notes": "stockanalysis Forward PE 16.27 at live 623.34998 (Nov 13, 2026, 3:29 PM IST); implied fwd EPS 38.31; rebased to NSE 13-Nov close 623.25. Page PE (TTM) 17.58; page earnings date Oct 29, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 29, 2026"
+  },
+  "SHYAMMETL": {
+   "source_url": "https://stockanalysis.com/quote/nse/SHYAMMETL/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 17.47,
+   "notes": "stockanalysis Forward PE 17.46 at live 1314.9 (Nov 13, 2026, 3:29 PM IST); implied fwd EPS 75.31; rebased to NSE 13-Nov close 1315.9. Page PE (TTM) 26.87; page earnings date Oct 31, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 31, 2026"
+  },
+  "SOUTHBANK": {
+   "source_url": "https://stockanalysis.com/quote/nse/SOUTHBANK/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 8.64,
+   "notes": "stockanalysis Forward PE 8.64 at live 61.84 (Nov 13, 2026, 3:30 PM IST); implied fwd EPS 7.16; rebased to NSE 13-Nov close 61.86. Page PE (TTM) 10.24; page earnings date Oct 15, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 15, 2026"
+  },
+  "STARHEALTH": {
+   "source_url": "https://stockanalysis.com/quote/nse/STARHEALTH/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 21.34,
+   "notes": "stockanalysis Forward PE 21.16 at live 568.0 (Nov 13, 2026, 3:29 PM IST); implied fwd EPS 26.84; rebased to NSE 13-Nov close 572.9. Page PE (TTM) 39.18; page earnings date Oct 27, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 27, 2026"
+  },
+  "SUNPHARMA": {
+   "source_url": "https://stockanalysis.com/quote/nse/SUNPHARMA/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 32.33,
+   "notes": "stockanalysis Forward PE 32.33 at live 1880.0 (Nov 13, 2026, 3:28 PM IST); implied fwd EPS 58.15; rebased to NSE 13-Nov close 1880.0. Page PE (TTM) 41.13; page earnings date Oct 30, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 30, 2026"
+  },
+  "SUNTV": {
+   "source_url": "https://stockanalysis.com/quote/nse/SUNTV/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 15.01,
+   "notes": "stockanalysis Forward PE 15.03 at live 647.4 (Nov 13, 2026, 3:30 PM IST); implied fwd EPS 43.07; rebased to NSE 13-Nov close 646.7. Page PE (TTM) 16.58; page earnings date Oct 30, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 30, 2026"
+  },
+  "TANLA": {
+   "source_url": "https://stockanalysis.com/quote/nse/TANLA/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 16.07,
+   "notes": "stockanalysis Forward PE 16.05 at live 731.9 (Nov 13, 2026, 3:30 PM IST); implied fwd EPS 45.6; rebased to NSE 13-Nov close 732.9. Page PE (TTM) 17.46; page earnings date Oct 27, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 27, 2026"
+  },
+  "TATACOMM": {
+   "source_url": "https://stockanalysis.com/quote/nse/TATACOMM/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 26.81,
+   "notes": "stockanalysis Forward PE 26.44 at live 1748.3 (Nov 13, 2026, 3:29 PM IST); implied fwd EPS 66.12; rebased to NSE 13-Nov close 1772.9. Page PE (TTM) 45.21; page earnings date Jan 19, 2027 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Jan 19, 2027"
+  },
+  "UNIONBANK": {
+   "source_url": "https://stockanalysis.com/quote/nse/UNIONBANK/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 7.19,
+   "notes": "stockanalysis Forward PE 7.19 at live 203.0 (Nov 13, 2026, 3:28 PM IST); implied fwd EPS 28.23; rebased to NSE 13-Nov close 203.0. Page PE (TTM) 7.05; page earnings date Oct 19, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Oct 19, 2026"
+  },
+  "ZYDUSLIFE": {
+   "source_url": "https://stockanalysis.com/quote/nse/ZYDUSLIFE/statistics/",
+   "as_of": "2026-11-13 (rebased)",
+   "method": "scraped",
+   "http": 200,
+   "value": 26.71,
+   "notes": "stockanalysis Forward PE 26.71 at live 1189.9 (Nov 13, 2026, 3:28 PM IST); implied fwd EPS 44.55; rebased to NSE 13-Nov close 1189.9. Page PE (TTM) 28.45; page earnings date Nov 4, 2026 (estimate unless confirmed by NSE).",
+   "earnings_date_page": "Nov 4, 2026"
+  }
+ },
+ "cross_checks_extra": [
+  {
+   "field": "fii_week_02_06_nov",
+   "ticker": "MACRO",
+   "source_a": "sum NSE daily provisional (Alloqo/ET) +45,960.02",
+   "source_b": "CNBC-TV18 +48,263.07 (different daily values)",
+   "values": [
+    45960.02,
+    48263.07
+   ],
+   "gap_pct": 5.01,
+   "chosen": "NSE provisional sum (also matched by fiianddiidata, ET, Business Standard)"
+  },
+  {
+   "field": "fii_nov_mtd",
+   "ticker": "MACRO",
+   "source_a": "sum NSE daily provisional",
+   "source_b": "BusinessLine Rs 79,301 Cr",
+   "values": [
+    79302.47,
+    79301
+   ],
+   "gap_pct": 0.002,
+   "chosen": "NSE provisional sum"
+  },
+  {
+   "field": "usdinr_close_2026-11-13",
+   "ticker": "USDINR",
+   "source_a": "Business Standard 94.25",
+   "source_b": "Reuters/BusinessLine 94.24",
+   "values": [
+    94.25,
+    94.24
+   ],
+   "gap_pct": 0.01,
+   "chosen": "reported close for level; Yahoo for returns"
+  },
+  {
+   "field": "brent_2026-11-13",
+   "ticker": "BZ=F",
+   "source_a": "Yahoo BZ=F close",
+   "source_b": "Business Standard ~95.87",
+   "values": [
+    null,
+    95.87
+   ],
+   "gap_pct": null,
+   "chosen": "Yahoo for returns; see market.brent_usd"
+  },
+  {
+   "item": "SOUTHBANK CAR",
+   "a": {
+    "value": 19.4,
+    "source": "ICICI Direct Q2FY27 note"
+   },
+   "b": {
+    "value": 15.95,
+    "source": "MarketsMojo"
+   },
+   "flag": "conflict >3%; bank figure used"
+  },
+  {
+   "item": "ZYDUSLIFE results filing time",
+   "a": {
+    "value": "2026-11-04 12:19:04",
+    "source": "NSE corporate announcements"
+   },
+   "b": {
+    "value": "2026-11-04 19:34",
+    "source": "Strota (as cited in the run's news check)"
+   },
+   "flag": "NSE timestamp used (reaction = same day)"
+  },
+  {
+   "item": "GLENMARK Q2 revenue YoY",
+   "a": {
+    "value": -29.8,
+    "source": "company/PTI (reported)"
+   },
+   "b": {
+    "value": 78.7,
+    "source": "Motilal Oswal (different base)"
+   },
+   "flag": "conflict; reported figure used"
+  }
+ ],
+ "gaps": [
+  {
+   "item": "EV/EBITDA 5-year average (cyclicals)",
+   "status": "N/A",
+   "reason": "no free source with a 5y EV/EBITDA history found; current Yahoo enterpriseToEbitda only"
+  },
+  {
+   "item": "NSE corporate financial-results API",
+   "status": "empty response",
+   "reason": "api/corporates-financial-results returned [] again; Q2 filings detected via api/corporate-announcements and the board-meeting API"
+  },
+  {
+   "item": "Nifty Midcap/Smallcap index series on Yahoo (^CNXMIDCAP, ^CNXSMALLCAP)",
+   "status": "HTTP 404",
+   "reason": "sector/size RS taken from NSE ind_close_all CSVs instead"
+  },
+  {
+   "item": "Bulk deals 30-Oct..13-Nov",
+   "status": "partial",
+   "reason": "NSE api/historicalOR/bulk-block-short-deals returns max 70 rows per day (alphabetical, A-D only) for bulk deals; full bulk.csv only for 13-Nov. Block deals complete (10 sessions)."
+  },
+  {
+   "item": "NSE 10-Nov bhavcopy URL",
+   "status": "ignored",
+   "reason": "10-Nov was a holiday; the URL returns a byte-identical copy of the 9-Nov file"
+  },
+  {
+   "item": "Sun 8-Nov Muhurat session",
+   "status": "not counted",
+   "reason": "NSE published a Muhurat bhavcopy (sec_bhavdata_full_08112026.csv) but Yahoo has no 8-Nov bar; excluded from all session counts/indicators, shown separately for SOUTHBANK"
+  },
+  {
+   "item": "Setup-C reaction pending",
+   "status": "pending",
+   "reason": "38 names filed results after the 13-Nov close (13-Nov after 15:30 or 14/15-Nov), so their reaction session is 16-Nov (live, excluded): incl. ABB, EICHERMOT, TMPV, ASHOKLEY, KAYNES, PATANJALI, INOXWIND, GODREJIND, JUBLPHARMA, FIRSTCRY. Another 11 eligible-size names with held positive moves have <3 sessions (reaction 12/13-Nov)."
+  },
+  {
+   "item": "Setup-C filing timestamp not found",
+   "status": "assumed",
+   "reason": "GRSE, TARC, TATASTEEL, TITAGARH, PARKHOSPS, BAGMANE: no timestamped results filing in the NSE announcements pull; reaction session taken as the next session after the last board-meeting date (treated as after-market). BAGMANE has no Yahoo bars."
+  },
+  {
+   "item": "Muhurat session (Sun 8-Nov)",
+   "status": "not counted",
+   "reason": "Results filed Sat 7-Nov (e.g. FINCABLES, TATASTEEL) first traded in the 1-hour Muhurat session; per run rules it is not a session, so the reaction is Mon 9-Nov open vs Fri 6-Nov close and includes the Muhurat move (FINCABLES +20% upper circuit on 8-Nov)."
+  },
+  {
+   "item": "Peer pages without NSE close",
+   "status": "not rescaled",
+   "reason": "115 BSE-only peer pages (numeric codes) have no NSE bhavcopy close; their PE/PB enter peer medians as shown on the page."
+  },
+  {
+   "item": "Peer PB/ROE medians scope",
+   "status": "partial",
+   "reason": "Peer pages fetched only for main/near-miss/financials/watchlist/Track-B-financial subjects (138 pages). Setup-C and non-financial Track B subjects use whatever peers were already fetched; n is recorded per subject."
+  },
+  {
+   "item": "Bank CAR/NNPA",
+   "status": "N/A",
+   "reason": "LICHSGFIN (HFC: Stage 3 only) and AIIL (investment NBFC) do not state NNPA/CAR in the sources found."
+  }
+ ]
+}

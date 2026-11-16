@@ -1,0 +1,1312 @@
+{
+ "as_of": "2026-11-13",
+ "source": "https://nsearchives.nseindia.com/content/indices/ind_close_all_<DDMMYYYY>.csv",
+ "dates": {
+  "t": "2026-11-13",
+  "t5": "2026-11-06",
+  "t21": "2026-10-13",
+  "t63": "2026-08-13"
+ },
+ "nifty500": {
+  "close_2026-11-13": 23734.2,
+  "index_date": "13-11-2026",
+  "pe": "22.19",
+  "pb": "3.32",
+  "ret_1w_5s_pct": 1.182,
+  "base_1w_5s": {
+   "date": "2026-11-06",
+   "close": 23456.95
+  },
+  "ret_1m_21s_pct": 7.443,
+  "base_1m_21s": {
+   "date": "2026-10-13",
+   "close": 22090.0
+  },
+  "ret_3m_63s_pct": 0.322,
+  "base_3m_63s": {
+   "date": "2026-08-13",
+   "close": 23658.1
+  },
+  "rs_1w_5s_vs_nifty500_pp": 0.0,
+  "rs_1m_21s_vs_nifty500_pp": 0.0,
+  "rs_3m_63s_vs_nifty500_pp": 0.0
+ },
+ "sectors": {
+  "Nifty Auto": {
+   "close_2026-11-13": 27929.85,
+   "index_date": "13-11-2026",
+   "pe": "30.99",
+   "pb": "4.36",
+   "ret_1w_5s_pct": 0.424,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 27811.8
+   },
+   "ret_1m_21s_pct": 9.995,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 25391.85
+   },
+   "ret_3m_63s_pct": -4.975,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 29392.15
+   },
+   "rs_1w_5s_vs_nifty500_pp": -0.758,
+   "rs_1m_21s_vs_nifty500_pp": 2.552,
+   "rs_3m_63s_vs_nifty500_pp": -5.297
+  },
+  "Nifty Bank": {
+   "close_2026-11-13": 61034.1,
+   "index_date": "13-11-2026",
+   "pe": "13.49",
+   "pb": "1.84",
+   "ret_1w_5s_pct": 3.297,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 59086.0
+   },
+   "ret_1m_21s_pct": 10.009,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 55481.05
+   },
+   "ret_3m_63s_pct": 5.897,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 57635.25
+   },
+   "rs_1w_5s_vs_nifty500_pp": 2.115,
+   "rs_1m_21s_vs_nifty500_pp": 2.566,
+   "rs_3m_63s_vs_nifty500_pp": 5.575
+  },
+  "Nifty Financial Services": {
+   "close_2026-11-13": 27855.5,
+   "index_date": "13-11-2026",
+   "pe": "16.39",
+   "pb": "2.57",
+   "ret_1w_5s_pct": 2.095,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 27283.95
+   },
+   "ret_1m_21s_pct": 10.413,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 25228.55
+   },
+   "ret_3m_63s_pct": 5.802,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 26327.95
+   },
+   "rs_1w_5s_vs_nifty500_pp": 0.913,
+   "rs_1m_21s_vs_nifty500_pp": 2.97,
+   "rs_3m_63s_vs_nifty500_pp": 5.48
+  },
+  "Nifty FMCG": {
+   "close_2026-11-13": 46833.55,
+   "index_date": "13-11-2026",
+   "pe": "32.85",
+   "pb": "7.78",
+   "ret_1w_5s_pct": 0.102,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 46785.6
+   },
+   "ret_1m_21s_pct": 4.7,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 44731.15
+   },
+   "ret_3m_63s_pct": -4.103,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 48837.3
+   },
+   "rs_1w_5s_vs_nifty500_pp": -1.08,
+   "rs_1m_21s_vs_nifty500_pp": -2.743,
+   "rs_3m_63s_vs_nifty500_pp": -4.425
+  },
+  "Nifty IT": {
+   "close_2026-11-13": 31931.15,
+   "index_date": "13-11-2026",
+   "pe": "19.41",
+   "pb": "5.55",
+   "ret_1w_5s_pct": -3.174,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 32977.9
+   },
+   "ret_1m_21s_pct": 7.043,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 29830.1
+   },
+   "ret_3m_63s_pct": 1.517,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 31453.9
+   },
+   "rs_1w_5s_vs_nifty500_pp": -4.356,
+   "rs_1m_21s_vs_nifty500_pp": -0.4,
+   "rs_3m_63s_vs_nifty500_pp": 1.195
+  },
+  "Nifty Media": {
+   "close_2026-11-13": 1757.7,
+   "index_date": "13-11-2026",
+   "pe": "40.99",
+   "pb": "1.91",
+   "ret_1w_5s_pct": 5.22,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 1670.5
+   },
+   "ret_1m_21s_pct": 7.722,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 1631.7
+   },
+   "ret_3m_63s_pct": 11.604,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 1574.95
+   },
+   "rs_1w_5s_vs_nifty500_pp": 4.038,
+   "rs_1m_21s_vs_nifty500_pp": 0.279,
+   "rs_3m_63s_vs_nifty500_pp": 11.282
+  },
+  "Nifty Metal": {
+   "close_2026-11-13": 12647.9,
+   "index_date": "13-11-2026",
+   "pe": "14.96",
+   "pb": "2.69",
+   "ret_1w_5s_pct": -0.239,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 12678.15
+   },
+   "ret_1m_21s_pct": 4.63,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 12088.25
+   },
+   "ret_3m_63s_pct": -2.96,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 13033.75
+   },
+   "rs_1w_5s_vs_nifty500_pp": -1.421,
+   "rs_1m_21s_vs_nifty500_pp": -2.813,
+   "rs_3m_63s_vs_nifty500_pp": -3.282
+  },
+  "Nifty Pharma": {
+   "close_2026-11-13": 28535.75,
+   "index_date": "13-11-2026",
+   "pe": "45.79",
+   "pb": "5.37",
+   "ret_1w_5s_pct": 2.131,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 27940.4
+   },
+   "ret_1m_21s_pct": 9.437,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 26075.0
+   },
+   "ret_3m_63s_pct": 6.928,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 26686.8
+   },
+   "rs_1w_5s_vs_nifty500_pp": 0.949,
+   "rs_1m_21s_vs_nifty500_pp": 1.994,
+   "rs_3m_63s_vs_nifty500_pp": 6.606
+  },
+  "Nifty PSU Bank": {
+   "close_2026-11-13": 9258.6,
+   "index_date": "13-11-2026",
+   "pe": "7.93",
+   "pb": "1.28",
+   "ret_1w_5s_pct": 7.497,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 8612.9
+   },
+   "ret_1m_21s_pct": 13.651,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 8146.55
+   },
+   "ret_3m_63s_pct": 5.344,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 8788.95
+   },
+   "rs_1w_5s_vs_nifty500_pp": 6.315,
+   "rs_1m_21s_vs_nifty500_pp": 6.208,
+   "rs_3m_63s_vs_nifty500_pp": 5.022
+  },
+  "Nifty Private Bank": {
+   "close_2026-11-13": 29977.95,
+   "index_date": "13-11-2026",
+   "pe": "17.18",
+   "pb": "2.15",
+   "ret_1w_5s_pct": 1.608,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 29503.4
+   },
+   "ret_1m_21s_pct": 9.711,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 27324.35
+   },
+   "ret_3m_63s_pct": 9.968,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 27260.55
+   },
+   "rs_1w_5s_vs_nifty500_pp": 0.426,
+   "rs_1m_21s_vs_nifty500_pp": 2.268,
+   "rs_3m_63s_vs_nifty500_pp": 9.646
+  },
+  "Nifty Realty": {
+   "close_2026-11-13": 921.25,
+   "index_date": "13-11-2026",
+   "pe": "38.7",
+   "pb": "4.02",
+   "ret_1w_5s_pct": 2.738,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 896.7
+   },
+   "ret_1m_21s_pct": 11.001,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 829.95
+   },
+   "ret_3m_63s_pct": 2.543,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 898.4
+   },
+   "rs_1w_5s_vs_nifty500_pp": 1.556,
+   "rs_1m_21s_vs_nifty500_pp": 3.558,
+   "rs_3m_63s_vs_nifty500_pp": 2.221
+  },
+  "Nifty Healthcare Index": {
+   "close_2026-11-13": 17233.05,
+   "index_date": "13-11-2026",
+   "pe": "46.44",
+   "pb": "5.69",
+   "ret_1w_5s_pct": 1.783,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 16931.2
+   },
+   "ret_1m_21s_pct": 8.653,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 15860.65
+   },
+   "ret_3m_63s_pct": 3.927,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 16581.85
+   },
+   "rs_1w_5s_vs_nifty500_pp": 0.601,
+   "rs_1m_21s_vs_nifty500_pp": 1.21,
+   "rs_3m_63s_vs_nifty500_pp": 3.605
+  },
+  "Nifty Consumer Durables": {
+   "close_2026-11-13": 38438.5,
+   "index_date": "13-11-2026",
+   "pe": "58.63",
+   "pb": "9.9",
+   "ret_1w_5s_pct": 1.144,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 38003.6
+   },
+   "ret_1m_21s_pct": 5.321,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 36496.45
+   },
+   "ret_3m_63s_pct": -4.63,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 40304.8
+   },
+   "rs_1w_5s_vs_nifty500_pp": -0.038,
+   "rs_1m_21s_vs_nifty500_pp": -2.122,
+   "rs_3m_63s_vs_nifty500_pp": -4.952
+  },
+  "Nifty Oil & Gas": {
+   "close_2026-11-13": 11312.45,
+   "index_date": "13-11-2026",
+   "pe": "9.89",
+   "pb": "1.39",
+   "ret_1w_5s_pct": 0.216,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 11288.1
+   },
+   "ret_1m_21s_pct": 9.303,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 10349.6
+   },
+   "ret_3m_63s_pct": 0.532,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 11252.55
+   },
+   "rs_1w_5s_vs_nifty500_pp": -0.966,
+   "rs_1m_21s_vs_nifty500_pp": 1.86,
+   "rs_3m_63s_vs_nifty500_pp": 0.21
+  },
+  "Nifty Chemicals": {
+   "close_2026-11-13": 28443.0,
+   "index_date": "13-11-2026",
+   "pe": "41.54",
+   "pb": "3.75",
+   "ret_1w_5s_pct": 2.566,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 27731.5
+   },
+   "ret_1m_21s_pct": 0.295,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 28359.3
+   },
+   "ret_3m_63s_pct": -7.715,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 30820.75
+   },
+   "rs_1w_5s_vs_nifty500_pp": 1.384,
+   "rs_1m_21s_vs_nifty500_pp": -7.148,
+   "rs_3m_63s_vs_nifty500_pp": -8.037
+  },
+  "Nifty Energy": {
+   "close_2026-11-13": 37399.05,
+   "index_date": "13-11-2026",
+   "pe": "13.45",
+   "pb": "2.04",
+   "ret_1w_5s_pct": 1.442,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 36867.3
+   },
+   "ret_1m_21s_pct": 3.956,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 35975.9
+   },
+   "ret_3m_63s_pct": -3.337,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 38690.25
+   },
+   "rs_1w_5s_vs_nifty500_pp": 0.26,
+   "rs_1m_21s_vs_nifty500_pp": -3.487,
+   "rs_3m_63s_vs_nifty500_pp": -3.659
+  },
+  "Nifty Infrastructure": {
+   "close_2026-11-13": 9479.65,
+   "index_date": "13-11-2026",
+   "pe": "21.87",
+   "pb": "2.81",
+   "ret_1w_5s_pct": 0.348,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 9446.8
+   },
+   "ret_1m_21s_pct": 10.505,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 8578.5
+   },
+   "ret_3m_63s_pct": 0.921,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 9393.15
+   },
+   "rs_1w_5s_vs_nifty500_pp": -0.834,
+   "rs_1m_21s_vs_nifty500_pp": 3.062,
+   "rs_3m_63s_vs_nifty500_pp": 0.599
+  },
+  "Nifty Commodities": {
+   "close_2026-11-13": 9597.65,
+   "index_date": "13-11-2026",
+   "pe": "13.92",
+   "pb": "1.98",
+   "ret_1w_5s_pct": -1.033,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 9697.85
+   },
+   "ret_1m_21s_pct": 7.171,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 8955.45
+   },
+   "ret_3m_63s_pct": -2.839,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 9878.05
+   },
+   "rs_1w_5s_vs_nifty500_pp": -2.215,
+   "rs_1m_21s_vs_nifty500_pp": -0.272,
+   "rs_3m_63s_vs_nifty500_pp": -3.161
+  },
+  "Nifty India Consumption": {
+   "close_2026-11-13": 11965.9,
+   "index_date": "13-11-2026",
+   "pe": "38.71",
+   "pb": "7.18",
+   "ret_1w_5s_pct": 0.072,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 11957.25
+   },
+   "ret_1m_21s_pct": 9.292,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 10948.6
+   },
+   "ret_3m_63s_pct": -1.418,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 12138.0
+   },
+   "rs_1w_5s_vs_nifty500_pp": -1.11,
+   "rs_1m_21s_vs_nifty500_pp": 1.849,
+   "rs_3m_63s_vs_nifty500_pp": -1.74
+  },
+  "Nifty PSE": {
+   "close_2026-11-13": 9494.4,
+   "index_date": "13-11-2026",
+   "pe": "9.88",
+   "pb": "1.66",
+   "ret_1w_5s_pct": -0.387,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 9531.3
+   },
+   "ret_1m_21s_pct": 3.238,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 9196.6
+   },
+   "ret_3m_63s_pct": -4.048,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 9894.95
+   },
+   "rs_1w_5s_vs_nifty500_pp": -1.569,
+   "rs_1m_21s_vs_nifty500_pp": -4.205,
+   "rs_3m_63s_vs_nifty500_pp": -4.37
+  },
+  "Nifty CPSE": {
+   "close_2026-11-13": 6228.5,
+   "index_date": "13-11-2026",
+   "pe": "11.06",
+   "pb": "1.79",
+   "ret_1w_5s_pct": -0.413,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 6254.3
+   },
+   "ret_1m_21s_pct": 2.925,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 6051.5
+   },
+   "ret_3m_63s_pct": -4.174,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 6499.8
+   },
+   "rs_1w_5s_vs_nifty500_pp": -1.595,
+   "rs_1m_21s_vs_nifty500_pp": -4.518,
+   "rs_3m_63s_vs_nifty500_pp": -4.496
+  },
+  "Nifty MNC": {
+   "close_2026-11-13": 30598.35,
+   "index_date": "13-11-2026",
+   "pe": "34.54",
+   "pb": "7.09",
+   "ret_1w_5s_pct": 1.11,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 30262.35
+   },
+   "ret_1m_21s_pct": 2.578,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 29829.35
+   },
+   "ret_3m_63s_pct": -9.32,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 33743.4
+   },
+   "rs_1w_5s_vs_nifty500_pp": -0.072,
+   "rs_1m_21s_vs_nifty500_pp": -4.865,
+   "rs_3m_63s_vs_nifty500_pp": -9.642
+  },
+  "Nifty Services Sector": {
+   "close_2026-11-13": 32484.85,
+   "index_date": "13-11-2026",
+   "pe": "21.66",
+   "pb": "3.79",
+   "ret_1w_5s_pct": -0.392,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 32612.75
+   },
+   "ret_1m_21s_pct": 10.331,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 29443.0
+   },
+   "ret_3m_63s_pct": 4.447,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 31101.75
+   },
+   "rs_1w_5s_vs_nifty500_pp": -1.574,
+   "rs_1m_21s_vs_nifty500_pp": 2.888,
+   "rs_3m_63s_vs_nifty500_pp": 4.125
+  },
+  "Nifty Capital Markets": {
+   "close_2026-11-13": 5897.05,
+   "index_date": "13-11-2026",
+   "pe": "46.32",
+   "pb": "12.53",
+   "ret_1w_5s_pct": 3.854,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 5678.2
+   },
+   "ret_1m_21s_pct": 11.565,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 5285.75
+   },
+   "ret_3m_63s_pct": 10.258,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 5348.4
+   },
+   "rs_1w_5s_vs_nifty500_pp": 2.672,
+   "rs_1m_21s_vs_nifty500_pp": 4.122,
+   "rs_3m_63s_vs_nifty500_pp": 9.936
+  },
+  "Nifty India Defence": {
+   "close_2026-11-13": 9089.1,
+   "index_date": "13-11-2026",
+   "pe": "56",
+   "pb": "10.63",
+   "ret_1w_5s_pct": 1.788,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 8929.4
+   },
+   "ret_1m_21s_pct": -1.745,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 9250.5
+   },
+   "ret_3m_63s_pct": -7.356,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 9810.8
+   },
+   "rs_1w_5s_vs_nifty500_pp": 0.606,
+   "rs_1m_21s_vs_nifty500_pp": -9.188,
+   "rs_3m_63s_vs_nifty500_pp": -7.678
+  },
+  "Nifty Cement": {
+   "close_2026-11-13": 14270.35,
+   "index_date": "13-11-2026",
+   "pe": "32.51",
+   "pb": "2.06",
+   "ret_1w_5s_pct": -2.082,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 14573.75
+   },
+   "ret_1m_21s_pct": 6.481,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 13401.8
+   },
+   "ret_3m_63s_pct": -5.389,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 15083.25
+   },
+   "rs_1w_5s_vs_nifty500_pp": -3.264,
+   "rs_1m_21s_vs_nifty500_pp": -0.962,
+   "rs_3m_63s_vs_nifty500_pp": -5.711
+  },
+  "Nifty Financial Services Ex-Bank": {
+   "close_2026-11-13": 32444.1,
+   "index_date": "13-11-2026",
+   "pe": "20.91",
+   "pb": "3.96",
+   "ret_1w_5s_pct": 2.832,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 31550.5
+   },
+   "ret_1m_21s_pct": 7.598,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 30153.1
+   },
+   "ret_3m_63s_pct": -1.254,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 32856.25
+   },
+   "rs_1w_5s_vs_nifty500_pp": 1.65,
+   "rs_1m_21s_vs_nifty500_pp": 0.155,
+   "rs_3m_63s_vs_nifty500_pp": -1.576
+  },
+  "Nifty MidSmall Healthcare": {
+   "close_2026-11-13": 54190.9,
+   "index_date": "13-11-2026",
+   "pe": "46.65",
+   "pb": "5.72",
+   "ret_1w_5s_pct": 1.976,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 53140.8
+   },
+   "ret_1m_21s_pct": 8.391,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 49995.6
+   },
+   "ret_3m_63s_pct": 3.42,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 52399.1
+   },
+   "rs_1w_5s_vs_nifty500_pp": 0.794,
+   "rs_1m_21s_vs_nifty500_pp": 0.948,
+   "rs_3m_63s_vs_nifty500_pp": 3.098
+  },
+  "Nifty MidSmall Financial Services": {
+   "close_2026-11-13": 22350.9,
+   "index_date": "13-11-2026",
+   "pe": "19.43",
+   "pb": "2.7",
+   "ret_1w_5s_pct": 4.427,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 21403.45
+   },
+   "ret_1m_21s_pct": 4.633,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 21361.25
+   },
+   "ret_3m_63s_pct": -2.16,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 22844.45
+   },
+   "rs_1w_5s_vs_nifty500_pp": 3.245,
+   "rs_1m_21s_vs_nifty500_pp": -2.81,
+   "rs_3m_63s_vs_nifty500_pp": -2.482
+  },
+  "Nifty MidSmall IT & Telecom": {
+   "close_2026-11-13": 10142.95,
+   "index_date": "13-11-2026",
+   "pe": "29.65",
+   "pb": "5.7",
+   "ret_1w_5s_pct": -0.255,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 10168.85
+   },
+   "ret_1m_21s_pct": 0.102,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 10132.65
+   },
+   "ret_3m_63s_pct": 1.027,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 10039.8
+   },
+   "rs_1w_5s_vs_nifty500_pp": -1.437,
+   "rs_1m_21s_vs_nifty500_pp": -7.341,
+   "rs_3m_63s_vs_nifty500_pp": 0.705
+  },
+  "Nifty Midcap 150": {
+   "close_2026-11-13": 22681.25,
+   "index_date": "13-11-2026",
+   "pe": "28.17",
+   "pb": "3.97",
+   "ret_1w_5s_pct": 1.841,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 22271.15
+   },
+   "ret_1m_21s_pct": 3.902,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 21829.4
+   },
+   "ret_3m_63s_pct": -3.645,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 23539.35
+   },
+   "rs_1w_5s_vs_nifty500_pp": 0.659,
+   "rs_1m_21s_vs_nifty500_pp": -3.541,
+   "rs_3m_63s_vs_nifty500_pp": -3.967
+  },
+  "Nifty Smallcap 250": {
+   "close_2026-11-13": 17940.55,
+   "index_date": "13-11-2026",
+   "pe": "32.55",
+   "pb": "3.46",
+   "ret_1w_5s_pct": 3.189,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 17386.15
+   },
+   "ret_1m_21s_pct": 0.601,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 17833.45
+   },
+   "ret_3m_63s_pct": -2.316,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 18365.9
+   },
+   "rs_1w_5s_vs_nifty500_pp": 2.007,
+   "rs_1m_21s_vs_nifty500_pp": -6.842,
+   "rs_3m_63s_vs_nifty500_pp": -2.638
+  },
+  "Nifty Next 50": {
+   "close_2026-11-13": 72874.7,
+   "index_date": "13-11-2026",
+   "pe": "17.67",
+   "pb": "3.5",
+   "ret_1w_5s_pct": 1.698,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 71657.8
+   },
+   "ret_1m_21s_pct": 5.726,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 68927.95
+   },
+   "ret_3m_63s_pct": -2.478,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 74726.65
+   },
+   "rs_1w_5s_vs_nifty500_pp": 0.516,
+   "rs_1m_21s_vs_nifty500_pp": -1.717,
+   "rs_3m_63s_vs_nifty500_pp": -2.8
+  },
+  "Nifty 50": {
+   "close_2026-11-13": 25144.3,
+   "index_date": "13-11-2026",
+   "pe": "20.49",
+   "pb": "3.08",
+   "ret_1w_5s_pct": 0.455,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 25030.35
+   },
+   "ret_1m_21s_pct": 10.661,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 22721.95
+   },
+   "ret_3m_63s_pct": 3.068,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 24395.85
+   },
+   "rs_1w_5s_vs_nifty500_pp": -0.727,
+   "rs_1m_21s_vs_nifty500_pp": 3.218,
+   "rs_3m_63s_vs_nifty500_pp": 2.746
+  },
+  "Nifty 500": {
+   "close_2026-11-13": 23734.2,
+   "index_date": "13-11-2026",
+   "pe": "22.19",
+   "pb": "3.32",
+   "ret_1w_5s_pct": 1.182,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 23456.95
+   },
+   "ret_1m_21s_pct": 7.443,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 22090.0
+   },
+   "ret_3m_63s_pct": 0.322,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 23658.1
+   },
+   "rs_1w_5s_vs_nifty500_pp": 0.0,
+   "rs_1m_21s_vs_nifty500_pp": 0.0,
+   "rs_3m_63s_vs_nifty500_pp": 0.0
+  },
+  "Nifty India Manufacturing": {
+   "close_2026-11-13": 16049.45,
+   "index_date": "13-11-2026",
+   "pe": "26.5",
+   "pb": "4.06",
+   "ret_1w_5s_pct": 1.215,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 15856.8
+   },
+   "ret_1m_21s_pct": 5.939,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 15149.7
+   },
+   "ret_3m_63s_pct": -3.436,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 16620.6
+   },
+   "rs_1w_5s_vs_nifty500_pp": 0.033,
+   "rs_1m_21s_vs_nifty500_pp": -1.504,
+   "rs_3m_63s_vs_nifty500_pp": -3.758
+  },
+  "Nifty Transportation & Logistics": {
+   "close_2026-11-13": 26125.8,
+   "index_date": "13-11-2026",
+   "pe": "41.97",
+   "pb": "5.1",
+   "ret_1w_5s_pct": 0.392,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 26023.9
+   },
+   "ret_1m_21s_pct": 9.082,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 23950.6
+   },
+   "ret_3m_63s_pct": -2.421,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 26773.95
+   },
+   "rs_1w_5s_vs_nifty500_pp": -0.79,
+   "rs_1m_21s_vs_nifty500_pp": 1.639,
+   "rs_3m_63s_vs_nifty500_pp": -2.743
+  },
+  "Nifty India Digital": {
+   "close_2026-11-13": 8815.2,
+   "index_date": "13-11-2026",
+   "pe": "28.27",
+   "pb": "6.52",
+   "ret_1w_5s_pct": -0.194,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 8832.3
+   },
+   "ret_1m_21s_pct": 5.109,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 8386.7
+   },
+   "ret_3m_63s_pct": -0.138,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 8827.4
+   },
+   "rs_1w_5s_vs_nifty500_pp": -1.376,
+   "rs_1m_21s_vs_nifty500_pp": -2.334,
+   "rs_3m_63s_vs_nifty500_pp": -0.46
+  },
+  "Nifty Housing": {
+   "close_2026-11-13": 12062.85,
+   "index_date": "13-11-2026",
+   "pe": "19.84",
+   "pb": "2.71",
+   "ret_1w_5s_pct": 0.261,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 12031.45
+   },
+   "ret_1m_21s_pct": 9.058,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 11060.95
+   },
+   "ret_3m_63s_pct": 0.729,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 11975.5
+   },
+   "rs_1w_5s_vs_nifty500_pp": -0.921,
+   "rs_1m_21s_vs_nifty500_pp": 1.615,
+   "rs_3m_63s_vs_nifty500_pp": 0.407
+  },
+  "Nifty Core Housing": {
+   "close_2026-11-13": 15225.1,
+   "index_date": "13-11-2026",
+   "pe": "32.66",
+   "pb": "3.35",
+   "ret_1w_5s_pct": -0.178,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 15252.2
+   },
+   "ret_1m_21s_pct": 5.689,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 14405.6
+   },
+   "ret_3m_63s_pct": -4.488,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 15940.55
+   },
+   "rs_1w_5s_vs_nifty500_pp": -1.36,
+   "rs_1m_21s_vs_nifty500_pp": -1.754,
+   "rs_3m_63s_vs_nifty500_pp": -4.81
+  },
+  "Nifty Mobility": {
+   "close_2026-11-13": 23489.65,
+   "index_date": "13-11-2026",
+   "pe": "33.72",
+   "pb": "4.1",
+   "ret_1w_5s_pct": 0.17,
+   "base_1w_5s": {
+    "date": "2026-11-06",
+    "close": 23449.7
+   },
+   "ret_1m_21s_pct": 9.176,
+   "base_1m_21s": {
+    "date": "2026-10-13",
+    "close": 21515.45
+   },
+   "ret_3m_63s_pct": -1.811,
+   "base_3m_63s": {
+    "date": "2026-08-13",
+    "close": 23922.9
+   },
+   "rs_1w_5s_vs_nifty500_pp": -1.012,
+   "rs_1m_21s_vs_nifty500_pp": 1.733,
+   "rs_3m_63s_vs_nifty500_pp": -2.133
+  }
+ },
+ "rank_1m_rs": [
+  [
+   "Nifty PSU Bank",
+   6.208
+  ],
+  [
+   "Nifty Capital Markets",
+   4.122
+  ],
+  [
+   "Nifty Realty",
+   3.558
+  ],
+  [
+   "Nifty Infrastructure",
+   3.062
+  ],
+  [
+   "Nifty Financial Services",
+   2.97
+  ],
+  [
+   "Nifty Services Sector",
+   2.888
+  ],
+  [
+   "Nifty Bank",
+   2.566
+  ],
+  [
+   "Nifty Auto",
+   2.552
+  ],
+  [
+   "Nifty Private Bank",
+   2.268
+  ],
+  [
+   "Nifty Pharma",
+   1.994
+  ],
+  [
+   "Nifty Oil & Gas",
+   1.86
+  ],
+  [
+   "Nifty India Consumption",
+   1.849
+  ],
+  [
+   "Nifty Mobility",
+   1.733
+  ],
+  [
+   "Nifty Transportation & Logistics",
+   1.639
+  ],
+  [
+   "Nifty Housing",
+   1.615
+  ],
+  [
+   "Nifty Healthcare Index",
+   1.21
+  ],
+  [
+   "Nifty MidSmall Healthcare",
+   0.948
+  ],
+  [
+   "Nifty Media",
+   0.279
+  ],
+  [
+   "Nifty Financial Services Ex-Bank",
+   0.155
+  ],
+  [
+   "Nifty Commodities",
+   -0.272
+  ],
+  [
+   "Nifty IT",
+   -0.4
+  ],
+  [
+   "Nifty Cement",
+   -0.962
+  ],
+  [
+   "Nifty India Manufacturing",
+   -1.504
+  ],
+  [
+   "Nifty Core Housing",
+   -1.754
+  ],
+  [
+   "Nifty Consumer Durables",
+   -2.122
+  ],
+  [
+   "Nifty India Digital",
+   -2.334
+  ],
+  [
+   "Nifty FMCG",
+   -2.743
+  ],
+  [
+   "Nifty MidSmall Financial Services",
+   -2.81
+  ],
+  [
+   "Nifty Metal",
+   -2.813
+  ],
+  [
+   "Nifty Energy",
+   -3.487
+  ],
+  [
+   "Nifty PSE",
+   -4.205
+  ],
+  [
+   "Nifty CPSE",
+   -4.518
+  ],
+  [
+   "Nifty MNC",
+   -4.865
+  ],
+  [
+   "Nifty Chemicals",
+   -7.148
+  ],
+  [
+   "Nifty MidSmall IT & Telecom",
+   -7.341
+  ],
+  [
+   "Nifty India Defence",
+   -9.188
+  ]
+ ],
+ "rank_3m_rs": [
+  [
+   "Nifty Media",
+   11.282
+  ],
+  [
+   "Nifty Capital Markets",
+   9.936
+  ],
+  [
+   "Nifty Private Bank",
+   9.646
+  ],
+  [
+   "Nifty Pharma",
+   6.606
+  ],
+  [
+   "Nifty Bank",
+   5.575
+  ],
+  [
+   "Nifty Financial Services",
+   5.48
+  ],
+  [
+   "Nifty PSU Bank",
+   5.022
+  ],
+  [
+   "Nifty Services Sector",
+   4.125
+  ],
+  [
+   "Nifty Healthcare Index",
+   3.605
+  ],
+  [
+   "Nifty MidSmall Healthcare",
+   3.098
+  ],
+  [
+   "Nifty Realty",
+   2.221
+  ],
+  [
+   "Nifty IT",
+   1.195
+  ],
+  [
+   "Nifty MidSmall IT & Telecom",
+   0.705
+  ],
+  [
+   "Nifty Infrastructure",
+   0.599
+  ],
+  [
+   "Nifty Housing",
+   0.407
+  ],
+  [
+   "Nifty Oil & Gas",
+   0.21
+  ],
+  [
+   "Nifty India Digital",
+   -0.46
+  ],
+  [
+   "Nifty Financial Services Ex-Bank",
+   -1.576
+  ],
+  [
+   "Nifty India Consumption",
+   -1.74
+  ],
+  [
+   "Nifty Mobility",
+   -2.133
+  ],
+  [
+   "Nifty MidSmall Financial Services",
+   -2.482
+  ],
+  [
+   "Nifty Transportation & Logistics",
+   -2.743
+  ],
+  [
+   "Nifty Commodities",
+   -3.161
+  ],
+  [
+   "Nifty Metal",
+   -3.282
+  ],
+  [
+   "Nifty Energy",
+   -3.659
+  ],
+  [
+   "Nifty India Manufacturing",
+   -3.758
+  ],
+  [
+   "Nifty PSE",
+   -4.37
+  ],
+  [
+   "Nifty FMCG",
+   -4.425
+  ],
+  [
+   "Nifty CPSE",
+   -4.496
+  ],
+  [
+   "Nifty Core Housing",
+   -4.81
+  ],
+  [
+   "Nifty Consumer Durables",
+   -4.952
+  ],
+  [
+   "Nifty Auto",
+   -5.297
+  ],
+  [
+   "Nifty Cement",
+   -5.711
+  ],
+  [
+   "Nifty India Defence",
+   -7.678
+  ],
+  [
+   "Nifty Chemicals",
+   -8.037
+  ],
+  [
+   "Nifty MNC",
+   -9.642
+  ]
+ ]
+}
