@@ -848,3 +848,65 @@ details table {
 details td.num {
   white-space: nowrap;
 }
+
+/* Added 16 Nov 2026: closed-position card (settled trade) and regime qualifier text. */
+.position-card.is-closed {
+  border-color: var(--border);
+  border-style: dashed;
+  background: #0d1318;
+}
+
+.badge-closed {
+  color: var(--risk-on);
+  background: transparent;
+  border-color: color-mix(in srgb, var(--risk-on) 55%, var(--border));
+}
+
+.regime-note {
+  align-self: center;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.position-card h4 + .table-wrap,
+.position-card .table-wrap + ul {
+  margin-top: 0.5rem;
+}
+
+.watch-card table {
+  overflow-wrap: normal;
+}
+
+.watch-card td.num {
+  white-space: nowrap;
+}
+
+.table-shortlist thead th {
+  white-space: normal;
+  vertical-align: bottom;
+}
+
+.table-shortlist td.num {
+  white-space: nowrap;
+}
+
+/* Two-column Item/Value tables wrap instead of scrolling on narrow screens. */
+table.table-kv {
+  min-width: 0;
+}
+
+table.table-kv td:first-child {
+  width: 1%;
+  white-space: nowrap;
+  color: var(--muted);
+}
+
+/* No-trade banner in a non-RISK-OFF tape: neutral, so red stays reserved for regime/direction. */
+.banner-none {
+  border-color: color-mix(in srgb, var(--web) 55%, var(--border));
+  background: color-mix(in srgb, var(--web) 10%, var(--bg-elev));
+}
+
+.banner-none h2 {
+  color: var(--text);
+}
